@@ -1,28 +1,50 @@
 ---
+import { Image } from "astro:assets";
+
 import Layout from "../layouts/Layout.astro";
+import myImage from "../assets/myself.jpg";
 ---
 
 <Layout title="Elzara Oiseau">
-  <main class="intro">
-    <p>
-      elzaraoiseau@gmail.com
+  <main class="main">
+    <p class="intro">
+      <span>elzaraoiseau [at] gmail [dot] com</span>
       <br />
-      +41 79 577 38 69
+      <span>+79 577 38 69</span>
       <br />
-      +3 8 095 659 99 10 (WhatsApp)
+      <span>+380 956 59 99 10 (WhatsApp)</span>
       <br />
-      @elzara_oiseau
+      <a href="https://www.instagram.com/elzara_oiseau/">@elzara_oiseau</a>
     </p>
+    <Image class="myself" src={myImage} alt="" />
   </main>
-</Layout>
 
-<style>
-  .intro {
-    line-height: 1.5;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    min-height: 100vh;
-    margin-inline-start: 48px;
-  }
-</style>
+  <style>
+    .main {
+      line-height: 1.5;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      min-height: 100vh;
+      gap: 48px;
+      padding: 24px;
+      box-sizing: border-box;
+    }
+
+    .main a {
+      color: inherit;
+      border-bottom: 1px dotted #000;
+      text-decoration: none;
+    }
+
+    .intro {
+      flex-shrink: 0;
+    }
+
+    .myself {
+      width: 400px;
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</Layout>
