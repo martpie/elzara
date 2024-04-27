@@ -1,27 +1,51 @@
 ---
-import { Image } from "astro:assets";
+import desertsong from "../assets/artwork/desertsong.jpg";
+import fragility from "../assets/artwork/fragility.jpg";
+import module61 from "../assets/artwork/module61.jpg";
+import myself from "../assets/myself.jpg";
 
+import { Image } from "astro:assets";
+import HomeProject from "../components/HomeProject.astro";
 import Layout from "../layouts/Layout.astro";
-import myImage from "../assets/myself.jpg";
 ---
 
 <Layout title="Elzara Oiseau">
   <main class="main">
     <p class="intro">
+      <Image
+        class="portrait"
+        src={myself}
+        alt="A portrait of Elzara Oiseau"
+        width="200"
+      />
       <span>elzaraoiseau [at] gmail [dot] com</span>
-      <br />
-      <span>+79 577 38 69</span>
-      <br />
-      <span>+380 956 59 99 10 (WhatsApp)</span>
-      <br />
-      <a href="https://www.instagram.com/elzara_oiseau/">@elzara_oiseau</a>
+      <a href="https://www.instagram.com/elzara_oiseau/" target="_blank"
+        >@elzara_oiseau</a
+      >
     </p>
-    <Image class="myself" src={myImage} alt="" />
+    <div class="projects">
+      <HomeProject
+        name="Desert Song"
+        date="November 2023"
+        images={[module61, desertsong]}
+      >
+        Painting and wire installation for solo exhibition <em>Jazz Lines</em>
+      </HomeProject>
+      <HomeProject
+        name="Fragility"
+        date="March-April 2023"
+        images={[fragility]}
+      >
+        12 meters wall painting for <a
+          href="https://wasch-raum.ch/"
+          target="_blank">Waschraum</a
+        >
+      </HomeProject>
+    </div>
   </main>
 
   <style>
     .main {
-      line-height: 1.5;
       display: flex;
       flex-wrap: wrap;
       align-items: center;
@@ -33,18 +57,29 @@ import myImage from "../assets/myself.jpg";
 
     .main a {
       color: inherit;
-      border-bottom: 1px dotted #000;
+      border-bottom: 1px dotted white;
       text-decoration: none;
     }
 
     .intro {
       flex-shrink: 0;
+      display: flex;
+      gap: 8px;
+      flex-direction: column;
+      align-items: start;
     }
 
-    .myself {
-      width: 400px;
-      max-width: 100%;
+    .portrait {
+      width: 100px;
       height: auto;
+      display: block;
+      margin-bottom: 8px;
+    }
+
+    .projects {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 48px;
     }
   </style>
 </Layout>

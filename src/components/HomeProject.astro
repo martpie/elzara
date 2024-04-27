@@ -1,0 +1,54 @@
+---
+import { Image } from "astro:assets";
+import type { ImageMetadata } from "astro";
+
+interface Props {
+  images: Array<ImageMetadata>;
+  name: string;
+  date: string;
+}
+
+const { images, name, date } = Astro.props;
+---
+
+<div class="home-project">
+  <div class="images">
+    {
+      images.map((image) => (
+        <Image class="image" src={image} alt="" width="400" />
+      ))
+    }
+  </div>
+
+  <h3 class="title">{name}</h3>
+  <date class="date">{date}</date>
+  <p>
+    <slot />
+  </p>
+</div>
+
+<style>
+  .home-project {
+    max-width: 100%;
+  }
+
+  .images {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .image {
+    height: 250px;
+    width: auto;
+    max-width: 100%;
+  }
+
+  .title {
+    margin-bottom: 4px;
+  }
+
+  .date {
+    font-size: 0.875rem;
+    color: #aaa;
+  }
+</style>
