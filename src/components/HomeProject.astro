@@ -6,9 +6,10 @@ interface Props {
   images: Array<ImageMetadata>;
   name: string;
   date: string;
+  notice?: string;
 }
 
-const { images, name, date } = Astro.props;
+const { images, name, date, notice } = Astro.props;
 ---
 
 <div class="home-project">
@@ -20,7 +21,10 @@ const { images, name, date } = Astro.props;
     }
   </div>
 
-  <h3 class="title">{name}</h3>
+  <div class="headline">
+    <h3 class="title">{name}</h3>
+    <span class="notice">{notice}</span>
+  </div>
   <date class="date">{date}</date>
   <p>
     <slot />
@@ -50,5 +54,16 @@ const { images, name, date } = Astro.props;
   .date {
     font-size: 0.875rem;
     color: #aaa;
+  }
+
+  .headline {
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+  }
+
+  .notice {
+    color: #e3054e;
+    font-weight: 800;
   }
 </style>
