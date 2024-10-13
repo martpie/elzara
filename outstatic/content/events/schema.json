@@ -11,7 +11,7 @@
     },
     "notice": {
       "required": false,
-      "description": "Little notice to add on certain events, like ",
+      "description": "Little notice to add on certain events, like \"upcoming\"",
       "fieldType": "String",
       "dataType": "string",
       "title": "Notice"
