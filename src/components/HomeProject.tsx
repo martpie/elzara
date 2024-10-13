@@ -12,7 +12,6 @@ type Props = {
 };
 
 export default function HomeProject(props: Props) {
-  console.log("content", props.content);
   return (
     <div className={styles.homeProject}>
       <div className={styles.images}>
