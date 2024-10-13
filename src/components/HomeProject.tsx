@@ -1,7 +1,7 @@
-import Image from "next/image";
-import React from "react";
+import Image from 'next/image';
+import React from 'react';
 
-import styles from "./HomeProject.module.css";
+import styles from './HomeProject.module.css';
 
 type Props = {
   name: string;
@@ -17,13 +17,13 @@ export default function HomeProject(props: Props) {
       <div className={styles.images}>
         {props.image !== undefined && (
           <Image
-          priority
-          className={styles.image}
-          src={props.image}
-          alt=""
-          width="500" // FIXME
-          height="500"
-        />
+            priority
+            className={styles.image}
+            src={props.image}
+            alt=""
+            width="500" // FIXME
+            height="500"
+          />
         )}
       </div>
 
@@ -32,6 +32,7 @@ export default function HomeProject(props: Props) {
         <span className={styles.notice}>{props.notice}</span>
       </div>
       <time className={styles.date}>{props.date}</time>
+      {/** biome-ignore lint/security/noDangerouslySetInnerHtml: trust me bro */}
       <div dangerouslySetInnerHTML={{ __html: props.content }} />
     </div>
   );

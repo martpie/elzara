@@ -1,9 +1,9 @@
-import { getDocuments } from "outstatic/server";
+import { getDocuments } from 'outstatic/server';
 import { remark } from 'remark';
 import html from 'remark-html';
 
-import HomeProject from "../components/HomeProject";
-import styles from "./page.module.css";
+import HomeProject from '../components/HomeProject';
+import styles from './page.module.css';
 
 const remarkInstance = remark().use(html);
 
@@ -38,15 +38,15 @@ export default async function Home() {
         </div>
 
         <div className={styles.pastProjects}>
-          {...otherProjects.map(project => (
+          {otherProjects.map((project) => (
             <HomeProject
-            key={project.slug}
-            name={project.title}
-            date={project.date}
-            image={project.coverImage}
-            content={project.content}
-            notice={project.notice}
-          />
+              key={project.slug}
+              name={project.title}
+              date={project.date}
+              image={project.coverImage}
+              content={project.content}
+              notice={project.notice}
+            />
           ))}
         </div>
       </div>
@@ -55,16 +55,16 @@ export default async function Home() {
 }
 
 async function getData() {
-  const events = getDocuments("events", [
-    "slug",
-    "title",
-    "content",
-    "date",
-    "coverImage",
-    "notice"
+  const events = getDocuments('events', [
+    'slug',
+    'title',
+    'content',
+    'date',
+    'coverImage',
+    'notice',
   ]);
 
-  return events.map(event => ({
+  return events.map((event) => ({
     ...event,
     content: remarkInstance.processSync(event.content).toString(),
     date: event.date as string, // FIXME
