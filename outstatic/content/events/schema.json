@@ -8,6 +8,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Date"
+    },
+    "notice": {
+      "required": false,
+      "description": "Little notice to add on certain events, like ",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Notice"
     }
   }
 }
