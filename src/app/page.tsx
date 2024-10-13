@@ -33,6 +33,7 @@ export default async function Home() {
             date={highlightedProject.date}
             image={highlightedProject.coverImage}
             content={highlightedProject.content}
+            notice={highlightedProject.notice}
           />
         </div>
 
@@ -44,6 +45,7 @@ export default async function Home() {
             date={project.date}
             image={project.coverImage}
             content={project.content}
+            notice={project.notice}
           />
           ))}
         </div>
@@ -59,11 +61,13 @@ async function getData() {
     "content",
     "date",
     "coverImage",
+    "notice"
   ]);
 
   return events.map(event => ({
     ...event,
     content: remarkInstance.processSync(event.content).toString(),
-    date: event.date as string // FIXME
+    date: event.date as string, // FIXME
+    notice: event.notice as string | undefined, // FIXME
   }));
 }
