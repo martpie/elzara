@@ -1,0 +1,34 @@
+.homeProject {
+  max-width: 100%;
+}
+
+.images {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image {
+  height: 250px;
+  width: auto;
+  max-width: 100%;
+}
+
+.title {
+  margin-bottom: 4px;
+}
+
+.date {
+  font-size: 0.875rem;
+  color: #aaa;
+}
+
+.headline {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.notice {
+  color: #e3054e;
+  font-weight: 800;
+}
