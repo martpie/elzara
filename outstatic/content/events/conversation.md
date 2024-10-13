@@ -12,4 +12,4 @@ notice: ''
 publishedAt: '2024-10-13T11:55:31.923Z'
 ---
 
-Site-specific installation for [Waschraum 2024????](https://wasch-raum.ch/elzara-oiseau/)
+Site-specific installation for [Waschraum 2024??](https://wasch-raum.ch/elzara-oiseau/)
