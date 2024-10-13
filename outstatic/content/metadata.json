@@ -1,6 +1,6 @@
 {
-  "commit": "2e5bfe50525d3ff9327ac1be4c18055d009efd77",
-  "generated": "Sun, 13 Oct 2024 17:01:42 GMT",
+  "commit": "3d24ff02b69d5db2dd6e583ddaf8975f96caafb6",
+  "generated": "2024-10-13T16:02:59.082Z",
   "metadata": [
     {
       "__outstatic": {
@@ -42,8 +42,8 @@
     },
     {
       "__outstatic": {
-        "commit": "b9283d9079be823fbdc47fe59c44b9d5449e6f81",
-        "hash": "955510224",
+        "commit": "3d24ff02b69d5db2dd6e583ddaf8975f96caafb6",
+        "hash": "453821333",
         "path": "outstatic/content/events/conversation.md"
       },
       "author": {
