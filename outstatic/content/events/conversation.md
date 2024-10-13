@@ -8,7 +8,7 @@ slug: 'conversation'
 description: ''
 coverImage: '/images/conversation-k1MD.jpg'
 date: 'June 28th - July 14th 2024'
-notice: 'Upcoming!!!'
+notice: ''
 publishedAt: '2024-10-13T11:55:31.923Z'
 ---
 
