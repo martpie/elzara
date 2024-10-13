@@ -26,7 +26,7 @@ export default async function Home() {
         </p>
       </div>
 
-      <div className={styles.project}>
+      <div className={styles.projects}>
         <div className={styles.projectHighlight}>
           <HomeProject
             name={highlightedProject.title}
@@ -35,18 +35,18 @@ export default async function Home() {
             content={highlightedProject.content}
           />
         </div>
-      </div>
 
-      <div className={styles.pastProjects}>
-        {...otherProjects.map(project => (
-          <HomeProject
-          key={project.slug}
-          name={project.title}
-          date={project.date}
-          image={project.coverImage}
-          content={project.content}
-        />
-        ))}
+        <div className={styles.pastProjects}>
+          {...otherProjects.map(project => (
+            <HomeProject
+            key={project.slug}
+            name={project.title}
+            date={project.date}
+            image={project.coverImage}
+            content={project.content}
+          />
+          ))}
+        </div>
       </div>
     </main>
   );
