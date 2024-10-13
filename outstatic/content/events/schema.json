@@ -1,0 +1,13 @@
+{
+  "title": "events",
+  "type": "object",
+  "properties": {
+    "date": {
+      "required": true,
+      "description": "The date or dates of the event",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Date"
+    }
+  }
+}
