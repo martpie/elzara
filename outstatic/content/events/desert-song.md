@@ -8,7 +8,8 @@ slug: 'desert-song'
 description: ''
 coverImage: '/images/module61-M3NT.jpg'
 date: 'November 2023'
+notice: ''
 publishedAt: '2024-10-13T11:48:22.963Z'
 ---
 
-Painting and wire installation for solo exhibition *Jazz Lines*
+Painting and wire installation for solo exhibition Jazz Lines
