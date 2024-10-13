@@ -1,0 +1,64 @@
+{
+  "commit": "9ff99d025b3315c0688894f396a8a001ab772304",
+  "generated": "Sun, 13 Oct 2024 12:07:38 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "e99d016e0dc9e238aff090bf5ec60b98c336b728",
+        "hash": "138584603",
+        "path": "outstatic/content/events/desert-song.md"
+      },
+      "author": {
+        "name": "Pierre de la Martinière",
+        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/module61-M3NT.jpg",
+      "date": "November 2023",
+      "description": "",
+      "publishedAt": "2024-10-13T11:48:22.963Z",
+      "slug": "desert-song",
+      "status": "published",
+      "title": "Desert Song"
+    },
+    {
+      "__outstatic": {
+        "commit": "4b9132983061ffea50abec2d44aeb01221d5ae05",
+        "hash": "1367243845",
+        "path": "outstatic/content/events/fragility.md"
+      },
+      "author": {
+        "name": "Pierre de la Martinière",
+        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/fragility-UzMz.jpg",
+      "date": "March-April 2023",
+      "description": "",
+      "publishedAt": "2024-10-13T10:45:01.865Z",
+      "slug": "fragility",
+      "status": "published",
+      "title": "Fragility"
+    },
+    {
+      "__outstatic": {
+        "commit": "673a6790acbc9aa6863a35dd18f428ebcf0f0a64",
+        "hash": "453821333",
+        "path": "outstatic/content/events/conversation.md"
+      },
+      "author": {
+        "name": "Pierre de la Martinière",
+        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/conversation-k1MD.jpg",
+      "date": "June 28th - July 14th 2024",
+      "description": "",
+      "notice": "",
+      "publishedAt": "2024-10-13T11:55:31.923Z",
+      "slug": "conversation",
+      "status": "published",
+      "title": "Conversation"
+    }
+  ]
+}
