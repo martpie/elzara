@@ -1,9 +1,10 @@
-import { getDocuments } from 'outstatic/server';
-import { remark } from 'remark';
-import html from 'remark-html';
+import { getDocuments } from "outstatic/server";
+import { remark } from "remark";
+import html from "remark-html";
+import Link from "next/link";
 
-import HomeProject from '../components/HomeProject';
-import styles from './page.module.css';
+import HomeProject from "../components/HomeProject";
+import styles from "./page.module.css";
 
 const remarkInstance = remark().use(html);
 
@@ -16,13 +17,18 @@ export default async function Home() {
         <p>
           <span>elzaraoiseau [at] gmail [dot] com</span>
           <br />
-          <a
+          <Link
             href="https://www.instagram.com/elzara_oiseau/"
             target="_blank"
             rel="noreferrer"
           >
             @elzara_oiseau
-          </a>
+          </Link>
+        </p>
+        <p>
+          <Link href="/portfolio.pdf" target="_blank" rel="noreferrer">
+            Portfolio
+          </Link>
         </p>
       </div>
 
@@ -55,13 +61,13 @@ export default async function Home() {
 }
 
 async function getData() {
-  const events = getDocuments('events', [
-    'slug',
-    'title',
-    'content',
-    'date',
-    'coverImage',
-    'notice',
+  const events = getDocuments("events", [
+    "slug",
+    "title",
+    "content",
+    "date",
+    "coverImage",
+    "notice",
   ]);
 
   return events.map((event) => ({
