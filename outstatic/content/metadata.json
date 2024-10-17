@@ -1,6 +1,6 @@
 {
-  "commit": "21850af0aefc4e08693ce63be56ab5b9bcc65b6c",
-  "generated": "2024-10-17T19:17:17.036Z",
+  "commit": "4358ee5deb5eab939e00b4e6228b761b7f87c0f7",
+  "generated": "2024-10-17T19:17:33.849Z",
   "metadata": [
     {
       "__outstatic": {
@@ -24,26 +24,6 @@
     },
     {
       "__outstatic": {
-        "commit": "e343a5e46c8bb4e84ea757b1728790eb77762765",
-        "hash": "441807203",
-        "path": "outstatic/content/events/desert-song.md"
-      },
-      "author": {
-        "name": "Pierre de la Martinière",
-        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/module61-M3NT.jpg",
-      "date": "November 2023",
-      "description": "",
-      "notice": "",
-      "publishedAt": "2024-10-13T11:48:22.963Z",
-      "slug": "desert-song",
-      "status": "published",
-      "title": "Desert Song"
-    },
-    {
-      "__outstatic": {
         "commit": "21850af0aefc4e08693ce63be56ab5b9bcc65b6c",
         "hash": "3098066451",
         "path": "outstatic/content/events/fragility.md"
@@ -61,6 +41,26 @@
       "slug": "fragility",
       "status": "published",
       "title": "Fragility"
+    },
+    {
+      "__outstatic": {
+        "commit": "4358ee5deb5eab939e00b4e6228b761b7f87c0f7",
+        "hash": "2617214380",
+        "path": "outstatic/content/events/desert-song.md"
+      },
+      "author": {
+        "name": "Pierre de la Martinière",
+        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/module61-M3NT.jpg",
+      "date": "November 2023",
+      "description": "",
+      "notice": "",
+      "publishedAt": "2024-11-01T12:48:22.000Z",
+      "slug": "desert-song",
+      "status": "published",
+      "title": "Desert Song"
     }
   ]
 }
