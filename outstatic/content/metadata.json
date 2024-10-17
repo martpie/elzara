@@ -1,6 +1,6 @@
 {
-  "commit": "b947e0719857c8feb5d3f22204e2a69b54ca74d6",
-  "generated": "2024-10-17T21:21:30.826Z",
+  "commit": "9bb362dee3365629fea7f5325d282747176e2930",
+  "generated": "2024-10-17T21:21:49.093Z",
   "metadata": [
     {
       "__outstatic": {
@@ -24,26 +24,6 @@
     },
     {
       "__outstatic": {
-        "commit": "59b200c96e4f67d6985ca5f765f5c8dcda4d7173",
-        "hash": "3568975969",
-        "path": "outstatic/content/events/desert-song.md"
-      },
-      "author": {
-        "name": "Pierre de la Martinière",
-        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/module61-M3NT.jpg",
-      "date": "November 2023",
-      "description": "",
-      "notice": "",
-      "publishedAt": "2023-11-01T12:48:22.000Z",
-      "slug": "desert-song",
-      "status": "published",
-      "title": "Desert Song"
-    },
-    {
-      "__outstatic": {
         "commit": "b947e0719857c8feb5d3f22204e2a69b54ca74d6",
         "hash": "3180220763",
         "path": "outstatic/content/events/conversation.md"
@@ -62,6 +42,27 @@
       "slug": "conversation",
       "status": "published",
       "title": "Conversation"
+    },
+    {
+      "__outstatic": {
+        "commit": "9bb362dee3365629fea7f5325d282747176e2930",
+        "hash": "2154293742",
+        "path": "outstatic/content/events/desert-song.md"
+      },
+      "author": {
+        "name": "Pierre de la Martinière",
+        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/module61-M3NT.jpg",
+      "date": "November 2023",
+      "description": "",
+      "excerpt": "Painting and wire installation for solo exhibition Jazz Lines",
+      "notice": "",
+      "publishedAt": "2023-11-01T12:48:22.000Z",
+      "slug": "desert-song",
+      "status": "published",
+      "title": "Desert Song"
     }
   ]
 }

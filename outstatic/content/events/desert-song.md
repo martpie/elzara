@@ -9,6 +9,7 @@ description: ''
 coverImage: '/images/module61-M3NT.jpg'
 date: 'November 2023'
 notice: ''
+excerpt: 'Painting and wire installation for solo exhibition Jazz Lines'
 publishedAt: '2023-11-01T12:48:22.000Z'
 ---
 
