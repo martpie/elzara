@@ -1,44 +1,20 @@
 import { getDocuments } from "outstatic/server";
-import { remark } from "remark";
-import html from "remark-html";
-import Link from "next/link";
 
 import HomeProject from "../components/HomeProject";
 import styles from "./page.module.css";
-
-const remarkInstance = remark().use(html);
 
 export default async function Home() {
   const [highlightedProject, ...otherProjects] = await getData();
 
   return (
     <main className={styles.main}>
-      <div className={styles.intro}>
-        <p>
-          <span>elzaraoiseau [at] gmail [dot] com</span>
-          <br />
-          <Link
-            href="https://www.instagram.com/elzara_oiseau/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            @elzara_oiseau
-          </Link>
-        </p>
-        <p>
-          <Link href="/portfolio.pdf" target="_blank" rel="noreferrer">
-            Portfolio
-          </Link>
-        </p>
-      </div>
-
       <div className={styles.projects}>
         <div className={styles.projectHighlight}>
           <HomeProject
             name={highlightedProject.title}
             date={highlightedProject.date}
             image={highlightedProject.coverImage}
-            content={highlightedProject.content}
+            excerpt={highlightedProject.excerpt}
             notice={highlightedProject.notice}
           />
         </div>
@@ -50,7 +26,7 @@ export default async function Home() {
               name={project.title}
               date={project.date}
               image={project.coverImage}
-              content={project.content}
+              excerpt={project.excerpt}
               notice={project.notice}
             />
           ))}
@@ -68,12 +44,13 @@ async function getData() {
     "date",
     "coverImage",
     "notice",
+    "excerpt",
   ]);
 
   return events.map((event) => ({
     ...event,
-    content: remarkInstance.processSync(event.content).toString(),
     date: event.date as string, // FIXME
+    excerpt: event.excerpt as string, // FIXME
     notice: event.notice as string | undefined, // FIXME
   }));
 }
