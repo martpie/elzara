@@ -1,6 +1,6 @@
 import { getDocuments } from "outstatic/server";
 
-import HomeProject from "../components/HomeProject";
+import HomeProject from "../../components/HomeProject";
 import styles from "./page.module.css";
 
 export default async function Home() {
