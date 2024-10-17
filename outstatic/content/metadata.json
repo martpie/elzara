@@ -1,6 +1,6 @@
 {
-  "commit": "59b200c96e4f67d6985ca5f765f5c8dcda4d7173",
-  "generated": "2024-10-17T19:18:48.556Z",
+  "commit": "b947e0719857c8feb5d3f22204e2a69b54ca74d6",
+  "generated": "2024-10-17T21:21:30.826Z",
   "metadata": [
     {
       "__outstatic": {
@@ -24,26 +24,6 @@
     },
     {
       "__outstatic": {
-        "commit": "65418c5c60383ddd50b2d8e01524af3c04ddceeb",
-        "hash": "802180717",
-        "path": "outstatic/content/events/conversation.md"
-      },
-      "author": {
-        "name": "Pierre de la Martinière",
-        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/conversation-k1MD.jpg",
-      "date": "June 28th - July 14th 2024",
-      "description": "",
-      "notice": "",
-      "publishedAt": "2024-06-28T11:55:31.000Z",
-      "slug": "conversation",
-      "status": "published",
-      "title": "Conversation"
-    },
-    {
-      "__outstatic": {
         "commit": "59b200c96e4f67d6985ca5f765f5c8dcda4d7173",
         "hash": "3568975969",
         "path": "outstatic/content/events/desert-song.md"
@@ -61,6 +41,27 @@
       "slug": "desert-song",
       "status": "published",
       "title": "Desert Song"
+    },
+    {
+      "__outstatic": {
+        "commit": "b947e0719857c8feb5d3f22204e2a69b54ca74d6",
+        "hash": "3180220763",
+        "path": "outstatic/content/events/conversation.md"
+      },
+      "author": {
+        "name": "Pierre de la Martinière",
+        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/conversation-k1MD.jpg",
+      "date": "June 28th - July 14th 2024",
+      "description": "",
+      "excerpt": "Site-specific installation for Waschraum 2024",
+      "notice": "",
+      "publishedAt": "2024-06-28T11:55:31.000Z",
+      "slug": "conversation",
+      "status": "published",
+      "title": "Conversation"
     }
   ]
 }

@@ -9,6 +9,7 @@ description: ''
 coverImage: '/images/conversation-k1MD.jpg'
 date: 'June 28th - July 14th 2024'
 notice: ''
+excerpt: 'Site-specific installation for Waschraum 2024'
 publishedAt: '2024-06-28T11:55:31.000Z'
 ---
 
