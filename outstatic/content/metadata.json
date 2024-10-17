@@ -1,6 +1,6 @@
 {
-  "commit": "65418c5c60383ddd50b2d8e01524af3c04ddceeb",
-  "generated": "2024-10-17T19:18:29.417Z",
+  "commit": "59b200c96e4f67d6985ca5f765f5c8dcda4d7173",
+  "generated": "2024-10-17T19:18:48.556Z",
   "metadata": [
     {
       "__outstatic": {
@@ -24,26 +24,6 @@
     },
     {
       "__outstatic": {
-        "commit": "4358ee5deb5eab939e00b4e6228b761b7f87c0f7",
-        "hash": "2617214380",
-        "path": "outstatic/content/events/desert-song.md"
-      },
-      "author": {
-        "name": "Pierre de la Martinière",
-        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/module61-M3NT.jpg",
-      "date": "November 2023",
-      "description": "",
-      "notice": "",
-      "publishedAt": "2024-11-01T12:48:22.000Z",
-      "slug": "desert-song",
-      "status": "published",
-      "title": "Desert Song"
-    },
-    {
-      "__outstatic": {
         "commit": "65418c5c60383ddd50b2d8e01524af3c04ddceeb",
         "hash": "802180717",
         "path": "outstatic/content/events/conversation.md"
@@ -61,6 +41,26 @@
       "slug": "conversation",
       "status": "published",
       "title": "Conversation"
+    },
+    {
+      "__outstatic": {
+        "commit": "59b200c96e4f67d6985ca5f765f5c8dcda4d7173",
+        "hash": "3568975969",
+        "path": "outstatic/content/events/desert-song.md"
+      },
+      "author": {
+        "name": "Pierre de la Martinière",
+        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/module61-M3NT.jpg",
+      "date": "November 2023",
+      "description": "",
+      "notice": "",
+      "publishedAt": "2023-11-01T12:48:22.000Z",
+      "slug": "desert-song",
+      "status": "published",
+      "title": "Desert Song"
     }
   ]
 }
