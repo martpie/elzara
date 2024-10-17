@@ -15,6 +15,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Notice"
+    },
+    "excerpt": {
+      "required": true,
+      "description": "Short event description shown on homepage",
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "Excerpt"
     }
   }
 }
