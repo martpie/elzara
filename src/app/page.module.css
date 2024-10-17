@@ -8,12 +8,6 @@
   box-sizing: border-box;
 }
 
-.main a {
-  color: inherit;
-  border-bottom: 1px dotted white;
-  text-decoration: none;
-}
-
 .intro {
   flex-shrink: 0;
   display: flex;
