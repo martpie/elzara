@@ -1,26 +1,7 @@
 {
-  "commit": "e343a5e46c8bb4e84ea757b1728790eb77762765",
-  "generated": "2024-10-13T16:08:38.915Z",
+  "commit": "21850af0aefc4e08693ce63be56ab5b9bcc65b6c",
+  "generated": "2024-10-17T19:17:17.036Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "4b9132983061ffea50abec2d44aeb01221d5ae05",
-        "hash": "1367243845",
-        "path": "outstatic/content/events/fragility.md"
-      },
-      "author": {
-        "name": "Pierre de la Martinière",
-        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/fragility-UzMz.jpg",
-      "date": "March-April 2023",
-      "description": "",
-      "publishedAt": "2024-10-13T10:45:01.865Z",
-      "slug": "fragility",
-      "status": "published",
-      "title": "Fragility"
-    },
     {
       "__outstatic": {
         "commit": "3d24ff02b69d5db2dd6e583ddaf8975f96caafb6",
@@ -60,6 +41,26 @@
       "slug": "desert-song",
       "status": "published",
       "title": "Desert Song"
+    },
+    {
+      "__outstatic": {
+        "commit": "21850af0aefc4e08693ce63be56ab5b9bcc65b6c",
+        "hash": "3098066451",
+        "path": "outstatic/content/events/fragility.md"
+      },
+      "author": {
+        "name": "Pierre de la Martinière",
+        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/fragility-UzMz.jpg",
+      "date": "March-April 2023",
+      "description": "",
+      "notice": "",
+      "publishedAt": "2023-03-01T11:45:01.000Z",
+      "slug": "fragility",
+      "status": "published",
+      "title": "Fragility"
     }
   ]
 }

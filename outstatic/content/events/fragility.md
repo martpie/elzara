@@ -8,7 +8,8 @@ slug: 'fragility'
 description: ''
 coverImage: '/images/fragility-UzMz.jpg'
 date: 'March-April 2023'
-publishedAt: '2024-10-13T10:45:01.865Z'
+notice: ''
+publishedAt: '2023-03-01T11:45:01.000Z'
 ---
 
 12 meters wall painting for [Waschraum](https://wasch-raum.ch/)
