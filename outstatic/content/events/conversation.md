@@ -9,7 +9,7 @@ description: ''
 coverImage: '/images/conversation-k1MD.jpg'
 date: 'June 28th - July 14th 2024'
 notice: ''
-publishedAt: '2024-10-13T11:55:31.923Z'
+publishedAt: '2024-06-28T11:55:31.000Z'
 ---
 
 Site-specific installation for [Waschraum 2024](https://wasch-raum.ch/elzara-oiseau/)
