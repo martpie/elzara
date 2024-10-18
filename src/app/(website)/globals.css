@@ -25,3 +25,7 @@ a {
   text-decoration: none;
   border-bottom: 1px dotted white;
 }
+
+a:hover {
+  border-bottom: 1px solid white;
+}
