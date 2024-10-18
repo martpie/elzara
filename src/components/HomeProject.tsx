@@ -32,7 +32,7 @@ export default function HomeProject(props: Props) {
           <span className={styles.notice}>{props.notice}</span>
         </div>
         <time className={styles.date}>{props.date}</time>
-        <p className={styles.except}>{props.excerpt}</p>
+        <p className={styles.excerpt}>{props.excerpt}</p>
     </div>
   );
 }
