@@ -1,9 +1,13 @@
 import Image from "next/image";
 import React from "react";
+import Link from "next/link";
 
 import styles from "./HomeProject.module.css";
+import Notice from "./Notice";
+import Date from "./Date";
 
 type Props = {
+  slug: string;
   name: string;
   excerpt: string;
   date: string;
@@ -14,6 +18,7 @@ type Props = {
 export default function HomeProject(props: Props) {
   return (
     <div className={styles.homeProject}>
+      <Link href={`/events/${props.slug}`} className={styles.homeProjectLink}>
         <div className={styles.images}>
           {props.image !== undefined && (
             <Image
@@ -29,10 +34,11 @@ export default function HomeProject(props: Props) {
 
         <div className={styles.headline}>
           <h3 className={styles.title}>{props.name}</h3>
-          <span className={styles.notice}>{props.notice}</span>
+          {props.notice != null && <Notice label={props.notice} />}
         </div>
-        <time className={styles.date}>{props.date}</time>
+        <Date date={props.date} />
         <p className={styles.excerpt}>{props.excerpt}</p>
+      </Link>
     </div>
   );
 }

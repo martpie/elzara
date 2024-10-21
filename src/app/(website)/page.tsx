@@ -7,10 +7,11 @@ export default async function Home() {
   const [highlightedProject, ...otherProjects] = await getData();
 
   return (
-    <main className={styles.main}>
+    <>
       <div className={styles.projects}>
         <div className={styles.projectHighlight}>
           <HomeProject
+            slug={highlightedProject.slug}
             name={highlightedProject.title}
             date={highlightedProject.date}
             image={highlightedProject.coverImage}
@@ -23,6 +24,7 @@ export default async function Home() {
           {otherProjects.map((project) => (
             <HomeProject
               key={project.slug}
+              slug={project.slug}
               name={project.title}
               date={project.date}
               image={project.coverImage}
@@ -32,7 +34,7 @@ export default async function Home() {
           ))}
         </div>
       </div>
-    </main>
+    </>
   );
 }
 

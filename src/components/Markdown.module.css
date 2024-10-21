@@ -1,0 +1,21 @@
+.markdown {
+  max-width: 600px;
+}
+
+.markdown :global(a) {
+  border-bottom: 1px dotted white;
+}
+
+.markdown :global(a):hover {
+  border-bottom: 1px solid white;
+}
+
+.markdown :global(img) {
+  display: block;
+  max-width: 80%;
+  height: auto;
+}
+
+.markdown :global(p) {
+  line-height: 1.4;
+}

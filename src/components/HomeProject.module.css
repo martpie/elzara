@@ -1,5 +1,16 @@
 .homeProject {
   max-width: 100%;
+  position: relative;
+  border: solid 2px transparent;
+}
+
+.homeProject:hover,
+.homeProject:focus {
+  border: solid 2px white;
+}
+
+.homeProject:active {
+  border: solid 2px #aaa;
 }
 
 .images {
@@ -17,20 +28,10 @@
   margin-bottom: 4px;
 }
 
-.date {
-  font-size: 0.875rem;
-  color: #aaa;
-}
-
 .headline {
   display: flex;
   align-items: baseline;
   gap: 12px;
-}
-
-.notice {
-  color: #e3054e;
-  font-weight: 800;
 }
 
 .excerpt {
