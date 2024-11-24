@@ -1,6 +1,6 @@
 {
-  "commit": "a5075c6334191ad685b17bf56682839f5b699640",
-  "generated": "2024-10-17T21:22:04.388Z",
+  "commit": "30fb7743052ed280d0ace830c9e8b8941c70db75",
+  "generated": "2024-11-24T21:29:43.455Z",
   "metadata": [
     {
       "__outstatic": {
@@ -64,6 +64,24 @@
       "slug": "fragility",
       "status": "published",
       "title": "Fragility"
+    },
+    {
+      "__outstatic": {
+        "commit": "30fb7743052ed280d0ace830c9e8b8941c70db75",
+        "hash": "1775783114",
+        "path": "outstatic/content/regionale-25/grenzen-borders-30-11-24-19-01-2025.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "regionale-25",
+      "coverImage": "/images/polish_20230719_104819624c-E4OD.jpg",
+      "description": "The exhibition is a part of Regionale 25. The Regionale is a tri-national exhibition project that transcends national borders. This year, Regionale 25 will take place from November 28, 2024 to January 2025. 18 exhibition spaces from the Basel region, Alsace and South Baden will present works by almost 200 artists. They will address burning contemporary issues in a variety of ways and across all genres. I take part with the artwork 'Anaçiğim, Anam' from Crimean Tatar language means 'Mother, Mom’ , work that deals with the personal and geopolitical borders of Crimea and addresses the emotional and physical separation from one's homeland. The using a map of Crimea and my native language, Crimean Tatar, to represent home and memory. The work is an artistic research that reflects on the boundaries between nations, cultures and identities.  Anam.Anaçiğim 2023 acrylic, canvas, 150*200 cm ",
+      "publishedAt": "2024-11-24T21:25:31.211Z",
+      "slug": "grenzen-borders-30-11-24-19-01-2025",
+      "status": "draft",
+      "title": "Grenzen/Borders 30.11.24-19.01.2025"
     }
   ]
 }
