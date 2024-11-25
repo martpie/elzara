@@ -11,11 +11,12 @@ import styles from "./page.module.css";
 import Date from "../../../../components/Date";
 
 type Props = {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 };
 
 export default async function EventPage(props: Props) {
-  const event = await getData(props.params.slug);
+  const { slug } = await props.params;
+  const event = await getData(slug);
 
   if (event === null) {
     return notFound();
