@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import { getDocumentBySlug } from "outstatic/server";
+import { getDocumentBySlug, getDocumentSlugs } from "outstatic/server";
 import { remark } from "remark";
 import html from "remark-html";
 import Image from "next/image";
@@ -54,8 +54,6 @@ async function getData(slug: string) {
     "notice",
   ]);
 
-  console.log("getData", slug, event);
-
   if (event === null) {
     return null;
   }
@@ -66,4 +64,10 @@ async function getData(slug: string) {
     date: event.date as string, // FIXME
     notice: event.notice as string | undefined, // FIXME
   };
+}
+
+// https://github.com/avitorio/outstatic/issues/217#issuecomment-2027827626
+export async function generateStaticParams() {
+  const posts = getDocumentSlugs("posts");
+  return posts.map((slug) => ({ slug }));
 }
