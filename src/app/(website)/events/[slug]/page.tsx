@@ -68,6 +68,6 @@ async function getData(slug: string) {
 
 // https://github.com/avitorio/outstatic/issues/217#issuecomment-2027827626
 export async function generateStaticParams() {
-  const posts = getDocumentSlugs("posts");
+  const posts = getDocumentSlugs("events");
   return posts.map((slug) => ({ slug }));
 }
