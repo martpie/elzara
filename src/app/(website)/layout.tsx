@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 import { Nanum_Myeongjo } from "next/font/google";
+import Link from "next/link";
 
 import "./globals.css";
 import styles from "./layout.module.css";
-import Link from "next/link";
 
 const nanum = Nanum_Myeongjo({
   weight: ["400", "800"],
@@ -28,6 +28,7 @@ export default function RootLayout({
               <span>elzaraoiseau [at] gmail [dot] com</span>
               <br />
               <Link
+                className={styles.link}
                 href="https://www.instagram.com/elzara_oiseau/"
                 target="_blank"
                 rel="noreferrer"
@@ -36,9 +37,16 @@ export default function RootLayout({
               </Link>
             </p>
             <p>
-              <Link href="/">Home</Link>
+              <Link className={styles.link} href="/">
+                Home
+              </Link>
               <br />
-              <Link href="/portfolio.pdf" target="_blank" rel="noreferrer">
+              <Link
+                className={styles.link}
+                href="/portfolio.pdf"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Portfolio
               </Link>
             </p>
