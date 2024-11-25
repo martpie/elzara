@@ -16,3 +16,8 @@
   align-items: flex-start;
   line-height: 1.5;
 }
+
+.main {
+  flex-grow: 1;
+  flex-shrink: 1;
+}

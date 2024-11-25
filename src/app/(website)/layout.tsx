@@ -36,13 +36,15 @@ export default function RootLayout({
               </Link>
             </p>
             <p>
+              <Link href="/">Home</Link>
+              <br />
               <Link href="/portfolio.pdf" target="_blank" rel="noreferrer">
                 Portfolio
               </Link>
             </p>
           </div>
         </header>
-        {children}
+        <main className={styles.main}>{children}</main>
       </body>
     </html>
   );

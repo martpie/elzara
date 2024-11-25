@@ -1,0 +1,14 @@
+.heading {
+  margin-bottom: 8px;
+}
+
+.metadata {
+  margin-bottom: 12px;
+}
+
+.cover {
+  display: block;
+  height: 250px;
+  width: auto;
+  max-width: 100%;
+}
