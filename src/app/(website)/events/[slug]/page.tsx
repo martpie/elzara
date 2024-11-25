@@ -54,6 +54,8 @@ async function getData(slug: string) {
     "notice",
   ]);
 
+  console.log("getData", slug, event);
+
   if (event === null) {
     return null;
   }
