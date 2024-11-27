@@ -30,7 +30,6 @@ export default function Layout({
               <span>elzaraoiseau [at] gmail [dot] com</span>
               <br />
               <Link
-                className={styles.link}
                 href="https://www.instagram.com/elzara_oiseau/"
                 target="_blank"
                 rel="noreferrer"
@@ -39,16 +38,9 @@ export default function Layout({
               </Link>
             </p>
             <p>
-              <Link className={styles.link} href="/">
-                Home
-              </Link>
+              <Link href="/">Home</Link>
               <br />
-              <Link
-                className={styles.link}
-                href="/portfolio.pdf"
-                target="_blank"
-                rel="noreferrer"
-              >
+              <Link href="/portfolio.pdf" target="_blank" rel="noreferrer">
                 Portfolio
               </Link>
             </p>
