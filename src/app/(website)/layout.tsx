@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 import { Nanum_Myeongjo } from "next/font/google";
-import Link from "next/link";
 
 import "./globals.css";
 import styles from "./layout.module.css";
+import Link from "../../components/Link";
 import NavigationProgress from "../../components/NavigationProgress";
 
 const nanum = Nanum_Myeongjo({

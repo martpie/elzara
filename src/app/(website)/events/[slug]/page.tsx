@@ -6,9 +6,10 @@ import Image from "next/image";
 
 import Notice from "../../../../components/Notice";
 import Markdown from "../../../../components/Markdown";
+import Date from "../../../../components/Date";
+import Link from "../../../../components/Link";
 
 import styles from "./page.module.css";
-import Date from "../../../../components/Date";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -40,6 +41,9 @@ export default async function EventPage(props: Props) {
         />
       )}
       <Markdown content={event.content} />
+      <div className={styles.footer}>
+        <Link href="/">⇽ back</Link>
+      </div>
     </div>
   );
 }
