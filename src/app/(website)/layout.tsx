@@ -4,6 +4,7 @@ import Link from "next/link";
 
 import "./globals.css";
 import styles from "./layout.module.css";
+import NavigationProgress from "../../components/NavigationProgress";
 
 const nanum = Nanum_Myeongjo({
   weight: ["400", "800"],
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
   title: "Elzara Oiseau",
 };
 
-export default function RootLayout({
+export default function Layout({
   children,
 }: Readonly<{
   children: React.ReactNode;
@@ -22,6 +23,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${nanum.className} ${styles.layout}`}>
+        <NavigationProgress />
         <header>
           <div className={styles.header}>
             <p>
