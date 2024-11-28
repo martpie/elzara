@@ -4,12 +4,12 @@ import { getDocumentBySlug, getDocumentSlugs } from "outstatic/server";
 import { remark } from "remark";
 import html from "remark-html";
 
-import Date from "../../../../components/Date";
+import EventDate from "../../../../components/EventDate";
 import Link from "../../../../components/Link";
 import Markdown from "../../../../components/Markdown";
 import Notice from "../../../../components/Notice";
 
-import type { Metadata, ResolvingMetadata } from "next";
+import type { Metadata } from "next";
 import styles from "./page.module.css";
 
 type Props = {
@@ -28,7 +28,7 @@ export default async function EventPage(props: Props) {
     <div className={styles.page}>
       <h1 className={styles.heading}>{event.title}</h1>
       <div className={styles.metadata}>
-        {event.date && <Date date={event.date} />}{" "}
+        {event.date && <EventDate date={event.date} />}{" "}
         {event.notice && <Notice label={event.notice} />}{" "}
       </div>
       {event.coverImage && (
@@ -72,10 +72,7 @@ async function getData(slug: string) {
   };
 }
 
-export async function generateMetadata(
-  { params }: Props,
-  parent: ResolvingMetadata
-): Promise<Metadata> {
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const slug = (await params).slug;
   const data = await getData(slug);
 

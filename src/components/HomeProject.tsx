@@ -1,10 +1,10 @@
 import Image from "next/image";
-import React from "react";
 import Link from "next/link";
+import React from "react";
 
+import Date from "./EventDate";
 import styles from "./HomeProject.module.css";
 import Notice from "./Notice";
-import Date from "./Date";
 
 type Props = {
   slug: string;

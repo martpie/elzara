@@ -1,9 +1,9 @@
-import styles from "./Date.module.css";
+import styles from "./EventDate.module.css";
 
 type Props = {
   date: string;
 };
 
-export default function Date(props: Props) {
+export default function EventDate(props: Props) {
   return <time className={styles.date}>{props.date}</time>;
 }
