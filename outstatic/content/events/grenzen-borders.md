@@ -15,7 +15,7 @@ publishedAt: '2024-11-24T22:00:05.173Z'
 
 Collective exhibition during [Regionale 25](https://regionale.org/) in [Städtische Galerie Stapflehus Weil am Rhein](https://www.stapflehus.de/ausstellung/aktuell/a.htm).
 
-![](/images/grenzen-Q0Mj.jpg)
+![](/images/grenzen-E0OD.jpg)
 
 The exhibition is a part of Regionale 25. The Regionale is a tri-national exhibition project that transcends national borders. This year, Regionale 25 will take place from November 28, 2024 to January 2025. 18 exhibition spaces from the Basel region, Alsace and South Baden will present works by almost 200 artists. They will address burning contemporary issues in a variety of ways and across all genres.
 

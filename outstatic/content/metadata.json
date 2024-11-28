@@ -1,6 +1,6 @@
 {
-  "commit": "c30224d1d68d5fc5a64bae0243667fb85656a4f1",
-  "generated": "2024-11-25T13:32:59.699Z",
+  "commit": "8ecb6210c327e21124e924620a1b1b82e5718f0c",
+  "generated": "2024-11-28T01:10:06.248Z",
   "metadata": [
     {
       "__outstatic": {
@@ -67,8 +67,8 @@
     },
     {
       "__outstatic": {
-        "commit": "c30224d1d68d5fc5a64bae0243667fb85656a4f1",
-        "hash": "3288295059",
+        "commit": "8ecb6210c327e21124e924620a1b1b82e5718f0c",
+        "hash": "2342404709",
         "path": "outstatic/content/events/grenzen-borders.md"
       },
       "author": {
