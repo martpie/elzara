@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import { getDocuments } from "outstatic/server";
 
 import HomeProject from "../../components/HomeProject";
@@ -56,3 +57,7 @@ async function getData() {
     notice: event.notice as string | undefined, // FIXME
   }));
 }
+
+export const metadata: Metadata = {
+  title: "Elzara Oiseau - Ukrainian Tatar Contemporary Artist",
+};

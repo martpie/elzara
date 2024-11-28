@@ -1,14 +1,15 @@
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getDocumentBySlug, getDocumentSlugs } from "outstatic/server";
 import { remark } from "remark";
 import html from "remark-html";
-import Image from "next/image";
 
-import Notice from "../../../../components/Notice";
-import Markdown from "../../../../components/Markdown";
 import Date from "../../../../components/Date";
 import Link from "../../../../components/Link";
+import Markdown from "../../../../components/Markdown";
+import Notice from "../../../../components/Notice";
 
+import type { Metadata, ResolvingMetadata } from "next";
 import styles from "./page.module.css";
 
 type Props = {
@@ -68,6 +69,22 @@ async function getData(slug: string) {
     content: remarkInstance.processSync(event.content).toString(),
     date: event.date as string, // FIXME
     notice: event.notice as string | undefined, // FIXME
+  };
+}
+
+export async function generateMetadata(
+  { params }: Props,
+  parent: ResolvingMetadata
+): Promise<Metadata> {
+  const slug = (await params).slug;
+  const data = await getData(slug);
+
+  if (data === null) {
+    throw `Could not find data for slug "${slug}"`;
+  }
+
+  return {
+    title: data.title,
   };
 }
 
