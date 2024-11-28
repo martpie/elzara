@@ -26,9 +26,14 @@ export default function Layout({
         <NavigationProgress />
         <header>
           <div className={styles.header}>
-            <p>
-              <span>elzaraoiseau [at] gmail [dot] com</span>
+            <div className={styles.headerSection}>
+              <Link href="/">Home</Link>
               <br />
+              <Link href="/portfolio.pdf" target="_blank" rel="noreferrer">
+                Portfolio
+              </Link>
+            </div>
+            <div className={styles.headerSection}>
               <Link
                 href="https://www.instagram.com/elzara_oiseau/"
                 target="_blank"
@@ -36,14 +41,10 @@ export default function Layout({
               >
                 @elzara_oiseau
               </Link>
-            </p>
-            <p>
-              <Link href="/">Home</Link>
               <br />
-              <Link href="/portfolio.pdf" target="_blank" rel="noreferrer">
-                Portfolio
-              </Link>
-            </p>
+              {/* obfuscated-kinda email, not sure it has any value */}
+              &#101;&#108;&#122;&#097;&#114;&#097;&#111;&#105;&#115;&#101;&#097;&#117;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
+            </div>
           </div>
         </header>
         <main className={styles.main}>{children}</main>
