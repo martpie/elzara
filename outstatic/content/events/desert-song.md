@@ -26,3 +26,7 @@ At the same time, this project is my exploration of the interaction between myse
 Nik played for the opening of this exhibition.
 
  Check [Nik Bärtsch/Montags](https://www.nikbaertsch.com/montags)
+
+[video](https://youtu.be/E9eYCx-yNfY?feature=shared)
+
+[video](https://youtu.be/oeMaDCNfdWc?si=zk0q8wVl0Tj2Cj5Z)
