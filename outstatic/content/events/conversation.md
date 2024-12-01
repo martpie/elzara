@@ -13,7 +13,7 @@ excerpt: 'Site-specific installation for Waschraum  edition 2'
 publishedAt: '2024-06-28T11:55:31.000Z'
 ---
 
-Site-specific installation for [Waschraum 2024](https://wasch-raum.ch/elzara-oiseau/)
+Site-specific installation for [Waschraum](https://wasch-raum.ch/elzara-oiseau/)
 
 Zurich
 
