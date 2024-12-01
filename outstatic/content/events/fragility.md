@@ -1,19 +1,19 @@
 ---
-title: 'Fragility'
-status: 'published'
+title: "Fragility"
+status: "published"
 author:
-  name: 'Pierre de la Martinière'
-  picture: 'https://avatars.githubusercontent.com/u/1311607?v=4'
-slug: 'fragility'
-description: ''
-coverImage: '/images/fragility-UzMz.jpg'
-date: 'March-April 2023'
-notice: ''
-excerpt: '12 meters wall painting for Waschraum'
-publishedAt: '2023-03-01T11:45:01.000Z'
+  name: "Pierre de la Martinière"
+  picture: "https://avatars.githubusercontent.com/u/1311607?v=4"
+slug: "fragility"
+description: ""
+coverImage: "/images/fragility-UzMz.jpg"
+date: "March-April 2023"
+notice: ""
+excerpt: "12 meters wall painting for Waschraum"
+publishedAt: "2023-03-01T11:45:01.000Z"
 ---
 
-[12 meters wall painting](https://wasch-raum.ch/kuenstlerinnen/elzara-oiseau/) for collective exhibition [«loslassen – loswerden»](https://wasch-raum.ch/archiv/)       [Waschraum](https://wasch-raum.ch/)
+[12 meters wall painting](https://wasch-raum.ch/kuenstlerinnen/elzara-oiseau/) for collective exhibition [«loslassen – loswerden»](https://wasch-raum.ch/archiv/) [Waschraum](https://wasch-raum.ch/)
 
 This project was created in march 2023 for the exhibition "loslassen-loswerden" for a very special space, Waschraum (Bathroom), which is located in a building owned by the Swiss railway company SBB and is also protected by the city of Zurich as a historical heritage site. The space is a large hall with bathrooms and shower cabins, entirely covered in tiles, which gives it an extraordinary fragility and very interesting sound resonance.
 
@@ -25,7 +25,7 @@ I used the four languages I speak or am beginning to speak: Ukrainian, French, G
 
 Text from a book publication that came out a few months after the exhibition (Book loslassen-loswerden, by Nadine Jäger, Alicia Olmos Ochoa, Andrea Ramseyer, Pia Simmendinger, Zurich, Switzerland, <https://wasch-raum.ch/buch/>):
 
- "A word can unite, a word can distance. It can be the beginning of a war or the start of a new life. A word has power. We think with words, we can express ourselves simply by using language, words. Everything has its word. Even this room with beautiful fragile tiles has its word: fragility. The installation "Fragility" visualizes Ukrainian artist Elzara Oiseau's strength of the word. The calm rhythm of narrowing symbols and the aesthetic of black symbols on white tiles are expressive and beautiful.
+"A word can unite, a word can distance. It can be the beginning of a war or the start of a new life. A word has power. We think with words, we can express ourselves simply by using language, words. Everything has its word. Even this room with beautiful fragile tiles has its word: fragility. The installation "Fragility" visualizes Ukrainian artist Elzara Oiseau's strength of the word. The calm rhythm of narrowing symbols and the aesthetic of black symbols on white tiles are expressive and beautiful.
 
 Abstract calligraphy is the central element of Oiseau's artistic expression. She believes that nothing is more expressive than words, but at the same time, she lives in an environment where she does not master the local language. She builds a bridge using abstract calligraphy and emphasizes the immense power of language.
 
@@ -35,11 +35,9 @@ Oiseau's artistic approach, focused on abstract calligraphy, is a sensory experi
 
 One of the main point of the project was the idea that this artwork will be erased by the and of exhibition.
 
-![](/images/polish_20230312_233249634-cwMj.png)
+![](/images/polish_20230312_233249634-cwMj.jpg)
 
 ![](/images/photo_2024-03-24_14-17-31-IwNz.jpg)
-
- 
 
 ![](/images/img_20230305_162040-k3Nj.jpg)
 
@@ -51,9 +49,9 @@ One of the main point of the project was the idea that this artwork will be eras
 
 ![](/images/img_20230317_230643_205-I3Mz.jpg)
 
-![](/images/polish_20230312_232512621-czMz.png)
+![](/images/polish_20230312_232512621-czMz.jpg)
 
-![](/images/polish_20230411_194100321-YxMT.png)
+![](/images/polish_20230411_194100321-YxMT.jpg)
 
 ![](/images/img_20230408_152857-UyNz.jpg)
 
