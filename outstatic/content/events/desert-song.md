@@ -1,6 +1,6 @@
 ---
-title: 'Desert Song'
-status: 'published'
+title: 'Jazz Lines'
+status: 'draft'
 author:
   name: 'Pierre de la Martinière'
   picture: 'https://avatars.githubusercontent.com/u/1311607?v=4'
@@ -13,4 +13,16 @@ excerpt: 'Painting and wire installation for solo exhibition Jazz Lines'
 publishedAt: '2023-11-01T12:48:22.000Z'
 ---
 
-Painting and wire installation for solo exhibition *Jazz Lines*
+Jazz Lines: musical and visual dialogues of Nik Bärtsch and Elzara Oiseau, 2023
+
+As an artist, I have long explored music in my work. I have always wanted to show how a particular piece of music would look if we could visualize it. What is sound? How does it affect our emotions? In this large-scale project, I decided to explore the music of Swiss jazz composer and pianist Nik Bärtsch. For this project, which spanned 300 square meters of space, I created 10 sculptural installations, 7 large canvases, and 10 works on paper, in which I visualized my perception and interpretation of sound. Also we collaborated with Nik and created one huge painting on canvas for this exhibition.
+
+[Nik Bärtsch](https://www.nikbaertsch.com/), a visionary composer and pianist, is known for his innovative approach to music. His compositions, often referred to as Ritual Groove Music, blend elements of jazz, funk, and minimalism, creating a hypnotic and meditative sonic experience. Bärtsch's intricate rhythms and repetitive motifs create a sense of fluidity and motion, inviting listeners to embark on a sonic journey that transcends conventional boundaries.
+
+I draw inspiration from Bärtsch's compositions to create striking visual interpretations. Through my unique artistic language, I aim to capture the essence of Bärtsch's music, translating its complex rhythms and dynamic energy into captivating visual forms. The use of monochrome colors, textures, and movement evokes a sense of synesthesia, allowing viewers to experience the music through a visual lens.
+
+At the same time, this project is my exploration of the interaction between myself as an artist, who is in a foreign country due to a full-scale invasion and forced to start my career and life almost from scratch, and a renowned Swiss musician who, through his music and friendly support, provided me with the opportunity to quickly integrate into the local community, the art scene, and the jazz community. He gradually became a collector of my art because he saw music in it. The music of Nik, which I discovered a few months after arriving in Switzerland, immediately became my lifeline. I began regularly attending his concerts, and only during the concert could I forget for an hour about what was happening to me, my family, and my country.
+
+Nik played for the opening of this exhibition.
+
+ Check [Nik Bärtsch/Montags](https://www.nikbaertsch.com/montags)
