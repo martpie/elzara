@@ -4,12 +4,12 @@ status: 'published'
 author:
   name: 'Pierre de la Martinière'
   picture: 'https://avatars.githubusercontent.com/u/1311607?v=4'
-slug: 'desert-song'
+slug: 'jazz-lines'
 description: ''
-coverImage: '/images/20231124-elzaraoiseau-ch-9-UyMD.jpg'
+coverImage: '/images/20231124-elzaraoiseau-ch-9-E4OD.jpg'
 date: 'November 2023'
 notice: ''
-excerpt: 'Painting and wire installation for solo exhibition Jazz Lines'
+excerpt: 'Paintings and wire installations for solo exhibition Jazz Lines'
 publishedAt: '2023-11-30T12:48:22.000Z'
 ---
 
@@ -25,35 +25,35 @@ At the same time, this project is my exploration of the interaction between myse
 
 Nik played for the opening of this exhibition.
 
-![](/images/copi-1-c1Nj.jpg)
+![](/images/copi-1-EyMT.jpg)
 
-![](/images/modul-59-cyMT.jpg)
+![](/images/modul-59-QwMz.jpg)
 
-![](/images/moonday-Q1Mj.jpg)
+![](/images/moonday-QxOD.jpg)
 
-![](/images/copi-3-I4NT.jpg)
+![](/images/copi-3-kwMj.jpg)
 
-![](/images/photo_2024-10-11_19-38-26-kzMD.jpg)
+![](/images/photo_2024-10-11_19-38-26-YwMj.jpg)
 
-![](/images/photo_2024-02-06_18-13-08--2--U5Mz.jpg)
+![](/images/photo_2024-02-06_18-13-08--2--k4Nj.jpg)
 
-![](/images/photo_2024-02-06_18-13-08-g4Nj.jpg)
+![](/images/photo_2024-02-06_18-13-08-EwNj.jpg)
 
-![](/images/copi-2-AyMD.jpg)
+![](/images/copi-2-g4Mz.jpg)
 
-![](/images/20231124-elzaraoiseau-ch-4-Q2OD.jpg)
-
-Photo [Claude Hofer](https://claude-hofer.com/)
-
-![](/images/20231124-elzaraoiseau-ch-7-gxNz.jpg)
+![](/images/20231124-elzaraoiseau-ch-4-M2OD.jpg)
 
 Photo [Claude Hofer](https://claude-hofer.com/)
 
-![](/images/20231124-elzaraoiseau-ch-2-g4Mz.jpg)
+![](/images/20231124-elzaraoiseau-ch-7-A4Mj.jpg)
 
 Photo [Claude Hofer](https://claude-hofer.com/)
 
-![](/images/20231124-elzaraoiseau-ch-9-MyOT.jpg)
+![](/images/20231124-elzaraoiseau-ch-2-k0OD.jpg)
+
+Photo [Claude Hofer](https://claude-hofer.com/)
+
+![](/images/20231124-elzaraoiseau-ch-9-kzMj.jpg)
 
 Photo [Claude Hofer](https://claude-hofer.com/)
 

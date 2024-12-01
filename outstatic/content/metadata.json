@@ -1,6 +1,6 @@
 {
   "commit": "58c0bac2a41d5c299f0a08bbcaf114f794e0ce6d",
-  "generated": "2024-12-01T19:31:34.122Z",
+  "generated": "2024-12-01T20:40:05.095Z",
   "metadata": [
     {
       "__outstatic": {
@@ -68,21 +68,21 @@
     {
       "__outstatic": {
         "commit": "58c0bac2a41d5c299f0a08bbcaf114f794e0ce6d",
-        "hash": "2870026463",
-        "path": "outstatic/content/events/desert-song.md"
+        "hash": "275966192",
+        "path": "outstatic/content/events/jazz-lines.md"
       },
       "author": {
         "name": "Pierre de la Martinière",
         "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
       },
       "collection": "events",
-      "coverImage": "/images/20231124-elzaraoiseau-ch-9-UyMD.jpg",
+      "coverImage": "/images/20231124-elzaraoiseau-ch-9-E4OD.jpg",
       "date": "November 2023",
       "description": "",
-      "excerpt": "Painting and wire installation for solo exhibition Jazz Lines",
+      "excerpt": "Paintings and wire installations for solo exhibition Jazz Lines",
       "notice": "",
       "publishedAt": "2023-11-30T12:48:22.000Z",
-      "slug": "desert-song",
+      "slug": "jazz-lines",
       "status": "published",
       "title": "Jazz Lines"
     }
