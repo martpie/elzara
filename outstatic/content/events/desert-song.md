@@ -1,6 +1,6 @@
 ---
 title: 'Jazz Lines'
-status: 'draft'
+status: 'published'
 author:
   name: 'Pierre de la Martinière'
   picture: 'https://avatars.githubusercontent.com/u/1311607?v=4'

@@ -1,6 +1,6 @@
 {
   "commit": "415aa213b10e5f1767ef63311a5c051a98732f99",
-  "generated": "2024-12-01T18:56:55.731Z",
+  "generated": "2024-12-01T19:11:17.618Z",
   "metadata": [
     {
       "__outstatic": {
@@ -68,7 +68,7 @@
     {
       "__outstatic": {
         "commit": "415aa213b10e5f1767ef63311a5c051a98732f99",
-        "hash": "4281174452",
+        "hash": "4234224927",
         "path": "outstatic/content/events/desert-song.md"
       },
       "author": {
@@ -83,7 +83,7 @@
       "notice": "",
       "publishedAt": "2023-11-01T12:48:22.000Z",
       "slug": "desert-song",
-      "status": "draft",
+      "status": "published",
       "title": "Jazz Lines"
     }
   ]
