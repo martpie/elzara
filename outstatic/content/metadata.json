@@ -1,6 +1,6 @@
 {
-  "commit": "b65611d5afdd8d8c5450dc31902e8afdda7500bb",
-  "generated": "2024-12-01T16:57:31.548Z",
+  "commit": "632c06881d6c1bdf7aabf7a703536a2afd82d271",
+  "generated": "2024-12-01T17:48:13.607Z",
   "metadata": [
     {
       "__outstatic": {
@@ -22,27 +22,6 @@
       "slug": "desert-song",
       "status": "published",
       "title": "Desert Song"
-    },
-    {
-      "__outstatic": {
-        "commit": "a5075c6334191ad685b17bf56682839f5b699640",
-        "hash": "2834833968",
-        "path": "outstatic/content/events/fragility.md"
-      },
-      "author": {
-        "name": "Pierre de la Martinière",
-        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/fragility-UzMz.jpg",
-      "date": "March-April 2023",
-      "description": "",
-      "excerpt": "12 meters wall painting for Waschraum",
-      "notice": "",
-      "publishedAt": "2023-03-01T11:45:01.000Z",
-      "slug": "fragility",
-      "status": "published",
-      "title": "Fragility"
     },
     {
       "__outstatic": {
@@ -85,6 +64,27 @@
       "slug": "conversation",
       "status": "published",
       "title": "Conversation"
+    },
+    {
+      "__outstatic": {
+        "commit": "632c06881d6c1bdf7aabf7a703536a2afd82d271",
+        "hash": "2556671525",
+        "path": "outstatic/content/events/fragility.md"
+      },
+      "author": {
+        "name": "Pierre de la Martinière",
+        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/fragility-UzMz.jpg",
+      "date": "March-April 2023",
+      "description": "",
+      "excerpt": "12 meters wall painting for Waschraum",
+      "notice": "",
+      "publishedAt": "2023-03-01T11:45:01.000Z",
+      "slug": "fragility",
+      "status": "published",
+      "title": "Fragility"
     }
   ]
 }
