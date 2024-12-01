@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/1311607?v=4'
 slug: 'conversation'
 description: ''
-coverImage: '/images/img_20240701_124537_434-copy-k1Nz.jpg'
+coverImage: '/images/conv-for-site-k3MT.jpg'
 date: 'June 28th - July 14th 2024'
 notice: ''
 excerpt: 'Site-specific installation for Waschraum 2024'
@@ -17,7 +17,7 @@ Site-specific installation for [Waschraum 2024](https://wasch-raum.ch/elzara-ois
 
 Conversation, 2024
 
-![](/images/img_20240702_191403_442-Q1Nz.jpg)
+![](/images/img_20240702_191403_442-M5OT.jpg)
 
 The project was created for the second exhibition "Resonanzkörper Sound und Skulptur im Raum," in a very unique space, Waschraum (the Bathroom), which is located in a building owned by the Swiss railway company SBB but is also protected by the city of Zurich as a historical heritage site. The space consists of a vast hall with bathrooms and shower stalls entirely covered in tiles, giving it a remarkable fragility and intriguing sound resonance.
 
@@ -27,17 +27,17 @@ Selected artists were tasked with creating works that would integrate into the s
 
 I created a large site-specific, non-transportable installation in a separate darkened room covering 20 square meters. The installation was arranged around the entire perimeter, but especially closer to the ceiling, to create the effect of the lines hanging in the air, conveying the lightness and weightlessness of the melody. Visitors were invited to enter the complete darkness that I established in the room. At the entrance, torches were provided, allowing the visitors to personally discover elements of the installation accompanied by Nik Bärtsch's music, and to set the movement of shadows to their own rhythm.
 
-![](/images/img_20240701_124551_804copy-k5Mj.jpg)
+![](/images/img_20240701_124551_804copy-M4ND.jpg)
 
-![](/images/img_20240701_124540_118copy-A0OT.jpg)
+![](/images/img_20240701_124540_118copy-E1OT.jpg)
 
-![](/images/img_20240701_124638_950copy-k5Nj.jpg)
+![](/images/img_20240701_124638_950copy-k0Nz.jpg)
 
-![](/images/img_20240712_204055-MwMD.jpg)
+![](/images/img_20240712_204055-Y4MT.jpg)
 
-![](/images/img_20240702_191403_382-E4OT.jpg)
+![](/images/img_20240702_191403_382-czNz.jpg)
 
-  ![](/images/img_20240701_124537_434-copy-M0MT.jpg)
+  ![](/images/img_20240701_124537_434-copy-YzMT.jpg)
 
 [video](https://www.youtube.com/watch?v=GfAmrOnPiXM)
 
