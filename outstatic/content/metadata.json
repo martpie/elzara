@@ -1,6 +1,6 @@
 {
-  "commit": "58c0bac2a41d5c299f0a08bbcaf114f794e0ce6d",
-  "generated": "2024-12-01T20:40:05.095Z",
+  "commit": "f342e9ea575061a0114fd84268885bb8b019354b",
+  "generated": "2024-12-01T20:42:05.896Z",
   "metadata": [
     {
       "__outstatic": {
@@ -22,27 +22,6 @@
       "slug": "grenzen-borders",
       "status": "published",
       "title": "Grenzen/Borders"
-    },
-    {
-      "__outstatic": {
-        "commit": "b65611d5afdd8d8c5450dc31902e8afdda7500bb",
-        "hash": "3502489970",
-        "path": "outstatic/content/events/conversation.md"
-      },
-      "author": {
-        "name": "Pierre de la Martinière",
-        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/conv-for-site-k0MD.jpg",
-      "date": "June 28th - July 14th 2024",
-      "description": "",
-      "excerpt": "Site-specific installation for Waschraum 2024",
-      "notice": "",
-      "publishedAt": "2024-06-28T11:55:31.000Z",
-      "slug": "conversation",
-      "status": "published",
-      "title": "Conversation"
     },
     {
       "__outstatic": {
@@ -85,6 +64,27 @@
       "slug": "jazz-lines",
       "status": "published",
       "title": "Jazz Lines"
+    },
+    {
+      "__outstatic": {
+        "commit": "f342e9ea575061a0114fd84268885bb8b019354b",
+        "hash": "1580473087",
+        "path": "outstatic/content/events/conversation.md"
+      },
+      "author": {
+        "name": "Pierre de la Martinière",
+        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/conv-for-site-k0MD.jpg",
+      "date": "June 28th - July 14th 2024",
+      "description": "",
+      "excerpt": "Site-specific installation for Waschraum  edition 2",
+      "notice": "",
+      "publishedAt": "2024-06-28T11:55:31.000Z",
+      "slug": "conversation",
+      "status": "published",
+      "title": "Conversation"
     }
   ]
 }

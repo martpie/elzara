@@ -9,7 +9,7 @@ description: ''
 coverImage: '/images/conv-for-site-k0MD.jpg'
 date: 'June 28th - July 14th 2024'
 notice: ''
-excerpt: 'Site-specific installation for Waschraum 2024'
+excerpt: 'Site-specific installation for Waschraum  edition 2'
 publishedAt: '2024-06-28T11:55:31.000Z'
 ---
 
@@ -39,7 +39,7 @@ I created a large site-specific, non-transportable installation in a separate da
 
 ![](/images/img_20240702_191403_382-QyMz.jpg)
 
-  ![](/images/img_20240701_124537_434-copy-E3OD.jpg)
+![](/images/img_20240701_124537_434-copy-E3OD.jpg)
 
 [video](https://www.youtube.com/watch?v=GfAmrOnPiXM)
 
