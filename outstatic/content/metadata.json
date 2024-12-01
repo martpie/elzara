@@ -1,28 +1,7 @@
 {
-  "commit": "2363108319b1d9093ef0c6f50f107b5e2edc349c",
-  "generated": "2024-12-01T20:43:15.753Z",
+  "commit": "500c120c51576ec638b20945547b6f89d7981f5a",
+  "generated": "2024-12-01T20:48:13.317Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "c6abe9bbf991602448ee7474815b94d479306194",
-        "hash": "3190076706",
-        "path": "outstatic/content/events/grenzen-borders.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/polish_20230719_104819624-M4ND.jpg",
-      "date": "30 November 2024  - 19 January 2025",
-      "description": "",
-      "excerpt": "collective exhibition during Regionale 25 in Städtische Galerie Stapflehus Weil am Rhein",
-      "notice": "current",
-      "publishedAt": "2024-11-24T22:00:05.173Z",
-      "slug": "grenzen-borders",
-      "status": "published",
-      "title": "Grenzen/Borders"
-    },
     {
       "__outstatic": {
         "commit": "58c0bac2a41d5c299f0a08bbcaf114f794e0ce6d",
@@ -85,6 +64,27 @@
       "slug": "fragility",
       "status": "published",
       "title": "Fragility"
+    },
+    {
+      "__outstatic": {
+        "commit": "500c120c51576ec638b20945547b6f89d7981f5a",
+        "hash": "1131444996",
+        "path": "outstatic/content/events/grenzen-borders.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/polish_20230719_104819624-M4ND.jpg",
+      "date": "30 November 2024  - 19 January 2025",
+      "description": "",
+      "excerpt": "collective exhibition during Regionale 25 in Städtische Galerie Stapflehus Weil am Rhein",
+      "notice": "current",
+      "publishedAt": "2024-11-24T22:00:05.173Z",
+      "slug": "grenzen-borders",
+      "status": "published",
+      "title": "Grenzen/Borders"
     }
   ]
 }
