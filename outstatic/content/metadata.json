@@ -1,6 +1,6 @@
 {
   "commit": "632c06881d6c1bdf7aabf7a703536a2afd82d271",
-  "generated": "2024-12-01T17:48:13.607Z",
+  "generated": "2024-12-01T17:53:48.437Z",
   "metadata": [
     {
       "__outstatic": {
@@ -68,7 +68,7 @@
     {
       "__outstatic": {
         "commit": "632c06881d6c1bdf7aabf7a703536a2afd82d271",
-        "hash": "2556671525",
+        "hash": "904284384",
         "path": "outstatic/content/events/fragility.md"
       },
       "author": {

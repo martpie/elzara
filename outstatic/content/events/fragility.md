@@ -35,30 +35,32 @@ Oiseau's artistic approach, focused on abstract calligraphy, is a sensory experi
 
 One of the main point of the project was the idea that this artwork will be erased by the and of exhibition.
 
-![](/images/polish_20230312_233249634-EwMD.png)
+![](/images/polish_20230312_233249634-cwMj.png)
 
-![](/images/photo_2024-03-24_14-17-31-E5OT.jpg)
+![](/images/photo_2024-03-24_14-17-31-IwNz.jpg)
 
  
 
-![](/images/img_20230305_162040-Y0NT.jpg)
+![](/images/img_20230305_162040-k3Nj.jpg)
 
-![](/images/img_20230318_165838-A2Nz.jpg)
+![](/images/img_20230318_165838-E3Mj.jpg)
 
-![](/images/img_20230317_194924-Y0Mj.jpg)
+![](/images/img_20230317_194924-cyNT.jpg)
 
-![](/images/img_20230317_191941-EzOT.jpg)
+![](/images/img_20230317_191941-YzMj.jpg)
 
-![](/images/img_20230317_230643_205-Q2Nj.jpg)
+![](/images/img_20230317_230643_205-I3Mz.jpg)
 
-![](/images/polish_20230312_232512621-cwOT.png)
+![](/images/polish_20230312_232512621-czMz.png)
 
-![](/images/polish_20230411_194100321-A0MT.png)
+![](/images/polish_20230411_194100321-YxMT.png)
 
-![](/images/img_20230408_152857-A5NT.jpg)
+![](/images/img_20230408_152857-UyNz.jpg)
 
-![](/images/img_20230406_161730-Y3Nz.jpg)
+![](/images/img_20230406_161730-Q1Mj.jpg)
 
-![](/images/img_20230406_121559-k3OD.jpg)
+![](/images/img_20230406_121559-AzMz.jpg)
 
-![](/images/img_20230413_153726-M3Mz.jpg)
+![](/images/img_20230413_153726-YxMj.jpg)
+
+[video](https://www.instagram.com/reel/Cq6N76KJzXI/?igshid=MmU2YjMzNjRlOQ%3D%3D)
