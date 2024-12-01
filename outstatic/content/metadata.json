@@ -1,6 +1,6 @@
 {
   "commit": "b65611d5afdd8d8c5450dc31902e8afdda7500bb",
-  "generated": "2024-12-01T16:50:40.730Z",
+  "generated": "2024-12-01T16:57:31.548Z",
   "metadata": [
     {
       "__outstatic": {
@@ -68,7 +68,7 @@
     {
       "__outstatic": {
         "commit": "b65611d5afdd8d8c5450dc31902e8afdda7500bb",
-        "hash": "586957036",
+        "hash": "3502489970",
         "path": "outstatic/content/events/conversation.md"
       },
       "author": {
@@ -76,7 +76,7 @@
         "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
       },
       "collection": "events",
-      "coverImage": "/images/conv-for-site-k3MT.jpg",
+      "coverImage": "/images/conv-for-site-k0MD.jpg",
       "date": "June 28th - July 14th 2024",
       "description": "",
       "excerpt": "Site-specific installation for Waschraum 2024",
