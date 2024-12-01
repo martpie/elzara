@@ -6,11 +6,11 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/1311607?v=4'
 slug: 'desert-song'
 description: ''
-coverImage: '/images/module61-M3NT.jpg'
+coverImage: '/images/20231124-elzaraoiseau-ch-9-UyMD.jpg'
 date: 'November 2023'
 notice: ''
 excerpt: 'Painting and wire installation for solo exhibition Jazz Lines'
-publishedAt: '2023-11-01T12:48:22.000Z'
+publishedAt: '2023-11-30T12:48:22.000Z'
 ---
 
 Jazz Lines: musical and visual dialogues of Nik Bärtsch and Elzara Oiseau, 2023
@@ -25,7 +25,39 @@ At the same time, this project is my exploration of the interaction between myse
 
 Nik played for the opening of this exhibition.
 
- Check [Nik Bärtsch/Montags](https://www.nikbaertsch.com/montags)
+![](/images/copi-1-c1Nj.jpg)
+
+![](/images/modul-59-cyMT.jpg)
+
+![](/images/moonday-Q1Mj.jpg)
+
+![](/images/copi-3-I4NT.jpg)
+
+![](/images/photo_2024-10-11_19-38-26-kzMD.jpg)
+
+![](/images/photo_2024-02-06_18-13-08--2--U5Mz.jpg)
+
+![](/images/photo_2024-02-06_18-13-08-g4Nj.jpg)
+
+![](/images/copi-2-AyMD.jpg)
+
+![](/images/20231124-elzaraoiseau-ch-4-Q2OD.jpg)
+
+Photo [Claude Hofer](https://claude-hofer.com/)
+
+![](/images/20231124-elzaraoiseau-ch-7-gxNz.jpg)
+
+Photo [Claude Hofer](https://claude-hofer.com/)
+
+![](/images/20231124-elzaraoiseau-ch-2-g4Mz.jpg)
+
+Photo [Claude Hofer](https://claude-hofer.com/)
+
+![](/images/20231124-elzaraoiseau-ch-9-MyOT.jpg)
+
+Photo [Claude Hofer](https://claude-hofer.com/)
+
+Check [Nik Bärtsch/Montags](https://www.nikbaertsch.com/montags)
 
 [video](https://youtu.be/E9eYCx-yNfY?feature=shared)
 
