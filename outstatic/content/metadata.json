@@ -1,6 +1,6 @@
 {
-  "commit": "500c120c51576ec638b20945547b6f89d7981f5a",
-  "generated": "2024-12-01T20:52:34.333Z",
+  "commit": "4e11fa167327d789cc6bbb5df7a131fe8e6a75f9",
+  "generated": "2024-12-02T21:14:57.578Z",
   "metadata": [
     {
       "__outstatic": {
@@ -67,8 +67,8 @@
     },
     {
       "__outstatic": {
-        "commit": "500c120c51576ec638b20945547b6f89d7981f5a",
-        "hash": "3337236787",
+        "commit": "4e11fa167327d789cc6bbb5df7a131fe8e6a75f9",
+        "hash": "1864746631",
         "path": "outstatic/content/events/grenzen-borders.md"
       },
       "author": {
@@ -79,7 +79,7 @@
       "coverImage": "/images/polish_20230719_104819624-M4ND.jpg",
       "date": "30 November 2024  - 19 January 2025",
       "description": "",
-      "excerpt": "collective exhibition during Regionale 25 in Städtische Galerie Stapflehus Weil am Rhein",
+      "excerpt": "Collective exhibition during Regionale 25 in Städtische Galerie Stapflehus Weil am Rhein",
       "notice": "current",
       "publishedAt": "2024-11-24T22:00:05.173Z",
       "slug": "grenzen-borders",

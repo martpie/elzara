@@ -9,7 +9,7 @@ description: ''
 coverImage: '/images/polish_20230719_104819624-M4ND.jpg'
 date: '30 November 2024  - 19 January 2025'
 notice: 'current'
-excerpt: 'collective exhibition during Regionale 25 in Städtische Galerie Stapflehus Weil am Rhein'
+excerpt: 'Collective exhibition during Regionale 25 in Städtische Galerie Stapflehus Weil am Rhein'
 publishedAt: '2024-11-24T22:00:05.173Z'
 ---
 
