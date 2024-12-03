@@ -13,6 +13,13 @@ const nanum = Nanum_Myeongjo({
 
 export const metadata: Metadata = {
   title: "Elzara Oiseau",
+  icons: [
+    {
+      url: "/favicon.png",
+      type: "image/png",
+      sizes: "96x96",
+    }
+  ]
 };
 
 export default function Layout({
