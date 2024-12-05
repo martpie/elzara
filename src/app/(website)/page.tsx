@@ -61,5 +61,5 @@ async function getData() {
 export const metadata: Metadata = {
   title: "Elzara Oiseau - Visual Artist",
   description:
-    "Elzara Oiseau is Ukrainian Crimean Tatar artist, based in Zurich, Switzerland",
+    "Elzara Oiseau is a Ukrainian Crimean Tatar artist, based in Zurich, Switzerland",
 };
