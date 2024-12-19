@@ -1,6 +1,6 @@
 {
-  "commit": "4e11fa167327d789cc6bbb5df7a131fe8e6a75f9",
-  "generated": "2024-12-02T21:14:57.578Z",
+  "commit": "9be0e461afd49560412fd8ad14ebb4e3d000ddad",
+  "generated": "2024-12-19T20:31:40.063Z",
   "metadata": [
     {
       "__outstatic": {
@@ -46,27 +46,6 @@
     },
     {
       "__outstatic": {
-        "commit": "2363108319b1d9093ef0c6f50f107b5e2edc349c",
-        "hash": "3891527519",
-        "path": "outstatic/content/events/fragility.md"
-      },
-      "author": {
-        "name": "Pierre de la Martinière",
-        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/fragility-UzMz.jpg",
-      "date": "March-April 2023",
-      "description": "",
-      "excerpt": "12 meters wall painting for Waschraum edition 1",
-      "notice": "",
-      "publishedAt": "2023-03-01T11:45:01.000Z",
-      "slug": "fragility",
-      "status": "published",
-      "title": "Fragility"
-    },
-    {
-      "__outstatic": {
         "commit": "4e11fa167327d789cc6bbb5df7a131fe8e6a75f9",
         "hash": "1864746631",
         "path": "outstatic/content/events/grenzen-borders.md"
@@ -85,6 +64,27 @@
       "slug": "grenzen-borders",
       "status": "published",
       "title": "Grenzen/Borders"
+    },
+    {
+      "__outstatic": {
+        "commit": "9be0e461afd49560412fd8ad14ebb4e3d000ddad",
+        "hash": "3602985109",
+        "path": "outstatic/content/events/fragility.md"
+      },
+      "author": {
+        "name": "Pierre de la Martinière",
+        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/fragility-UzMz.jpg",
+      "date": "March-April 2023",
+      "description": "",
+      "excerpt": "12 meters wall painting for Waschraum edition 1",
+      "notice": "",
+      "publishedAt": "2023-03-01T11:45:01.000Z",
+      "slug": "fragility",
+      "status": "published",
+      "title": "Fragility"
     }
   ]
 }

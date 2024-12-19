@@ -59,6 +59,6 @@ One of the main point of the project was the idea that this artwork will be eras
 
 ![](/images/img_20230406_121559-AzMz.jpg)
 
-![](/images/img_20230413_153726-YxMj.jpg)
+![](/images/img_20230413_153726-Y0MT.jpg)
 
 [video](https://www.instagram.com/reel/Cq6N76KJzXI/?igshid=MmU2YjMzNjRlOQ%3D%3D)
