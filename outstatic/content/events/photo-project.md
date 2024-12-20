@@ -13,7 +13,7 @@ excerpt: 'photo portraits project'
 publishedAt: '2022-12-31T19:58:28.000Z'
 ---
 
-*soon more information/more photoes*
+*soon more information/more photos*
 
 Isabelle & Bastian. Artists
 
