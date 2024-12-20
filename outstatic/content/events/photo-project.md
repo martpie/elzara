@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/179383349?v=4'
 slug: 'photo-project'
 description: ''
-coverImage: ''
+coverImage: '/images/img_0125ee-k4ND.jpg'
 date: 'January-December 2024'
 notice: ''
 excerpt: 'photo portraits project'

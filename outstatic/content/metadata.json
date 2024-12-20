@@ -1,6 +1,6 @@
 {
-  "commit": "889611698790510f3e631bd261ecbab7a7ba6806",
-  "generated": "2024-12-20T20:41:51.383Z",
+  "commit": "8c011dcbce22f83ec001c467452a9011100171dc",
+  "generated": "2024-12-20T20:45:14.535Z",
   "metadata": [
     {
       "__outstatic": {
@@ -88,8 +88,8 @@
     },
     {
       "__outstatic": {
-        "commit": "889611698790510f3e631bd261ecbab7a7ba6806",
-        "hash": "814722846",
+        "commit": "8c011dcbce22f83ec001c467452a9011100171dc",
+        "hash": "1192832277",
         "path": "outstatic/content/events/photo-project.md"
       },
       "author": {
@@ -97,7 +97,7 @@
         "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
       },
       "collection": "events",
-      "coverImage": "",
+      "coverImage": "/images/img_0125ee-k4ND.jpg",
       "date": "January-December 2024",
       "description": "",
       "excerpt": "photo portraits project",
