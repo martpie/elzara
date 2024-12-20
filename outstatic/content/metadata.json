@@ -1,6 +1,6 @@
 {
-  "commit": "9be0e461afd49560412fd8ad14ebb4e3d000ddad",
-  "generated": "2024-12-19T20:31:40.063Z",
+  "commit": "889611698790510f3e631bd261ecbab7a7ba6806",
+  "generated": "2024-12-20T20:41:51.383Z",
   "metadata": [
     {
       "__outstatic": {
@@ -85,6 +85,27 @@
       "slug": "fragility",
       "status": "published",
       "title": "Fragility"
+    },
+    {
+      "__outstatic": {
+        "commit": "889611698790510f3e631bd261ecbab7a7ba6806",
+        "hash": "814722846",
+        "path": "outstatic/content/events/photo-project.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "",
+      "date": "January-December 2024",
+      "description": "",
+      "excerpt": "photo portraits project",
+      "notice": "",
+      "publishedAt": "2024-12-20T19:58:28.554Z",
+      "slug": "photo-project",
+      "status": "published",
+      "title": "photo project "
     }
   ]
 }
