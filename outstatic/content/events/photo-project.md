@@ -1,5 +1,5 @@
 ---
-title: 'photo project '
+title: 'Portrait of artist'
 status: 'published'
 author:
   name: ''
@@ -12,6 +12,8 @@ notice: ''
 excerpt: 'photo portraits project'
 publishedAt: '2022-12-31T19:58:28.000Z'
 ---
+
+*soon more information/more photoes*
 
 Isabelle & Bastian. Artists
 

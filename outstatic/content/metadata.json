@@ -1,6 +1,6 @@
 {
-  "commit": "8c011dcbce22f83ec001c467452a9011100171dc",
-  "generated": "2024-12-20T20:50:46.564Z",
+  "commit": "2f0d20ea2865cee3b06498f9fb7aa02283507918",
+  "generated": "2024-12-20T20:59:09.287Z",
   "metadata": [
     {
       "__outstatic": {
@@ -88,8 +88,8 @@
     },
     {
       "__outstatic": {
-        "commit": "8c011dcbce22f83ec001c467452a9011100171dc",
-        "hash": "2326707489",
+        "commit": "2f0d20ea2865cee3b06498f9fb7aa02283507918",
+        "hash": "1838519386",
         "path": "outstatic/content/events/photo-project.md"
       },
       "author": {
@@ -105,7 +105,7 @@
       "publishedAt": "2022-12-31T19:58:28.000Z",
       "slug": "photo-project",
       "status": "published",
-      "title": "photo project "
+      "title": "Portrait of artist"
     }
   ]
 }
