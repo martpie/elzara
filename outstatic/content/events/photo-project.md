@@ -1,5 +1,5 @@
 ---
-title: 'Portrait of artist'
+title: 'Portrait'
 status: 'published'
 author:
   name: ''
