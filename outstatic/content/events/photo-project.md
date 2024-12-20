@@ -6,11 +6,11 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/179383349?v=4'
 slug: 'photo-project'
 description: ''
-coverImage: '/images/img_0125ee-k4ND.jpg'
+coverImage: '/images/img_0125ee-Q3OT.jpg'
 date: 'January-December 2024'
 notice: ''
 excerpt: 'photo portraits project'
-publishedAt: '2024-12-20T19:58:28.554Z'
+publishedAt: '2023-12-31T19:58:28.000Z'
 ---
 
 Isabelle & Bastian. Artists
