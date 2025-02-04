@@ -1,6 +1,6 @@
 {
-  "commit": "d3b68397548092055038e0c612c503bb4963e13c",
-  "generated": "2025-02-04T17:34:37.775Z",
+  "commit": "174825ce5a37c53606cd7cd18c59f6c922337af6",
+  "generated": "2025-02-04T17:43:08.786Z",
   "metadata": [
     {
       "__outstatic": {
@@ -106,6 +106,27 @@
       "slug": "grenzen-borders",
       "status": "published",
       "title": "Grenzen/Borders"
+    },
+    {
+      "__outstatic": {
+        "commit": "174825ce5a37c53606cd7cd18c59f6c922337af6",
+        "hash": "3191255671",
+        "path": "outstatic/content/events/sea-of-words.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/slide1-g0NT.jpg",
+      "date": "14-28 February 2025",
+      "description": "",
+      "excerpt": "Personal exhibition 14-28 February. Vernissage 13 February 18-21h",
+      "notice": "upcoming",
+      "publishedAt": "2025-02-04T17:46:52.126Z",
+      "slug": "sea-of-words",
+      "status": "draft",
+      "title": "Sea of Words"
     }
   ]
 }
