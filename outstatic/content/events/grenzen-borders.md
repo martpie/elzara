@@ -8,7 +8,7 @@ slug: 'grenzen-borders'
 description: ''
 coverImage: '/images/polish_20230719_104819624-M4ND.jpg'
 date: '30 November 2024  - 19 January 2025'
-notice: 'current'
+notice: ''
 excerpt: 'Collective exhibition during Regionale 25 in Städtische Galerie Stapflehus Weil am Rhein'
 publishedAt: '2024-11-24T22:00:05.173Z'
 ---
@@ -24,3 +24,5 @@ I take part with the artwork 'Anaçiğim, Anam' from Crimean Tatar language mean
 Städtische Galerie Stapflehus
 
 Bläsiring 10, 79576 Weil am Rhein, Germany
+
+![](/images/anam.weil-am-rhein-kyNj.jpg)
