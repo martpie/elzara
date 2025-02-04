@@ -1,6 +1,6 @@
 ---
 title: 'Sea of Words'
-status: 'draft'
+status: 'published'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/179383349?v=4'
@@ -27,12 +27,8 @@ please contact me for any questions
 
 elzaraoiseau@gmail.com
 
- 
-
 Address 📍
 
 Go-Green-Art Gallerie Seestrasse 2
 
 8703 Erlenbach
-
- 

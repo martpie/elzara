@@ -1,6 +1,6 @@
 {
-  "commit": "174825ce5a37c53606cd7cd18c59f6c922337af6",
-  "generated": "2025-02-04T17:43:08.786Z",
+  "commit": "efc7838ca710b39a1a26d77f5dbc7c36bcf2ca80",
+  "generated": "2025-02-04T17:49:29.045Z",
   "metadata": [
     {
       "__outstatic": {
@@ -109,8 +109,8 @@
     },
     {
       "__outstatic": {
-        "commit": "174825ce5a37c53606cd7cd18c59f6c922337af6",
-        "hash": "3191255671",
+        "commit": "efc7838ca710b39a1a26d77f5dbc7c36bcf2ca80",
+        "hash": "2030024729",
         "path": "outstatic/content/events/sea-of-words.md"
       },
       "author": {
@@ -125,7 +125,7 @@
       "notice": "upcoming",
       "publishedAt": "2025-02-04T17:46:52.126Z",
       "slug": "sea-of-words",
-      "status": "draft",
+      "status": "published",
       "title": "Sea of Words"
     }
   ]
