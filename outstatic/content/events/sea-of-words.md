@@ -32,3 +32,5 @@ Address 📍
 Go-Green-Art Gallerie Seestrasse 2
 
 8703 Erlenbach
+
+![](/images/slide1-A0Nz.jpg)
