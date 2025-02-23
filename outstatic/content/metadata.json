@@ -1,6 +1,6 @@
 {
-  "commit": "efc7838ca710b39a1a26d77f5dbc7c36bcf2ca80",
-  "generated": "2025-02-04T17:55:23.242Z",
+  "commit": "d83879d8b87683dc81ec4e36d1271c7b5cfd28b3",
+  "generated": "2025-02-23T16:08:14.792Z",
   "metadata": [
     {
       "__outstatic": {
@@ -109,8 +109,8 @@
     },
     {
       "__outstatic": {
-        "commit": "efc7838ca710b39a1a26d77f5dbc7c36bcf2ca80",
-        "hash": "2825275155",
+        "commit": "d83879d8b87683dc81ec4e36d1271c7b5cfd28b3",
+        "hash": "3344864210",
         "path": "outstatic/content/events/sea-of-words.md"
       },
       "author": {
@@ -122,7 +122,7 @@
       "date": "14-28 February 2025",
       "description": "",
       "excerpt": "Personal exhibition. Vernissage 13 February 18-21h",
-      "notice": "upcoming",
+      "notice": "current",
       "publishedAt": "2025-02-04T17:46:52.126Z",
       "slug": "sea-of-words",
       "status": "published",
