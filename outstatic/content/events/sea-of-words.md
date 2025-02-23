@@ -9,7 +9,7 @@ description: ''
 coverImage: '/images/slide1-g0NT.jpg'
 date: '14-28 February 2025'
 notice: 'current'
-excerpt: 'Personal exhibition. Vernissage 13 February 18-21h'
+excerpt: 'Personal exhibition. Untill 28 February'
 publishedAt: '2025-02-04T17:46:52.126Z'
 ---
 
