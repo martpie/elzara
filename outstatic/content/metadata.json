@@ -1,6 +1,6 @@
 {
-  "commit": "d83879d8b87683dc81ec4e36d1271c7b5cfd28b3",
-  "generated": "2025-02-23T16:44:03.223Z",
+  "commit": "c63de9c5bf36c745e7b585690d4210c795f2de68",
+  "generated": "2025-03-06T08:53:04.088Z",
   "metadata": [
     {
       "__outstatic": {
@@ -109,8 +109,8 @@
     },
     {
       "__outstatic": {
-        "commit": "d83879d8b87683dc81ec4e36d1271c7b5cfd28b3",
-        "hash": "2673258658",
+        "commit": "c63de9c5bf36c745e7b585690d4210c795f2de68",
+        "hash": "3607254645",
         "path": "outstatic/content/events/sea-of-words.md"
       },
       "author": {
@@ -122,7 +122,7 @@
       "date": "14-28 February 2025",
       "description": "",
       "excerpt": "Personal exhibition. Untill 28 February",
-      "notice": "current",
+      "notice": "",
       "publishedAt": "2025-02-04T17:46:52.126Z",
       "slug": "sea-of-words",
       "status": "published",
