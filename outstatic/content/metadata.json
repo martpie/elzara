@@ -1,31 +1,10 @@
 {
-  "commit": "c63de9c5bf36c745e7b585690d4210c795f2de68",
-  "generated": "2025-03-06T08:53:04.088Z",
+  "commit": "",
+  "generated": "Thu, 13 Mar 2025 13:35:12 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "58c0bac2a41d5c299f0a08bbcaf114f794e0ce6d",
-        "hash": "275966192",
-        "path": "outstatic/content/events/jazz-lines.md"
-      },
-      "author": {
-        "name": "Pierre de la Martinière",
-        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/20231124-elzaraoiseau-ch-9-E4OD.jpg",
-      "date": "November 2023",
-      "description": "",
-      "excerpt": "Paintings and wire installations for solo exhibition Jazz Lines",
-      "notice": "",
-      "publishedAt": "2023-11-30T12:48:22.000Z",
-      "slug": "jazz-lines",
-      "status": "published",
-      "title": "Jazz Lines"
-    },
-    {
-      "__outstatic": {
-        "commit": "f342e9ea575061a0114fd84268885bb8b019354b",
+        "commit": "cc8045dc5af0a6571d052f3db6c8476bc48fe42a",
         "hash": "328779435",
         "path": "outstatic/content/events/conversation.md"
       },
@@ -46,28 +25,7 @@
     },
     {
       "__outstatic": {
-        "commit": "9be0e461afd49560412fd8ad14ebb4e3d000ddad",
-        "hash": "3602985109",
-        "path": "outstatic/content/events/fragility.md"
-      },
-      "author": {
-        "name": "Pierre de la Martinière",
-        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/fragility-UzMz.jpg",
-      "date": "March-April 2023",
-      "description": "",
-      "excerpt": "12 meters wall painting for Waschraum edition 1",
-      "notice": "",
-      "publishedAt": "2023-03-01T11:45:01.000Z",
-      "slug": "fragility",
-      "status": "published",
-      "title": "Fragility"
-    },
-    {
-      "__outstatic": {
-        "commit": "2f0d20ea2865cee3b06498f9fb7aa02283507918",
+        "commit": "7384e091c9dc0ccba79e722e1029f0044bd63545",
         "hash": "2372675836",
         "path": "outstatic/content/events/photo-project.md"
       },
@@ -88,7 +46,7 @@
     },
     {
       "__outstatic": {
-        "commit": "d3b68397548092055038e0c612c503bb4963e13c",
+        "commit": "7d2f88ac995d73be62377d8aac6354811fcf990d",
         "hash": "2019736769",
         "path": "outstatic/content/events/grenzen-borders.md"
       },
@@ -109,7 +67,49 @@
     },
     {
       "__outstatic": {
-        "commit": "c63de9c5bf36c745e7b585690d4210c795f2de68",
+        "commit": "71e7acd0c004da70512bcd6cc1fc175c9308b149",
+        "hash": "275966192",
+        "path": "outstatic/content/events/jazz-lines.md"
+      },
+      "author": {
+        "name": "Pierre de la Martinière",
+        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/20231124-elzaraoiseau-ch-9-E4OD.jpg",
+      "date": "November 2023",
+      "description": "",
+      "excerpt": "Paintings and wire installations for solo exhibition Jazz Lines",
+      "notice": "",
+      "publishedAt": "2023-11-30T12:48:22.000Z",
+      "slug": "jazz-lines",
+      "status": "published",
+      "title": "Jazz Lines"
+    },
+    {
+      "__outstatic": {
+        "commit": "4d535d651e420451f39033d5877b9d2bdd5065f4",
+        "hash": "3602985109",
+        "path": "outstatic/content/events/fragility.md"
+      },
+      "author": {
+        "name": "Pierre de la Martinière",
+        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/fragility-UzMz.jpg",
+      "date": "March-April 2023",
+      "description": "",
+      "excerpt": "12 meters wall painting for Waschraum edition 1",
+      "notice": "",
+      "publishedAt": "2023-03-01T11:45:01.000Z",
+      "slug": "fragility",
+      "status": "published",
+      "title": "Fragility"
+    },
+    {
+      "__outstatic": {
+        "commit": "70d474cce895252ae6fa89c451a88f9faa28cbb8",
         "hash": "3607254645",
         "path": "outstatic/content/events/sea-of-words.md"
       },
