@@ -9,15 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "highlight.js": "^11.11.1",
     "next": "15.2.4",
     "nextjs-toploader": "^3.8.16",
     "outstatic": "^2.0.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "remark": "^15.0.1",
-    "remark-html": "^16.0.1",
-    "tailwindcss": "^4.0.17"
+    "remark-html": "^16.0.1"
   },
   "devDependencies": {
     "@types/node": "^22.13.14",
