@@ -11,7 +11,7 @@
   "dependencies": {
     "next": "15.2.4",
     "nextjs-toploader": "^3.8.16",
-    "outstatic": "^2.0.3",
+    "outstatic": "2.0.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "remark": "^15.0.1",
