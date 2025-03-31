@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "highlight.js": "^11.11.1",
     "next": "15.2.4",
     "nextjs-toploader": "^3.8.16",
     "outstatic": "^2.0.3",
