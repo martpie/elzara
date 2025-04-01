@@ -1,16 +1,19 @@
 .homeProject {
+  display: block;
   max-width: min(100%, 500px);
   position: relative;
-  border: solid 2px transparent;
+  transition-property: transform;
+  transition-duration: .2s;
+  transition-timing-function: ease-in-out;
 }
 
 .homeProject:hover,
 .homeProject:focus {
-  border: solid 2px white;
+  transform: scale(1.05);
 }
 
 .homeProject:active {
-  border: solid 2px #aaa;
+  transform: scale(0.95);
 }
 
 .images {
