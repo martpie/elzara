@@ -1,16 +1,7 @@
 .homeProject {
+  display: block;
   max-width: min(100%, 500px);
   position: relative;
-  border: solid 2px transparent;
-}
-
-.homeProject:hover,
-.homeProject:focus {
-  border: solid 2px white;
-}
-
-.homeProject:active {
-  border: solid 2px #aaa;
 }
 
 .images {

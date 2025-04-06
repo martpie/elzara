@@ -10,16 +10,14 @@ export default async function Home() {
   return (
     <>
       <div className={styles.projects}>
-        <div className={styles.projectHighlight}>
-          <HomeProject
-            slug={highlightedProject.slug}
-            name={highlightedProject.title}
-            date={highlightedProject.date}
-            image={highlightedProject.coverImage}
-            excerpt={highlightedProject.excerpt}
-            notice={highlightedProject.notice}
-          />
-        </div>
+        <HomeProject
+          slug={highlightedProject.slug}
+          name={highlightedProject.title}
+          date={highlightedProject.date}
+          image={highlightedProject.coverImage}
+          excerpt={highlightedProject.excerpt}
+          notice={highlightedProject.notice}
+        />
 
         <div className={styles.pastProjects}>
           {otherProjects.map((project) => (

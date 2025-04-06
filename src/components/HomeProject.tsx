@@ -17,28 +17,26 @@ type Props = {
 
 export default function HomeProject(props: Props) {
   return (
-    <div className={styles.homeProject}>
-      <Link href={`/events/${props.slug}`} className={styles.homeProjectLink}>
-        <div className={styles.images}>
-          {props.image !== undefined && (
-            <Image
-              priority
-              className={styles.image}
-              src={props.image}
-              alt=""
-              width="500" // FIXME
-              height="500"
-            />
-          )}
-        </div>
+    <Link href={`/events/${props.slug}`} className={styles.homeProject} prefetch>
+      <div className={styles.images}>
+        {props.image !== undefined && (
+          <Image
+            priority
+            className={styles.image}
+            src={props.image}
+            alt=""
+            width="500" // FIXME
+            height="500"
+          />
+        )}
+      </div>
 
-        <div className={styles.headline}>
-          <h3 className={styles.title}>{props.name}</h3>
-          {props.notice != null && <Notice label={props.notice} />}
-        </div>
-        <Date date={props.date} />
-        <p className={styles.excerpt}>{props.excerpt}</p>
-      </Link>
-    </div>
+      <div className={styles.headline}>
+        <h3 className={styles.title}>{props.name}</h3>
+        {props.notice != null && <Notice label={props.notice} />}
+      </div>
+      <Date date={props.date} />
+      <p className={styles.excerpt}>{props.excerpt}</p>
+    </Link>
   );
 }
