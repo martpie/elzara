@@ -14,8 +14,10 @@
     "outstatic": "2.0.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "rehype-stringify": "^10.0.1",
     "remark": "^15.0.1",
-    "remark-html": "^16.0.1"
+    "remark-html": "^16.0.1",
+    "remark-youtube": "^1.3.2"
   },
   "devDependencies": {
     "@types/node": "^22.13.14",

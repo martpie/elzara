@@ -2,7 +2,10 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getDocumentBySlug, getDocumentSlugs } from "outstatic/server";
 import { remark } from "remark";
-import html from "remark-html";
+import remarkParse from "remark-parse";
+import remarkRehype from "remark-rehype";
+import rehypeStringify from "rehype-stringify";
+import remarkYoutube from "remark-youtube";
 
 import EventDate from "../../../../components/EventDate";
 import Link from "../../../../components/Link";
@@ -49,9 +52,13 @@ export default async function EventPage(props: Props) {
   );
 }
 
-async function getData(slug: string) {
-  const remarkInstance = remark().use(html);
+const remarkInstance = remark()
+  .use(remarkParse)
+  .use(remarkYoutube)
+  .use(remarkRehype)
+  .use(rehypeStringify);
 
+async function getData(slug: string) {
   const event = getDocumentBySlug("events", slug, [
     "title",
     "content",
