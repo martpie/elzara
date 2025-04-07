@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Thu, 13 Mar 2025 13:35:12 GMT",
+  "commit": "457c2704e330ade626d19530b42afc71229ed4b2",
+  "generated": "2025-04-07T17:37:14.141Z",
   "metadata": [
     {
       "__outstatic": {
@@ -67,27 +67,6 @@
     },
     {
       "__outstatic": {
-        "commit": "71e7acd0c004da70512bcd6cc1fc175c9308b149",
-        "hash": "275966192",
-        "path": "outstatic/content/events/jazz-lines.md"
-      },
-      "author": {
-        "name": "Pierre de la Martinière",
-        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/20231124-elzaraoiseau-ch-9-E4OD.jpg",
-      "date": "November 2023",
-      "description": "",
-      "excerpt": "Paintings and wire installations for solo exhibition Jazz Lines",
-      "notice": "",
-      "publishedAt": "2023-11-30T12:48:22.000Z",
-      "slug": "jazz-lines",
-      "status": "published",
-      "title": "Jazz Lines"
-    },
-    {
-      "__outstatic": {
         "commit": "4d535d651e420451f39033d5877b9d2bdd5065f4",
         "hash": "3602985109",
         "path": "outstatic/content/events/fragility.md"
@@ -127,6 +106,27 @@
       "slug": "sea-of-words",
       "status": "published",
       "title": "Sea of Words"
+    },
+    {
+      "__outstatic": {
+        "commit": "457c2704e330ade626d19530b42afc71229ed4b2",
+        "hash": "2557098090",
+        "path": "outstatic/content/events/jazz-lines.md"
+      },
+      "author": {
+        "name": "Pierre de la Martinière",
+        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/20231124-elzaraoiseau-ch-9-E4OD.jpg",
+      "date": "November 2023",
+      "description": "",
+      "excerpt": "Paintings and wire installations for solo exhibition Jazz Lines",
+      "notice": "",
+      "publishedAt": "2023-11-30T12:48:22.000Z",
+      "slug": "jazz-lines",
+      "status": "published",
+      "title": "Jazz Lines"
     }
   ]
 }

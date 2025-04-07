@@ -1,16 +1,16 @@
 ---
-title: 'Jazz Lines'
-status: 'published'
+title: "Jazz Lines"
+status: "published"
 author:
-  name: 'Pierre de la Martinière'
-  picture: 'https://avatars.githubusercontent.com/u/1311607?v=4'
-slug: 'jazz-lines'
-description: ''
-coverImage: '/images/20231124-elzaraoiseau-ch-9-E4OD.jpg'
-date: 'November 2023'
-notice: ''
-excerpt: 'Paintings and wire installations for solo exhibition Jazz Lines'
-publishedAt: '2023-11-30T12:48:22.000Z'
+  name: "Pierre de la Martinière"
+  picture: "https://avatars.githubusercontent.com/u/1311607?v=4"
+slug: "jazz-lines"
+description: ""
+coverImage: "/images/20231124-elzaraoiseau-ch-9-E4OD.jpg"
+date: "November 2023"
+notice: ""
+excerpt: "Paintings and wire installations for solo exhibition Jazz Lines"
+publishedAt: "2023-11-30T12:48:22.000Z"
 ---
 
 Jazz Lines: musical and visual dialogues of Nik Bärtsch and Elzara Oiseau, 2023
@@ -59,6 +59,6 @@ Photo [Claude Hofer](https://claude-hofer.com/)
 
 Check [Nik Bärtsch/Montags](https://www.nikbaertsch.com/montags)
 
-[video](https://youtu.be/E9eYCx-yNfY?feature=shared)
+&lt;iframe width="560" height="315" src="<https://www.youtube.com/embed/oeMaDCNfdWc?si=LZZRqMyM-ftuxafC>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 
-[video](https://youtu.be/oeMaDCNfdWc?si=zk0q8wVl0Tj2Cj5Z)
+&lt;iframe width="560" height="315" src="<https://www.youtube.com/embed/E9eYCx-yNfY?si=eHygO52ui14qxGeR>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
