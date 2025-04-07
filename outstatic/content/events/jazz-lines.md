@@ -59,6 +59,6 @@ Photo [Claude Hofer](https://claude-hofer.com/)
 
 Check [Nik Bärtsch/Montags](https://www.nikbaertsch.com/montags)
 
-&lt;iframe width="560" height="315" src="<https://www.youtube.com/embed/oeMaDCNfdWc?si=LZZRqMyM-ftuxafC>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+https://www.youtube.com/watch?v=oeMaDCNfdWc
 
-&lt;iframe width="560" height="315" src="<https://www.youtube.com/embed/E9eYCx-yNfY?si=eHygO52ui14qxGeR>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+https://www.youtube.com/watch?v=E9eYCx-yNfY
