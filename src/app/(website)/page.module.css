@@ -14,17 +14,19 @@
 }
 
 /** Merge that with HomeProject somehow? **/
-.projects a {
-  pointer-events: all;
-  transition: opacity .2s ease-in-out;
-}
+@media(hover: hover) and (pointer: fine) {
+  .projects a {
+    pointer-events: all;
+    transition: opacity .2s ease-in-out;
+  }
 
-.projects:hover a {
-  opacity: 0.4;
-}
+  .projects:hover a {
+    opacity: 0.4;
+  }
 
-.projects a:hover {
-  opacity: 1;
+  .projects a:hover {
+    opacity: 1;
+  }
 }
 /** End **/
 
