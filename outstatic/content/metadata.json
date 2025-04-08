@@ -1,6 +1,6 @@
 {
-  "commit": "10bdfa95d8d1094c41b51f99dec821b70b05978b",
-  "generated": "2025-04-08T16:55:47.407Z",
+  "commit": "",
+  "generated": "Tue, 08 Apr 2025 17:59:04 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -25,48 +25,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7384e091c9dc0ccba79e722e1029f0044bd63545",
-        "hash": "2372675836",
-        "path": "outstatic/content/events/photo-project.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/img_0125ee-Y3MD.jpg",
-      "date": "January-December 2024",
-      "description": "",
-      "excerpt": "photo portraits project",
-      "notice": "",
-      "publishedAt": "2022-12-31T19:58:28.000Z",
-      "slug": "photo-project",
-      "status": "published",
-      "title": "Portrait"
-    },
-    {
-      "__outstatic": {
-        "commit": "7d2f88ac995d73be62377d8aac6354811fcf990d",
-        "hash": "2019736769",
-        "path": "outstatic/content/events/grenzen-borders.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/polish_20230719_104819624-M4ND.jpg",
-      "date": "30 November 2024  - 19 January 2025",
-      "description": "",
-      "excerpt": "Collective exhibition during Regionale 25 in Städtische Galerie Stapflehus Weil am Rhein",
-      "notice": "",
-      "publishedAt": "2024-11-24T22:00:05.173Z",
-      "slug": "grenzen-borders",
-      "status": "published",
-      "title": "Grenzen/Borders"
-    },
-    {
-      "__outstatic": {
         "commit": "4d535d651e420451f39033d5877b9d2bdd5065f4",
         "hash": "3602985109",
         "path": "outstatic/content/events/fragility.md"
@@ -85,6 +43,27 @@
       "slug": "fragility",
       "status": "published",
       "title": "Fragility"
+    },
+    {
+      "__outstatic": {
+        "commit": "7384e091c9dc0ccba79e722e1029f0044bd63545",
+        "hash": "2372675836",
+        "path": "outstatic/content/events/photo-project.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/img_0125ee-Y3MD.jpg",
+      "date": "January-December 2024",
+      "description": "",
+      "excerpt": "photo portraits project",
+      "notice": "",
+      "publishedAt": "2022-12-31T19:58:28.000Z",
+      "slug": "photo-project",
+      "status": "published",
+      "title": "Portrait"
     },
     {
       "__outstatic": {
@@ -109,7 +88,7 @@
     },
     {
       "__outstatic": {
-        "commit": "4fb36fae616de5ba347354b7c39f5912a4daceca",
+        "commit": "aa8a07df960bc1b6eba665ad3048936de641fea4",
         "hash": "1382276435",
         "path": "outstatic/content/events/jazz-lines.md"
       },
@@ -130,7 +109,7 @@
     },
     {
       "__outstatic": {
-        "commit": "10bdfa95d8d1094c41b51f99dec821b70b05978b",
+        "commit": "f739f9800850e9f7b9c610186aabaef5164ac740",
         "hash": "3351301188",
         "path": "outstatic/content/events/ineffable.mdx"
       },
@@ -145,6 +124,27 @@
       "slug": "ineffable",
       "status": "published",
       "title": "Ineffable"
+    },
+    {
+      "__outstatic": {
+        "commit": "7d2f88ac995d73be62377d8aac6354811fcf990d",
+        "hash": "2019736769",
+        "path": "outstatic/content/events/grenzen-borders.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/polish_20230719_104819624-M4ND.jpg",
+      "date": "30 November 2024  - 19 January 2025",
+      "description": "",
+      "excerpt": "Collective exhibition during Regionale 25 in Städtische Galerie Stapflehus Weil am Rhein",
+      "notice": "",
+      "publishedAt": "2024-11-24T22:00:05.173Z",
+      "slug": "grenzen-borders",
+      "status": "published",
+      "title": "Grenzen/Borders"
     }
   ]
 }
