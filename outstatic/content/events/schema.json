@@ -22,6 +22,12 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Excerpt"
+    },
+    "coverImage": {
+      "required": false,
+      "fieldType": "Image",
+      "dataType": "image",
+      "title": "Cover Image"
     }
   }
 }
