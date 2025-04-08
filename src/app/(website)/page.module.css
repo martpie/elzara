@@ -13,6 +13,10 @@
   pointer-events: none;
 }
 
+.projects a {
+  pointer-events: all;
+}
+
 /** Merge that with HomeProject somehow? **/
 @media(hover: hover) and (pointer: fine) {
   .projects a {
