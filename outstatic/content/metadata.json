@@ -1,6 +1,6 @@
 {
-  "commit": "f795f67b5e4064ee3c1215eebfcb54be03b1ca00",
-  "generated": "2025-04-08T17:54:49.955Z",
+  "commit": "d7fc5eaad335531a935d2ab8500d55aafa994bf1",
+  "generated": "2025-04-08T17:58:11.060Z",
   "metadata": [
     {
       "__outstatic": {
@@ -124,8 +124,8 @@
     },
     {
       "__outstatic": {
-        "commit": "f795f67b5e4064ee3c1215eebfcb54be03b1ca00",
-        "hash": "3447102116",
+        "commit": "d7fc5eaad335531a935d2ab8500d55aafa994bf1",
+        "hash": "2948963022",
         "path": "outstatic/content/events/ineffable.mdx"
       },
       "author": {
