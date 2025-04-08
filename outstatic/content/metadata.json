@@ -1,6 +1,6 @@
 {
-  "commit": "4fb36fae616de5ba347354b7c39f5912a4daceca",
-  "generated": "2025-04-07T17:41:29.956Z",
+  "commit": "a096a42be8531c30664632733a07e401fc2806fc",
+  "generated": "2025-04-08T16:53:27.097Z",
   "metadata": [
     {
       "__outstatic": {
@@ -127,6 +127,24 @@
       "slug": "jazz-lines",
       "status": "published",
       "title": "Jazz Lines"
+    },
+    {
+      "__outstatic": {
+        "commit": "a096a42be8531c30664632733a07e401fc2806fc",
+        "hash": "925698288",
+        "path": "outstatic/content/events/ineffable.mdx"
+      },
+      "author": {
+        "name": "Elzara",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "date": "2023-2024",
+      "excerpt": "drawings",
+      "publishedAt": "2025-04-08T17:10:15.375Z",
+      "slug": "ineffable",
+      "status": "draft",
+      "title": "Ineffable"
     }
   ]
 }
