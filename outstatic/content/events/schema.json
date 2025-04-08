@@ -28,6 +28,12 @@
       "fieldType": "Image",
       "dataType": "image",
       "title": "Cover Image"
+    },
+    "description": {
+      "required": true,
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "Description"
     }
   }
 }
