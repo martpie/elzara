@@ -5,7 +5,6 @@ author:
   name: "Pierre de la Martinière"
   picture: "https://avatars.githubusercontent.com/u/1311607?v=4"
 slug: "jazz-lines"
-description: ""
 coverImage: "/images/20231124-elzaraoiseau-ch-9-E4OD.jpg"
 date: "November 2023"
 notice: ""

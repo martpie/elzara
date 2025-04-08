@@ -1,16 +1,15 @@
 ---
-title: 'Grenzen/Borders'
-status: 'published'
+title: "Grenzen/Borders"
+status: "published"
 author:
-  name: ''
-  picture: 'https://avatars.githubusercontent.com/u/179383349?v=4'
-slug: 'grenzen-borders'
-description: ''
-coverImage: '/images/polish_20230719_104819624-M4ND.jpg'
-date: '30 November 2024  - 19 January 2025'
-notice: ''
-excerpt: 'Collective exhibition during Regionale 25 in Städtische Galerie Stapflehus Weil am Rhein'
-publishedAt: '2024-11-24T22:00:05.173Z'
+  name: ""
+  picture: "https://avatars.githubusercontent.com/u/179383349?v=4"
+slug: "grenzen-borders"
+coverImage: "/images/polish_20230719_104819624-M4ND.jpg"
+date: "30 November 2024  - 19 January 2025"
+notice: ""
+excerpt: "Collective exhibition during Regionale 25 in Städtische Galerie Stapflehus Weil am Rhein"
+publishedAt: "2024-11-24T22:00:05.173Z"
 ---
 
 Collective exhibition during [Regionale 25](https://regionale.org/) in [Städtische Galerie Stapflehus Weil am Rhein](https://www.stapflehus.de/ausstellung/aktuell/a.htm).

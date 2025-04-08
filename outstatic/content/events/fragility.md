@@ -1,16 +1,15 @@
 ---
-title: 'Fragility'
-status: 'published'
+title: "Fragility"
+status: "published"
 author:
-  name: 'Pierre de la Martinière'
-  picture: 'https://avatars.githubusercontent.com/u/1311607?v=4'
-slug: 'fragility'
-description: ''
-coverImage: '/images/fragility-UzMz.jpg'
-date: 'March-April 2023'
-notice: ''
-excerpt: '12 meters wall painting for Waschraum edition 1'
-publishedAt: '2023-03-01T11:45:01.000Z'
+  name: "Pierre de la Martinière"
+  picture: "https://avatars.githubusercontent.com/u/1311607?v=4"
+slug: "fragility"
+coverImage: "/images/fragility-UzMz.jpg"
+date: "March-April 2023"
+notice: ""
+excerpt: "12 meters wall painting for Waschraum edition 1"
+publishedAt: "2023-03-01T11:45:01.000Z"
 ---
 
 [12 meters wall painting](https://wasch-raum.ch/kuenstlerinnen/elzara-oiseau/) for collective exhibition [«loslassen – loswerden»](https://wasch-raum.ch/archiv/) [Waschraum](https://wasch-raum.ch/)

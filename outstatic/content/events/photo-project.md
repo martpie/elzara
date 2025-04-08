@@ -1,19 +1,18 @@
 ---
-title: 'Portrait'
-status: 'published'
+title: "Portrait"
+status: "published"
 author:
-  name: ''
-  picture: 'https://avatars.githubusercontent.com/u/179383349?v=4'
-slug: 'photo-project'
-description: ''
-coverImage: '/images/img_0125ee-Y3MD.jpg'
-date: 'January-December 2024'
-notice: ''
-excerpt: 'photo portraits project'
-publishedAt: '2022-12-31T19:58:28.000Z'
+  name: ""
+  picture: "https://avatars.githubusercontent.com/u/179383349?v=4"
+slug: "photo-project"
+coverImage: "/images/img_0125ee-Y3MD.jpg"
+date: "January-December 2024"
+notice: ""
+excerpt: "photo portraits project"
+publishedAt: "2022-12-31T19:58:28.000Z"
 ---
 
-*soon more information/more photos*
+_soon more information/more photos_
 
 Isabelle & Bastian. Artists
 

@@ -1,16 +1,15 @@
 ---
-title: 'Conversation'
-status: 'published'
+title: "Conversation"
+status: "published"
 author:
-  name: 'Pierre de la Martinière'
-  picture: 'https://avatars.githubusercontent.com/u/1311607?v=4'
-slug: 'conversation'
-description: ''
-coverImage: '/images/conv-for-site-k0MD.jpg'
-date: 'June 28th - July 14th 2024'
-notice: ''
-excerpt: 'Site-specific installation for Waschraum  edition 2'
-publishedAt: '2024-06-28T11:55:31.000Z'
+  name: "Pierre de la Martinière"
+  picture: "https://avatars.githubusercontent.com/u/1311607?v=4"
+slug: "conversation"
+coverImage: "/images/conv-for-site-k0MD.jpg"
+date: "June 28th - July 14th 2024"
+notice: ""
+excerpt: "Site-specific installation for Waschraum  edition 2"
+publishedAt: "2024-06-28T11:55:31.000Z"
 ---
 
 Site-specific installation for [Waschraum](https://wasch-raum.ch/elzara-oiseau/)
