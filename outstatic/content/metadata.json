@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Tue, 08 Apr 2025 18:14:11 GMT",
+  "commit": "f795f67b5e4064ee3c1215eebfcb54be03b1ca00",
+  "generated": "2025-04-08T17:54:49.955Z",
   "metadata": [
     {
       "__outstatic": {
@@ -41,24 +41,6 @@
       "slug": "fragility",
       "status": "published",
       "title": "Fragility"
-    },
-    {
-      "__outstatic": {
-        "commit": "f739f9800850e9f7b9c610186aabaef5164ac740",
-        "hash": "3351301188",
-        "path": "outstatic/content/events/ineffable.mdx"
-      },
-      "author": {
-        "name": "Elzara",
-        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
-      },
-      "collection": "events",
-      "date": "2023-2024",
-      "excerpt": "drawings",
-      "publishedAt": "2025-01-31T22:00:00.000Z",
-      "slug": "ineffable",
-      "status": "published",
-      "title": "Ineffable"
     },
     {
       "__outstatic": {
@@ -139,6 +121,25 @@
       "slug": "photo-project",
       "status": "published",
       "title": "Portrait"
+    },
+    {
+      "__outstatic": {
+        "commit": "f795f67b5e4064ee3c1215eebfcb54be03b1ca00",
+        "hash": "3447102116",
+        "path": "outstatic/content/events/ineffable.mdx"
+      },
+      "author": {
+        "name": "Elzara",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "",
+      "date": "2023-2024",
+      "excerpt": "drawings",
+      "publishedAt": "2025-01-31T22:00:00.000Z",
+      "slug": "ineffable",
+      "status": "published",
+      "title": "Ineffable"
     }
   ]
 }
