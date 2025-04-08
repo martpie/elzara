@@ -1,6 +1,6 @@
 {
-  "commit": "d7fc5eaad335531a935d2ab8500d55aafa994bf1",
-  "generated": "2025-04-08T17:58:11.060Z",
+  "commit": "e85a9df8323f3e4a47b42a4ac794e8851c64df71",
+  "generated": "2025-04-08T18:03:29.110Z",
   "metadata": [
     {
       "__outstatic": {
@@ -124,8 +124,8 @@
     },
     {
       "__outstatic": {
-        "commit": "d7fc5eaad335531a935d2ab8500d55aafa994bf1",
-        "hash": "2948963022",
+        "commit": "e85a9df8323f3e4a47b42a4ac794e8851c64df71",
+        "hash": "2932180578",
         "path": "outstatic/content/events/ineffable.mdx"
       },
       "author": {
@@ -133,7 +133,7 @@
         "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
       },
       "collection": "events",
-      "coverImage": "",
+      "coverImage": "/images/photo_2025-04-08_18-36-59--3--Q2ND.jpg",
       "date": "2023-2024",
       "excerpt": "drawings",
       "publishedAt": "2025-01-31T22:00:00.000Z",
