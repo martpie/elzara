@@ -1,6 +1,6 @@
 {
-  "commit": "a096a42be8531c30664632733a07e401fc2806fc",
-  "generated": "2025-04-08T16:53:27.097Z",
+  "commit": "10bdfa95d8d1094c41b51f99dec821b70b05978b",
+  "generated": "2025-04-08T16:55:47.407Z",
   "metadata": [
     {
       "__outstatic": {
@@ -130,8 +130,8 @@
     },
     {
       "__outstatic": {
-        "commit": "a096a42be8531c30664632733a07e401fc2806fc",
-        "hash": "925698288",
+        "commit": "10bdfa95d8d1094c41b51f99dec821b70b05978b",
+        "hash": "3351301188",
         "path": "outstatic/content/events/ineffable.mdx"
       },
       "author": {
@@ -141,9 +141,9 @@
       "collection": "events",
       "date": "2023-2024",
       "excerpt": "drawings",
-      "publishedAt": "2025-04-08T17:10:15.375Z",
+      "publishedAt": "2025-01-31T22:00:00.000Z",
       "slug": "ineffable",
-      "status": "draft",
+      "status": "published",
       "title": "Ineffable"
     }
   ]
