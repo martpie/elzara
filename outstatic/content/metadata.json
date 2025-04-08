@@ -1,11 +1,11 @@
 {
   "commit": "",
-  "generated": "Tue, 08 Apr 2025 17:59:04 GMT",
+  "generated": "Tue, 08 Apr 2025 18:14:11 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "cc8045dc5af0a6571d052f3db6c8476bc48fe42a",
-        "hash": "328779435",
+        "commit": "c7cfc82fa67601289ec93e223805e6b55a238f2d",
+        "hash": "3868726822",
         "path": "outstatic/content/events/conversation.md"
       },
       "author": {
@@ -24,8 +24,8 @@
     },
     {
       "__outstatic": {
-        "commit": "4d535d651e420451f39033d5877b9d2bdd5065f4",
-        "hash": "3602985109",
+        "commit": "39cb409d7d80fe354190ddb2dbe5eca3dd7d62dd",
+        "hash": "2269629305",
         "path": "outstatic/content/events/fragility.md"
       },
       "author": {
@@ -41,66 +41,6 @@
       "slug": "fragility",
       "status": "published",
       "title": "Fragility"
-    },
-    {
-      "__outstatic": {
-        "commit": "7384e091c9dc0ccba79e722e1029f0044bd63545",
-        "hash": "2372675836",
-        "path": "outstatic/content/events/photo-project.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/img_0125ee-Y3MD.jpg",
-      "date": "January-December 2024",
-      "excerpt": "photo portraits project",
-      "notice": "",
-      "publishedAt": "2022-12-31T19:58:28.000Z",
-      "slug": "photo-project",
-      "status": "published",
-      "title": "Portrait"
-    },
-    {
-      "__outstatic": {
-        "commit": "70d474cce895252ae6fa89c451a88f9faa28cbb8",
-        "hash": "3607254645",
-        "path": "outstatic/content/events/sea-of-words.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/slide1-g0NT.jpg",
-      "date": "14-28 February 2025",
-      "excerpt": "Personal exhibition. Untill 28 February",
-      "notice": "",
-      "publishedAt": "2025-02-04T17:46:52.126Z",
-      "slug": "sea-of-words",
-      "status": "published",
-      "title": "Sea of Words"
-    },
-    {
-      "__outstatic": {
-        "commit": "aa8a07df960bc1b6eba665ad3048936de641fea4",
-        "hash": "1382276435",
-        "path": "outstatic/content/events/jazz-lines.md"
-      },
-      "author": {
-        "name": "Pierre de la Martinière",
-        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/20231124-elzaraoiseau-ch-9-E4OD.jpg",
-      "date": "November 2023",
-      "excerpt": "Paintings and wire installations for solo exhibition Jazz Lines",
-      "notice": "",
-      "publishedAt": "2023-11-30T12:48:22.000Z",
-      "slug": "jazz-lines",
-      "status": "published",
-      "title": "Jazz Lines"
     },
     {
       "__outstatic": {
@@ -122,8 +62,48 @@
     },
     {
       "__outstatic": {
-        "commit": "7d2f88ac995d73be62377d8aac6354811fcf990d",
-        "hash": "2019736769",
+        "commit": "99ada277fdb3ed0155df579141c4eb8416095562",
+        "hash": "2791385435",
+        "path": "outstatic/content/events/jazz-lines.md"
+      },
+      "author": {
+        "name": "Pierre de la Martinière",
+        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/20231124-elzaraoiseau-ch-9-E4OD.jpg",
+      "date": "November 2023",
+      "excerpt": "Paintings and wire installations for solo exhibition Jazz Lines",
+      "notice": "",
+      "publishedAt": "2023-11-30T12:48:22.000Z",
+      "slug": "jazz-lines",
+      "status": "published",
+      "title": "Jazz Lines"
+    },
+    {
+      "__outstatic": {
+        "commit": "d65901559cca2ea8ecc62a55df7af62ba5af8212",
+        "hash": "2873255704",
+        "path": "outstatic/content/events/sea-of-words.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/slide1-g0NT.jpg",
+      "date": "14-28 February 2025",
+      "excerpt": "Personal exhibition. Untill 28 February",
+      "notice": "",
+      "publishedAt": "2025-02-04T17:46:52.126Z",
+      "slug": "sea-of-words",
+      "status": "published",
+      "title": "Sea of Words"
+    },
+    {
+      "__outstatic": {
+        "commit": "e71884aadbddfeed8b6b0f9172136021fb763f66",
+        "hash": "923232025",
         "path": "outstatic/content/events/grenzen-borders.md"
       },
       "author": {
@@ -139,6 +119,26 @@
       "slug": "grenzen-borders",
       "status": "published",
       "title": "Grenzen/Borders"
+    },
+    {
+      "__outstatic": {
+        "commit": "1582a94cd93066a6e469669f9de1318e8bbd1ea6",
+        "hash": "696499795",
+        "path": "outstatic/content/events/photo-project.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/img_0125ee-Y3MD.jpg",
+      "date": "January-December 2024",
+      "excerpt": "photo portraits project",
+      "notice": "",
+      "publishedAt": "2022-12-31T19:58:28.000Z",
+      "slug": "photo-project",
+      "status": "published",
+      "title": "Portrait"
     }
   ]
 }
