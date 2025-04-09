@@ -12,7 +12,7 @@ excerpt: "photo portraits project"
 publishedAt: "2022-12-31T19:58:28.000Z"
 ---
 
-_soon more information/more photos_
+*soon more information/more photos*
 
 Isabelle & Bastian. Artists
 
@@ -59,3 +59,5 @@ autoportrait
 ![](/images/img_9850e-M4Mz.jpg)
 
 ![](/images/img_0587elow-g1Nj.jpg)
+
+![](/images/free-nature-images-kzMz.jpg)

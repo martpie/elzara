@@ -1,6 +1,6 @@
 {
-  "commit": "3aa04eb0a09484d69465db0855ebdcfd5a550866",
-  "generated": "2025-04-09T21:48:33.802Z",
+  "commit": "0dd712cd36aaaf004cbf595108faac344675a3cb",
+  "generated": "2025-04-09T22:09:04.917Z",
   "metadata": [
     {
       "__outstatic": {
@@ -84,26 +84,6 @@
     },
     {
       "__outstatic": {
-        "commit": "1582a94cd93066a6e469669f9de1318e8bbd1ea6",
-        "hash": "696499795",
-        "path": "outstatic/content/events/photo-project.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/img_0125ee-Y3MD.jpg",
-      "date": "January-December 2024",
-      "excerpt": "photo portraits project",
-      "notice": "",
-      "publishedAt": "2022-12-31T19:58:28.000Z",
-      "slug": "photo-project",
-      "status": "published",
-      "title": "Portrait"
-    },
-    {
-      "__outstatic": {
         "commit": "e85a9df8323f3e4a47b42a4ac794e8851c64df71",
         "hash": "2932180578",
         "path": "outstatic/content/events/ineffable.mdx"
@@ -140,6 +120,26 @@
       "slug": "sea-of-words",
       "status": "published",
       "title": "Sea of Words"
+    },
+    {
+      "__outstatic": {
+        "commit": "0dd712cd36aaaf004cbf595108faac344675a3cb",
+        "hash": "2758459374",
+        "path": "outstatic/content/events/photo-project.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/img_0125ee-Y3MD.jpg",
+      "date": "January-December 2024",
+      "excerpt": "photo portraits project",
+      "notice": "",
+      "publishedAt": "2022-12-31T19:58:28.000Z",
+      "slug": "photo-project",
+      "status": "published",
+      "title": "Portrait"
     }
   ]
 }
