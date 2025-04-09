@@ -1,6 +1,6 @@
 {
-  "commit": "0dd712cd36aaaf004cbf595108faac344675a3cb",
-  "generated": "2025-04-09T22:09:04.917Z",
+  "commit": "c0ca71df2c73a83be807fd3783be10e3767e36c1",
+  "generated": "2025-04-09T22:10:01.928Z",
   "metadata": [
     {
       "__outstatic": {
@@ -123,8 +123,8 @@
     },
     {
       "__outstatic": {
-        "commit": "0dd712cd36aaaf004cbf595108faac344675a3cb",
-        "hash": "2758459374",
+        "commit": "c0ca71df2c73a83be807fd3783be10e3767e36c1",
+        "hash": "3212511292",
         "path": "outstatic/content/events/photo-project.md"
       },
       "author": {

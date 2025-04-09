@@ -59,5 +59,3 @@ autoportrait
 ![](/images/img_9850e-M4Mz.jpg)
 
 ![](/images/img_0587elow-g1Nj.jpg)
-
-![](/images/free-nature-images-kzMz.jpg)
