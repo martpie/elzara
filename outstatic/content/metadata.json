@@ -1,6 +1,6 @@
 {
-  "commit": "e85a9df8323f3e4a47b42a4ac794e8851c64df71",
-  "generated": "2025-04-08T18:03:29.110Z",
+  "commit": "9c0c4babc570550914ae8844e7f8b5478c868ac9",
+  "generated": "2025-04-09T21:21:00.683Z",
   "metadata": [
     {
       "__outstatic": {
@@ -64,26 +64,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d65901559cca2ea8ecc62a55df7af62ba5af8212",
-        "hash": "2873255704",
-        "path": "outstatic/content/events/sea-of-words.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/slide1-g0NT.jpg",
-      "date": "14-28 February 2025",
-      "excerpt": "Personal exhibition. Untill 28 February",
-      "notice": "",
-      "publishedAt": "2025-02-04T17:46:52.126Z",
-      "slug": "sea-of-words",
-      "status": "published",
-      "title": "Sea of Words"
-    },
-    {
-      "__outstatic": {
         "commit": "e71884aadbddfeed8b6b0f9172136021fb763f66",
         "hash": "923232025",
         "path": "outstatic/content/events/grenzen-borders.md"
@@ -140,6 +120,26 @@
       "slug": "ineffable",
       "status": "published",
       "title": "Ineffable"
+    },
+    {
+      "__outstatic": {
+        "commit": "9c0c4babc570550914ae8844e7f8b5478c868ac9",
+        "hash": "944416462",
+        "path": "outstatic/content/events/sea-of-words.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "",
+      "date": "14-28 February 2025",
+      "excerpt": "Personal exhibition",
+      "notice": "",
+      "publishedAt": "2025-02-04T17:46:52.126Z",
+      "slug": "sea-of-words",
+      "status": "published",
+      "title": "Sea of Words"
     }
   ]
 }
