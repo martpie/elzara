@@ -1,6 +1,6 @@
 {
-  "commit": "0dd712cd36aaaf004cbf595108faac344675a3cb",
-  "generated": "2025-04-09T22:09:04.917Z",
+  "commit": "5cef833a795f838a0e04f8b72515f677a078abdd",
+  "generated": "2025-04-09T22:12:21.253Z",
   "media": [
     {
       "__outstatic": {
@@ -209,17 +209,6 @@
       "alt": "",
       "filename": "fragility-UzMz.jpg",
       "publishedAt": "2025-04-09T22:04:37.012Z",
-      "type": "image"
-    },
-    {
-      "__outstatic": {
-        "commit": "0dd712cd36aaaf004cbf595108faac344675a3cb",
-        "hash": "4225696031",
-        "path": "public/images/free-nature-images-kzMz.jpg"
-      },
-      "alt": "",
-      "filename": "free-nature-images-kzMz.jpg",
-      "publishedAt": "2025-04-09T22:09:04.916Z",
       "type": "image"
     },
     {
