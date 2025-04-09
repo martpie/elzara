@@ -5,7 +5,7 @@ author:
   name: ""
   picture: "https://avatars.githubusercontent.com/u/179383349?v=4"
 slug: "sea-of-words"
-coverImage: "/images/anam.weil-am-rhein-kyNj.jpg"
+coverImage: "/images/slide1-A0Nz.jpg"
 date: "14-28 February 2025"
 notice: ""
 excerpt: "Personal exhibition"

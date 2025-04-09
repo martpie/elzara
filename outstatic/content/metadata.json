@@ -1,6 +1,6 @@
 {
-  "commit": "c0ca71df2c73a83be807fd3783be10e3767e36c1",
-  "generated": "2025-04-09T22:10:01.928Z",
+  "commit": "50ad0f562adee18aec28c6060bd5b6a85d5d730f",
+  "generated": "2025-04-09T22:12:39.697Z",
   "metadata": [
     {
       "__outstatic": {
@@ -103,26 +103,6 @@
     },
     {
       "__outstatic": {
-        "commit": "3aa04eb0a09484d69465db0855ebdcfd5a550866",
-        "hash": "2190865463",
-        "path": "outstatic/content/events/sea-of-words.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/anam.weil-am-rhein-kyNj.jpg",
-      "date": "14-28 February 2025",
-      "excerpt": "Personal exhibition",
-      "notice": "",
-      "publishedAt": "2025-02-04T17:46:52.126Z",
-      "slug": "sea-of-words",
-      "status": "published",
-      "title": "Sea of Words"
-    },
-    {
-      "__outstatic": {
         "commit": "c0ca71df2c73a83be807fd3783be10e3767e36c1",
         "hash": "3212511292",
         "path": "outstatic/content/events/photo-project.md"
@@ -140,6 +120,26 @@
       "slug": "photo-project",
       "status": "published",
       "title": "Portrait"
+    },
+    {
+      "__outstatic": {
+        "commit": "50ad0f562adee18aec28c6060bd5b6a85d5d730f",
+        "hash": "3176720326",
+        "path": "outstatic/content/events/sea-of-words.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/slide1-A0Nz.jpg",
+      "date": "14-28 February 2025",
+      "excerpt": "Personal exhibition",
+      "notice": "",
+      "publishedAt": "2025-02-04T17:46:52.126Z",
+      "slug": "sea-of-words",
+      "status": "published",
+      "title": "Sea of Words"
     }
   ]
 }
