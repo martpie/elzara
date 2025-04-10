@@ -1,3 +1,4 @@
+import ReactMarkdown from "react-markdown";
 import styles from "./Markdown.module.css";
 
 type Props = {
@@ -6,9 +7,8 @@ type Props = {
 
 export default function Markdown(props: Props) {
   return (
-    <div
-      className={styles.markdown}
-      dangerouslySetInnerHTML={{ __html: props.content }}
-    />
+    <div className={styles.markdown}>
+      <ReactMarkdown>{props.content}</ReactMarkdown>
+    </div>
   );
 }
