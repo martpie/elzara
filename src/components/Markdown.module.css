@@ -24,9 +24,8 @@
   display: block;
   margin-block: 16px;
   cursor: pointer;
-  transition: opacity .2s ease-in-out;
 }
 
 .markdown .img:hover {
-  opacity: 0.4;
+  outline: solid white 2px;
 }
