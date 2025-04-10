@@ -2,11 +2,11 @@
   max-width: 600px;
 }
 
-.markdown :global(a) {
+.markdown :global(a):not([data-unstyled]) {
   border-bottom: 1px dotted white;
 }
 
-.markdown :global(a):hover {
+.markdown :global(a):not([data-unstyled]):hover {
   border-bottom: 1px solid white;
 }
 
@@ -25,7 +25,6 @@
   margin-block: 16px;
   cursor: pointer;
   transition: opacity .2s ease-in-out;
-  border: none !important;
 }
 
 .markdown .img:hover {

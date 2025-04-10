@@ -21,6 +21,7 @@ const MarkdownImage: Components["img"] = ({
       target="_blank"
       rel="noreferrer"
       className={styles.img}
+      data-unstyled
     >
       <img {...props} />
     </a>
