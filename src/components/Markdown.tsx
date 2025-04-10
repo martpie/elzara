@@ -10,7 +10,7 @@ type Props = {
 /**
  * Custom <img /> to see the image in full screen
  */
-const MarkdownImage: Components["img"] = ({ node, ...props }) => {
+const MarkdownImage: Components["img"] = (props) => {
   return (
     <a href={props.src} target="_blank" rel="noreferrer" className={styles.img}>
       <img {...props} />
@@ -21,7 +21,7 @@ const MarkdownImage: Components["img"] = ({ node, ...props }) => {
 /**
  * Custom paragraph, unwrapping <p> with a single <img /> in them
  */
-const MarkdownParagraph: Components["p"] = ({ node, children, ...props }) => {
+const MarkdownParagraph: Components["p"] = ({ children, ...props }) => {
   if (!children) {
     return null;
   }
