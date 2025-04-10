@@ -10,9 +10,18 @@ type Props = {
 /**
  * Custom <img /> to see the image in full screen
  */
-const MarkdownImage: Components["img"] = (props) => {
+const MarkdownImage: Components["img"] = ({
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  node,
+  ...props
+}) => {
   return (
-    <a href={props.src} target="_blank" rel="noreferrer" className={styles.img}>
+    <a
+      href={props.src}
+      target="_blank"
+      rel="noreferrer"
+      className={styles.img}
+    >
       <img {...props} />
     </a>
   );
@@ -21,7 +30,12 @@ const MarkdownImage: Components["img"] = (props) => {
 /**
  * Custom paragraph, unwrapping <p> with a single <img /> in them
  */
-const MarkdownParagraph: Components["p"] = ({ children, ...props }) => {
+const MarkdownParagraph: Components["p"] = ({
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  node,
+  children,
+  ...props
+}) => {
   if (!children) {
     return null;
   }
