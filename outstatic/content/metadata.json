@@ -1,27 +1,7 @@
 {
-  "commit": "597581fab78a870bc84818386fa779b3cdfde945",
-  "generated": "2025-04-11T22:38:48.964Z",
+  "commit": "",
+  "generated": "Fri, 11 Apr 2025 23:50:52 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "c7cfc82fa67601289ec93e223805e6b55a238f2d",
-        "hash": "3868726822",
-        "path": "outstatic/content/events/conversation.md"
-      },
-      "author": {
-        "name": "Pierre de la Martinière",
-        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/conv-for-site-k0MD.jpg",
-      "date": "June 28th - July 14th 2024",
-      "excerpt": "Site-specific installation for Waschraum  edition 2",
-      "notice": "",
-      "publishedAt": "2024-06-28T11:55:31.000Z",
-      "slug": "conversation",
-      "status": "published",
-      "title": "Conversation"
-    },
     {
       "__outstatic": {
         "commit": "39cb409d7d80fe354190ddb2dbe5eca3dd7d62dd",
@@ -41,26 +21,6 @@
       "slug": "fragility",
       "status": "published",
       "title": "Fragility"
-    },
-    {
-      "__outstatic": {
-        "commit": "99ada277fdb3ed0155df579141c4eb8416095562",
-        "hash": "2791385435",
-        "path": "outstatic/content/events/jazz-lines.md"
-      },
-      "author": {
-        "name": "Pierre de la Martinière",
-        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/20231124-elzaraoiseau-ch-9-E4OD.jpg",
-      "date": "November 2023",
-      "excerpt": "Paintings and wire installations for solo exhibition Jazz Lines",
-      "notice": "",
-      "publishedAt": "2023-11-30T12:48:22.000Z",
-      "slug": "jazz-lines",
-      "status": "published",
-      "title": "Jazz Lines"
     },
     {
       "__outstatic": {
@@ -84,7 +44,7 @@
     },
     {
       "__outstatic": {
-        "commit": "e85a9df8323f3e4a47b42a4ac794e8851c64df71",
+        "commit": "18c6d76a48d7267c386011f763c5fea36d965468",
         "hash": "2932180578",
         "path": "outstatic/content/events/ineffable.mdx"
       },
@@ -103,27 +63,46 @@
     },
     {
       "__outstatic": {
-        "commit": "76cb308e1ce1f2c77152fbf03f09a668e0a943e0",
-        "hash": "837242161",
-        "path": "outstatic/content/events/photo-project.md"
+        "commit": "c7cfc82fa67601289ec93e223805e6b55a238f2d",
+        "hash": "3868726822",
+        "path": "outstatic/content/events/conversation.md"
       },
       "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+        "name": "Pierre de la Martinière",
+        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
       },
       "collection": "events",
-      "coverImage": "/images/img_0656e-IxNz.jpg",
-      "date": "January-December 2024",
-      "excerpt": "photo portraits project",
+      "coverImage": "/images/conv-for-site-k0MD.jpg",
+      "date": "June 28th - July 14th 2024",
+      "excerpt": "Site-specific installation for Waschraum  edition 2",
       "notice": "",
-      "publishedAt": "2022-12-31T19:58:28.000Z",
-      "slug": "photo-project",
+      "publishedAt": "2024-06-28T11:55:31.000Z",
+      "slug": "conversation",
       "status": "published",
-      "title": "Portrait"
+      "title": "Conversation"
     },
     {
       "__outstatic": {
-        "commit": "8f2d86f06731b473e32dc07c2dd68107d00c3b90",
+        "commit": "bd44bc26a5165126abe298a99e4b45cefa2e322f",
+        "hash": "1861550867",
+        "path": "outstatic/content/events/surgunlik.mdx"
+      },
+      "author": {
+        "name": "Elzara",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/img_2090-E2NT.jpg",
+      "date": "December 2024",
+      "excerpt": "Sürgünlik",
+      "publishedAt": "2025-02-27T22:00:00.000Z",
+      "slug": "surgunlik",
+      "status": "published",
+      "title": "Sürgünlik "
+    },
+    {
+      "__outstatic": {
+        "commit": "a9722f68ff89efbe569b0899976bb2bca429d078",
         "hash": "2443176682",
         "path": "outstatic/content/events/sea-of-words.md"
       },
@@ -143,7 +122,47 @@
     },
     {
       "__outstatic": {
-        "commit": "19e42991ca486f1634ed0373fa0c4bed524433fc",
+        "commit": "7eb9855767ce23d8c77ad7254d56cf84521439c9",
+        "hash": "837242161",
+        "path": "outstatic/content/events/photo-project.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/img_0656e-IxNz.jpg",
+      "date": "January-December 2024",
+      "excerpt": "photo portraits project",
+      "notice": "",
+      "publishedAt": "2022-12-31T19:58:28.000Z",
+      "slug": "photo-project",
+      "status": "published",
+      "title": "Portrait"
+    },
+    {
+      "__outstatic": {
+        "commit": "99ada277fdb3ed0155df579141c4eb8416095562",
+        "hash": "2791385435",
+        "path": "outstatic/content/events/jazz-lines.md"
+      },
+      "author": {
+        "name": "Pierre de la Martinière",
+        "picture": "https://avatars.githubusercontent.com/u/1311607?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/20231124-elzaraoiseau-ch-9-E4OD.jpg",
+      "date": "November 2023",
+      "excerpt": "Paintings and wire installations for solo exhibition Jazz Lines",
+      "notice": "",
+      "publishedAt": "2023-11-30T12:48:22.000Z",
+      "slug": "jazz-lines",
+      "status": "published",
+      "title": "Jazz Lines"
+    },
+    {
+      "__outstatic": {
+        "commit": "52e362cc0ac09e84fd5d03c68306b8852b260e54",
         "hash": "3619033845",
         "path": "outstatic/content/events/la-mer-la-mere.mdx"
       },
@@ -159,25 +178,6 @@
       "slug": "la-mer-la-mere",
       "status": "published",
       "title": "la mer la mère"
-    },
-    {
-      "__outstatic": {
-        "commit": "597581fab78a870bc84818386fa779b3cdfde945",
-        "hash": "1861550867",
-        "path": "outstatic/content/events/surgunlik.mdx"
-      },
-      "author": {
-        "name": "Elzara",
-        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/img_2090-E2NT.jpg",
-      "date": "December 2024",
-      "excerpt": "Sürgünlik",
-      "publishedAt": "2025-02-27T22:00:00.000Z",
-      "slug": "surgunlik",
-      "status": "published",
-      "title": "Sürgünlik "
     }
   ]
 }
