@@ -1,6 +1,6 @@
 {
-  "commit": "8e9df034aa79f6fabb72eb3c35b151147a1458ae",
-  "generated": "2025-04-11T22:28:13.107Z",
+  "commit": "ddbffd740cb8743b3ab7557310c6005fab04bbce",
+  "generated": "2025-04-11T22:32:48.245Z",
   "metadata": [
     {
       "__outstatic": {
@@ -162,8 +162,8 @@
     },
     {
       "__outstatic": {
-        "commit": "8e9df034aa79f6fabb72eb3c35b151147a1458ae",
-        "hash": "2823129500",
+        "commit": "ddbffd740cb8743b3ab7557310c6005fab04bbce",
+        "hash": "726452400",
         "path": "outstatic/content/events/surgunlik.mdx"
       },
       "author": {
@@ -174,7 +174,7 @@
       "coverImage": "/images/img_2090-E2NT.jpg",
       "date": "December 2024",
       "excerpt": "Sürgünlik",
-      "publishedAt": "2025-01-31T22:00:00.000Z",
+      "publishedAt": "2025-02-27T22:00:00.000Z",
       "slug": "surgunlik",
       "status": "published",
       "title": "Sürgünlik "
