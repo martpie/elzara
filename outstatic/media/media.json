@@ -1,6 +1,6 @@
 {
-  "commit": "fc8f61f59dbbae02de7c64f6d438b1ed89ff2c3c",
-  "generated": "2025-04-11T21:40:06.928Z",
+  "commit": "a23d4802f572bc5c383f1e0e6c8368ae6d4f4562",
+  "generated": "2025-04-11T22:16:22.891Z",
   "media": [
     {
       "__outstatic": {
@@ -1254,6 +1254,17 @@
       "alt": "",
       "filename": "slide1-g0NT.jpg",
       "publishedAt": "2025-04-11T19:06:27.701Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "a23d4802f572bc5c383f1e0e6c8368ae6d4f4562",
+        "hash": "3311738489",
+        "path": "public/images/surgunlikobjects-IzOT.jpg"
+      },
+      "alt": "",
+      "filename": "surgunlikobjects-IzOT.jpg",
+      "publishedAt": "2025-04-11T22:16:22.891Z",
       "type": "image"
     }
   ]
