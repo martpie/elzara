@@ -1,6 +1,6 @@
 {
-  "commit": "36eb5a4c7f7eacf2ae466f92ee0f9ce383bc4ca3",
-  "generated": "2025-04-11T21:00:45.714Z",
+  "commit": "635603db36776786e9c49d875753167ece2ccef3",
+  "generated": "2025-04-11T21:00:50.318Z",
   "media": [
     {
       "__outstatic": {
@@ -649,17 +649,6 @@
       "alt": "",
       "filename": "img_2158-M2Nj.jpg",
       "publishedAt": "2025-04-11T19:11:51.344Z",
-      "type": "image"
-    },
-    {
-      "__outstatic": {
-        "commit": "85518afb4b66cb0420fde137365d403727742c33",
-        "hash": "2668171400",
-        "path": "public/images/img_2171-U4ND.jpg"
-      },
-      "alt": "",
-      "filename": "img_2171-U4ND.jpg",
-      "publishedAt": "2025-04-11T19:13:02.570Z",
       "type": "image"
     },
     {
