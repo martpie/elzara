@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Fri, 11 Apr 2025 19:06:28 GMT",
+  "commit": "321097ea74469d435834d334edc178e59491cb36",
+  "generated": "2025-04-11T19:08:40.131Z",
   "media": [
     {
       "__outstatic": {
@@ -935,6 +935,17 @@
       "alt": "",
       "filename": "slide1-g0NT.jpg",
       "publishedAt": "2025-04-11T19:06:27.701Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "321097ea74469d435834d334edc178e59491cb36",
+        "hash": "3716734733",
+        "path": "public/images/wall-surgunlik-Q0ND.jpg"
+      },
+      "alt": "",
+      "filename": "wall-surgunlik-Q0ND.jpg",
+      "publishedAt": "2025-04-11T19:08:40.131Z",
       "type": "image"
     }
   ]
