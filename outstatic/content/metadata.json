@@ -1,6 +1,6 @@
 {
-  "commit": "8f2d86f06731b473e32dc07c2dd68107d00c3b90",
-  "generated": "2025-04-11T21:23:47.895Z",
+  "commit": "19e42991ca486f1634ed0373fa0c4bed524433fc",
+  "generated": "2025-04-11T21:48:49.959Z",
   "metadata": [
     {
       "__outstatic": {
@@ -140,6 +140,25 @@
       "slug": "sea-of-words",
       "status": "published",
       "title": "Sea of Words"
+    },
+    {
+      "__outstatic": {
+        "commit": "19e42991ca486f1634ed0373fa0c4bed524433fc",
+        "hash": "3619033845",
+        "path": "outstatic/content/events/la-mer-la-mere.mdx"
+      },
+      "author": {
+        "name": "Elzara",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/img_20241104_231946_095-I3MT.jpg",
+      "date": "september-october 2024",
+      "excerpt": "la mer project",
+      "publishedAt": "2024-09-13T21:00:00.000Z",
+      "slug": "la-mer-la-mere",
+      "status": "published",
+      "title": "la mer la mère"
     }
   ]
 }
