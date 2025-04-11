@@ -1,6 +1,6 @@
 {
-  "commit": "2dfcb5895bef9201b98d8b9ddc605b344809b973",
-  "generated": "2025-04-11T21:15:26.847Z",
+  "commit": "76cb308e1ce1f2c77152fbf03f09a668e0a943e0",
+  "generated": "2025-04-11T21:20:30.561Z",
   "metadata": [
     {
       "__outstatic": {
@@ -103,26 +103,6 @@
     },
     {
       "__outstatic": {
-        "commit": "c0ca71df2c73a83be807fd3783be10e3767e36c1",
-        "hash": "3212511292",
-        "path": "outstatic/content/events/photo-project.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/img_0125ee-Y3MD.jpg",
-      "date": "January-December 2024",
-      "excerpt": "photo portraits project",
-      "notice": "",
-      "publishedAt": "2022-12-31T19:58:28.000Z",
-      "slug": "photo-project",
-      "status": "published",
-      "title": "Portrait"
-    },
-    {
-      "__outstatic": {
         "commit": "2dfcb5895bef9201b98d8b9ddc605b344809b973",
         "hash": "1106961853",
         "path": "outstatic/content/events/sea-of-words.md"
@@ -140,6 +120,26 @@
       "slug": "sea-of-words",
       "status": "published",
       "title": "Sea of Words"
+    },
+    {
+      "__outstatic": {
+        "commit": "76cb308e1ce1f2c77152fbf03f09a668e0a943e0",
+        "hash": "837242161",
+        "path": "outstatic/content/events/photo-project.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/img_0656e-IxNz.jpg",
+      "date": "January-December 2024",
+      "excerpt": "photo portraits project",
+      "notice": "",
+      "publishedAt": "2022-12-31T19:58:28.000Z",
+      "slug": "photo-project",
+      "status": "published",
+      "title": "Portrait"
     }
   ]
 }
