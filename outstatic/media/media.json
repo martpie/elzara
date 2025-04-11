@@ -1,6 +1,6 @@
 {
-  "commit": "7efdd1621e45bea06cf1c9b80828f48cbcafe63b",
-  "generated": "2025-04-11T21:13:51.928Z",
+  "commit": "8c2c05b8a075a3453127f604c261514681e35ab2",
+  "generated": "2025-04-11T21:16:57.619Z",
   "media": [
     {
       "__outstatic": {
@@ -198,6 +198,17 @@
       "alt": "",
       "filename": "copi-3-kwMj.jpg",
       "publishedAt": "2025-04-11T19:06:27.702Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "8c2c05b8a075a3453127f604c261514681e35ab2",
+        "hash": "1407211276",
+        "path": "public/images/dsc_090el-A0Nz.jpg"
+      },
+      "alt": "",
+      "filename": "dsc_090el-A0Nz.jpg",
+      "publishedAt": "2025-04-11T21:16:57.619Z",
       "type": "image"
     },
     {
