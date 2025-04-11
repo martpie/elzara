@@ -1,6 +1,6 @@
 {
-  "commit": "6b5186f1fee75c55988b7ae5eb5a5e6482f9ceb5",
-  "generated": "2025-04-11T19:34:29.366Z",
+  "commit": "c3d3b2113caabfaf6241501d5e4dff2c44960788",
+  "generated": "2025-04-11T19:55:24.684Z",
   "metadata": [
     {
       "__outstatic": {
@@ -123,8 +123,8 @@
     },
     {
       "__outstatic": {
-        "commit": "6b5186f1fee75c55988b7ae5eb5a5e6482f9ceb5",
-        "hash": "71370464",
+        "commit": "c3d3b2113caabfaf6241501d5e4dff2c44960788",
+        "hash": "1816564359",
         "path": "outstatic/content/events/sea-of-words.md"
       },
       "author": {
