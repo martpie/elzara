@@ -1,6 +1,6 @@
 {
-  "commit": "826083f643c557ef168d8dfe5fa90c6ca93aa178",
-  "generated": "2025-04-11T21:39:01.301Z",
+  "commit": "99683a41039fd0ece191bd04eb560492b0e3ef6b",
+  "generated": "2025-04-11T21:39:05.823Z",
   "media": [
     {
       "__outstatic": {
@@ -858,6 +858,17 @@
       "alt": "",
       "filename": "img_9850e-M4Mz.jpg",
       "publishedAt": "2025-04-11T19:06:27.702Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "99683a41039fd0ece191bd04eb560492b0e3ef6b",
+        "hash": "843693342",
+        "path": "public/images/la-mer-QxNj.jpg"
+      },
+      "alt": "",
+      "filename": "la-mer-QxNj.jpg",
+      "publishedAt": "2025-04-11T21:39:05.823Z",
       "type": "image"
     },
     {
