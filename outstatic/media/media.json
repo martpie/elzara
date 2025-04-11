@@ -1,6 +1,6 @@
 {
-  "commit": "8e6e7b229130f3acdb292d37f72dce69e750bbcf",
-  "generated": "2025-04-11T21:39:17.862Z",
+  "commit": "b9759febeb75d6d0eae79a47f52bf0dccbc89ac2",
+  "generated": "2025-04-11T21:39:22.262Z",
   "media": [
     {
       "__outstatic": {
@@ -1012,6 +1012,17 @@
       "alt": "",
       "filename": "photo_2024-09-27_00-05-26--4--A5Mz.jpg",
       "publishedAt": "2025-04-11T21:39:17.862Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "b9759febeb75d6d0eae79a47f52bf0dccbc89ac2",
+        "hash": "2356384223",
+        "path": "public/images/photo_2024-09-27_00-05-26--5-copy-cyOD.jpg"
+      },
+      "alt": "",
+      "filename": "photo_2024-09-27_00-05-26--5-copy-cyOD.jpg",
+      "publishedAt": "2025-04-11T21:39:22.262Z",
       "type": "image"
     },
     {
