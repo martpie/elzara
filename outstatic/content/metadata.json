@@ -1,6 +1,6 @@
 {
-  "commit": "c3d3b2113caabfaf6241501d5e4dff2c44960788",
-  "generated": "2025-04-11T19:55:24.684Z",
+  "commit": "2dfcb5895bef9201b98d8b9ddc605b344809b973",
+  "generated": "2025-04-11T21:15:26.847Z",
   "metadata": [
     {
       "__outstatic": {
@@ -123,8 +123,8 @@
     },
     {
       "__outstatic": {
-        "commit": "c3d3b2113caabfaf6241501d5e4dff2c44960788",
-        "hash": "1816564359",
+        "commit": "2dfcb5895bef9201b98d8b9ddc605b344809b973",
+        "hash": "1106961853",
         "path": "outstatic/content/events/sea-of-words.md"
       },
       "author": {
@@ -132,7 +132,7 @@
         "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
       },
       "collection": "events",
-      "coverImage": "",
+      "coverImage": "/images/slide1-A0Nz.jpg",
       "date": "14-28 February 2025",
       "excerpt": "Personal exhibition",
       "notice": "",
