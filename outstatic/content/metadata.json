@@ -1,6 +1,6 @@
 {
-  "commit": "ddbffd740cb8743b3ab7557310c6005fab04bbce",
-  "generated": "2025-04-11T22:32:48.245Z",
+  "commit": "f4862013f46c1e014d16eca687946536a1bb78ab",
+  "generated": "2025-04-11T22:36:26.158Z",
   "metadata": [
     {
       "__outstatic": {
@@ -162,8 +162,8 @@
     },
     {
       "__outstatic": {
-        "commit": "ddbffd740cb8743b3ab7557310c6005fab04bbce",
-        "hash": "726452400",
+        "commit": "f4862013f46c1e014d16eca687946536a1bb78ab",
+        "hash": "1861550867",
         "path": "outstatic/content/events/surgunlik.mdx"
       },
       "author": {
