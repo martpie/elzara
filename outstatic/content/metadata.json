@@ -1,6 +1,6 @@
 {
-  "commit": "76cb308e1ce1f2c77152fbf03f09a668e0a943e0",
-  "generated": "2025-04-11T21:20:30.561Z",
+  "commit": "8f2d86f06731b473e32dc07c2dd68107d00c3b90",
+  "generated": "2025-04-11T21:23:47.895Z",
   "metadata": [
     {
       "__outstatic": {
@@ -103,26 +103,6 @@
     },
     {
       "__outstatic": {
-        "commit": "2dfcb5895bef9201b98d8b9ddc605b344809b973",
-        "hash": "1106961853",
-        "path": "outstatic/content/events/sea-of-words.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/slide1-A0Nz.jpg",
-      "date": "14-28 February 2025",
-      "excerpt": "Personal exhibition",
-      "notice": "",
-      "publishedAt": "2025-02-04T17:46:52.126Z",
-      "slug": "sea-of-words",
-      "status": "published",
-      "title": "Sea of Words"
-    },
-    {
-      "__outstatic": {
         "commit": "76cb308e1ce1f2c77152fbf03f09a668e0a943e0",
         "hash": "837242161",
         "path": "outstatic/content/events/photo-project.md"
@@ -140,6 +120,26 @@
       "slug": "photo-project",
       "status": "published",
       "title": "Portrait"
+    },
+    {
+      "__outstatic": {
+        "commit": "8f2d86f06731b473e32dc07c2dd68107d00c3b90",
+        "hash": "2443176682",
+        "path": "outstatic/content/events/sea-of-words.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/slide1-A0Nz.jpg",
+      "date": "14-28 February 2025",
+      "excerpt": "Personal exhibition",
+      "notice": "",
+      "publishedAt": "2025-02-04T17:46:52.126Z",
+      "slug": "sea-of-words",
+      "status": "published",
+      "title": "Sea of Words"
     }
   ]
 }

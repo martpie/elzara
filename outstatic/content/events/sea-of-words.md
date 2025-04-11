@@ -44,8 +44,6 @@ Seestrasse 2
 
 ![](/images/img_1445-ExMD.jpg)
 
-![](/images/img_1445-ExMD.jpg)
-
 ![](/images/img_0891-Q1MT.jpg)
 
 ![](/images/img_1232-QxNj.jpg)
