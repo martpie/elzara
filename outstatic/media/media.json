@@ -1,6 +1,6 @@
 {
-  "commit": "fd834a7cf4393a8b1c0f26acfda099bd86663725",
-  "generated": "2025-04-11T21:00:30.356Z",
+  "commit": "046dec1190d8a964641724479a0e64acd4c23188",
+  "generated": "2025-04-11T21:00:39.567Z",
   "media": [
     {
       "__outstatic": {
@@ -638,17 +638,6 @@
       "alt": "",
       "filename": "img_2062-MxOT.jpg",
       "publishedAt": "2025-04-11T19:09:46.418Z",
-      "type": "image"
-    },
-    {
-      "__outstatic": {
-        "commit": "581c03106aadcd55d7930ed03468682ea9882f80",
-        "hash": "403526143",
-        "path": "public/images/img_2141-M1Nz.jpg"
-      },
-      "alt": "",
-      "filename": "img_2141-M1Nz.jpg",
-      "publishedAt": "2025-04-11T19:13:20.521Z",
       "type": "image"
     },
     {
