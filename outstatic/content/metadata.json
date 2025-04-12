@@ -1,6 +1,6 @@
 {
-  "commit": "16db90637e30a1415ac3d7c26635bece2bc684d7",
-  "generated": "2025-04-12T19:57:22.752Z",
+  "commit": "df19d3dc14dad473d02d28490121fb63dc277b00",
+  "generated": "2025-04-12T19:58:16.101Z",
   "metadata": [
     {
       "__outstatic": {
@@ -142,25 +142,6 @@
     },
     {
       "__outstatic": {
-        "commit": "577bc120653cbcee7d85d4f26944e8f069c08c43",
-        "hash": "1861550867",
-        "path": "outstatic/content/events/surgunlik.mdx"
-      },
-      "author": {
-        "name": "Elzara",
-        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/img_2090-E2NT.jpg",
-      "date": "December 2024",
-      "excerpt": "Sürgünlik",
-      "publishedAt": "2025-02-27T22:00:00.000Z",
-      "slug": "surgunlik",
-      "status": "published",
-      "title": "Sürgünlik "
-    },
-    {
-      "__outstatic": {
         "commit": "16db90637e30a1415ac3d7c26635bece2bc684d7",
         "hash": "1117618496",
         "path": "outstatic/content/events/grenzen-borders.md"
@@ -178,6 +159,25 @@
       "slug": "grenzen-borders",
       "status": "published",
       "title": "Grenzen/Borders"
+    },
+    {
+      "__outstatic": {
+        "commit": "df19d3dc14dad473d02d28490121fb63dc277b00",
+        "hash": "3653035730",
+        "path": "outstatic/content/events/surgunlik.mdx"
+      },
+      "author": {
+        "name": "Elzara",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/img_2077-YyMD.jpg",
+      "date": "December 2024",
+      "excerpt": "Sürgünlik",
+      "publishedAt": "2025-02-27T22:00:00.000Z",
+      "slug": "surgunlik",
+      "status": "published",
+      "title": "Sürgünlik "
     }
   ]
 }
