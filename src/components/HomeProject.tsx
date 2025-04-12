@@ -17,7 +17,11 @@ type Props = {
 
 export default function HomeProject(props: Props) {
   return (
-    <Link href={`/events/${props.slug}`} className={styles.homeProject} prefetch>
+    <Link
+      href={`/projects/${props.slug}`}
+      className={styles.homeProject}
+      prefetch
+    >
       <div className={styles.images}>
         {props.image !== undefined && (
           <Image

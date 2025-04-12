@@ -1,13 +1,13 @@
 import Image from "next/image";
 import { notFound } from "next/navigation";
-import { getDocumentBySlug, getDocumentSlugs } from "outstatic/server";
+import type { Metadata } from "next";
 
 import EventDate from "../../../../components/EventDate";
 import Link from "../../../../components/Link";
 import Markdown from "../../../../components/Markdown";
 import Notice from "../../../../components/Notice";
+import { getProjects, getSingleProject } from "../../../../lib/content";
 
-import type { Metadata } from "next";
 import styles from "./page.module.css";
 
 type Props = {
@@ -26,14 +26,14 @@ export default async function EventPage(props: Props) {
     <div className={styles.page}>
       <h1 className={styles.heading}>{event.title}</h1>
       <div className={styles.metadata}>
-        {event.date && <EventDate date={event.date} />}{" "}
-        {event.notice && <Notice label={event.notice} />}{" "}
+        {event.project_date && <EventDate date={event.project_date} />}{" "}
+        {event.highlight && <Notice label={event.highlight} />}{" "}
       </div>
-      {event.coverImage && (
+      {event.thumbnail && (
         <Image
           className={styles.cover}
           priority
-          src={event.coverImage}
+          src={event.thumbnail}
           alt=""
           width="500" // FIXME
           height="500"
@@ -48,23 +48,9 @@ export default async function EventPage(props: Props) {
 }
 
 async function getData(slug: string) {
-  const event = getDocumentBySlug("events", slug, [
-    "title",
-    "content",
-    "date",
-    "coverImage",
-    "notice",
-  ]);
+  const project = getSingleProject(slug);
 
-  if (event === null) {
-    return null;
-  }
-
-  return {
-    ...event,
-    date: event.date as string, // FIXME
-    notice: event.notice as string | undefined, // FIXME
-  };
+  return project;
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -80,8 +66,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-// https://github.com/avitorio/outstatic/issues/217#issuecomment-2027827626
 export async function generateStaticParams() {
-  const posts = getDocumentSlugs("events");
-  return posts.map((slug) => ({ slug }));
+  return getProjects().map((project) => ({
+    slug: project.slug,
+  }));
 }

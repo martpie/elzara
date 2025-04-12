@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import { getDocuments } from "outstatic/server";
 
 import HomeProject from "../../components/HomeProject";
 import styles from "./page.module.css";
+import { getProjects } from "../../lib/content";
 
 export default async function Home() {
   const [highlightedProject, ...otherProjects] = await getData();
@@ -13,10 +13,10 @@ export default async function Home() {
         <HomeProject
           slug={highlightedProject.slug}
           name={highlightedProject.title}
-          date={highlightedProject.date}
-          image={highlightedProject.coverImage}
-          excerpt={highlightedProject.excerpt}
-          notice={highlightedProject.notice}
+          date={highlightedProject.project_date}
+          image={highlightedProject.thumbnail}
+          excerpt={highlightedProject.description}
+          notice={highlightedProject.highlight}
         />
 
         <div className={styles.pastProjects}>
@@ -25,10 +25,10 @@ export default async function Home() {
               key={project.slug}
               slug={project.slug}
               name={project.title}
-              date={project.date}
-              image={project.coverImage}
-              excerpt={project.excerpt}
-              notice={project.notice}
+              date={project.project_date}
+              image={project.thumbnail}
+              excerpt={project.description}
+              notice={project.highlight}
             />
           ))}
         </div>
@@ -38,22 +38,7 @@ export default async function Home() {
 }
 
 async function getData() {
-  const events = getDocuments("events", [
-    "slug",
-    "title",
-    "content",
-    "date",
-    "coverImage",
-    "notice",
-    "excerpt",
-  ]);
-
-  return events.map((event) => ({
-    ...event,
-    date: event.date as string, // FIXME
-    excerpt: event.excerpt as string, // FIXME
-    notice: event.notice as string | undefined, // FIXME
-  }));
+  return getProjects();
 }
 
 export const metadata: Metadata = {

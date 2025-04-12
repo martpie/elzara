@@ -1,20 +1,14 @@
 ---
 title: "Grenzen/Borders"
-status: "published"
-author:
-  name: ""
-  picture: "https://avatars.githubusercontent.com/u/179383349?v=4"
-slug: "grenzen-borders"
-coverImage: "/images/polish_20230719_104819624-M4ND.jpg"
-date: "30 November 2024  - 19 January 2025"
-notice: ""
-excerpt: "Regionale 25 "
-publishedAt: "2024-11-24T22:00:05.173Z"
+thumbnail: "/uploads/polish_20230719_104819624-M4ND.jpg"
+publish_date: 2024-11-24
+project_date: "30 November 2024  - 19 January 2025"
+description: "Regionale 25 "
 ---
 
 Collective exhibition during [Regionale 25](https://regionale.org/) in [Städtische Galerie Stapflehus Weil am Rhein](https://www.stapflehus.de/ausstellung/aktuell/a.htm).
 
-![](/images/grenzen-E0OD.jpg)
+![](/uploads/grenzen-E0OD.jpg)
 
 The exhibition is a part of Regionale 25. The Regionale is a tri-national exhibition project that transcends national borders. This year, Regionale 25 will take place from November 28, 2024 to January 2025. 18 exhibition spaces from the Basel region, Alsace and South Baden will present works by almost 200 artists. They will address burning contemporary issues in a variety of ways and across all genres.
 
@@ -24,4 +18,4 @@ Städtische Galerie Stapflehus
 
 Bläsiring 10, 79576 Weil am Rhein, Germany
 
-![](/images/anam.weil-am-rhein-kyNj.jpg)
+![](/uploads/anam.weil-am-rhein-kyNj.jpg)

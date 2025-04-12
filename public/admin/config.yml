@@ -1,0 +1,51 @@
+local_backend: true
+
+backend:
+  name: github
+  repo: martpie/elzara
+  branch: master
+
+media_folder: public/uploads
+public_folder: /uploads
+
+collections:
+  - name: project
+    label: Project
+    folder: content/projects
+    create: true
+    slug: "{{slug}}"
+
+    fields:
+      - label: Title
+        name: title
+        widget: string
+
+      - label: Featured Image
+        name: thumbnail
+        widget: image
+
+      - label: Publish Date
+        name: publish_date
+        widget: datetime
+        format: YYYY-MM-DD
+        dateFormat: YYYY-MM-DD
+        timeFormat: false
+
+      - label: Project Date
+        name: project_date
+        widget: stringz
+
+      - label: Description
+        name: description
+        widget: string
+
+      - label: Highlight
+        name: highlight
+        widget: string
+        required: false
+
+      - label: Body
+        name: body
+        widget: markdown
+
+show_preview_links: false
