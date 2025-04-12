@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Fri, 11 Apr 2025 23:50:52 GMT",
+  "commit": "577bc120653cbcee7d85d4f26944e8f069c08c43",
+  "generated": "2025-04-12T19:56:14.362Z",
   "metadata": [
     {
       "__outstatic": {
@@ -83,25 +83,6 @@
     },
     {
       "__outstatic": {
-        "commit": "bd44bc26a5165126abe298a99e4b45cefa2e322f",
-        "hash": "1861550867",
-        "path": "outstatic/content/events/surgunlik.mdx"
-      },
-      "author": {
-        "name": "Elzara",
-        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/img_2090-E2NT.jpg",
-      "date": "December 2024",
-      "excerpt": "Sürgünlik",
-      "publishedAt": "2025-02-27T22:00:00.000Z",
-      "slug": "surgunlik",
-      "status": "published",
-      "title": "Sürgünlik "
-    },
-    {
-      "__outstatic": {
         "commit": "a9722f68ff89efbe569b0899976bb2bca429d078",
         "hash": "2443176682",
         "path": "outstatic/content/events/sea-of-words.md"
@@ -178,6 +159,25 @@
       "slug": "la-mer-la-mere",
       "status": "published",
       "title": "la mer la mère"
+    },
+    {
+      "__outstatic": {
+        "commit": "577bc120653cbcee7d85d4f26944e8f069c08c43",
+        "hash": "1861550867",
+        "path": "outstatic/content/events/surgunlik.mdx"
+      },
+      "author": {
+        "name": "Elzara",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "/images/img_2090-E2NT.jpg",
+      "date": "December 2024",
+      "excerpt": "Sürgünlik",
+      "publishedAt": "2025-02-27T22:00:00.000Z",
+      "slug": "surgunlik",
+      "status": "published",
+      "title": "Sürgünlik "
     }
   ]
 }
