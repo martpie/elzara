@@ -5,7 +5,7 @@ author:
   name: ""
   picture: "https://avatars.githubusercontent.com/u/179383349?v=4"
 slug: "grenzen-borders"
-coverImage: ""
+coverImage: "/images/polish_20230719_104819624-M4ND.jpg"
 date: "30 November 2024  - 19 January 2025"
 notice: ""
 excerpt: "Regionale 25 "
