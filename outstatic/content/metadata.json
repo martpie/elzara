@@ -1,6 +1,6 @@
 {
-  "commit": "d349127ec1369617bfad59272ae6f779c9330c25",
-  "generated": "2025-04-12T20:01:55.848Z",
+  "commit": "403a6387e2219e66c69124c5403d3762084d51df",
+  "generated": "2025-04-12T20:07:35.192Z",
   "metadata": [
     {
       "__outstatic": {
@@ -162,8 +162,8 @@
     },
     {
       "__outstatic": {
-        "commit": "d349127ec1369617bfad59272ae6f779c9330c25",
-        "hash": "3653035730",
+        "commit": "403a6387e2219e66c69124c5403d3762084d51df",
+        "hash": "2901853593",
         "path": "outstatic/content/events/surgunlik.mdx"
       },
       "author": {
@@ -171,7 +171,7 @@
         "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
       },
       "collection": "events",
-      "coverImage": "/images/img_2077-YyMD.jpg",
+      "coverImage": "/images/img_2079-k4ND.jpg",
       "date": "December 2024",
       "excerpt": "Sürgünlik",
       "publishedAt": "2025-02-27T22:00:00.000Z",
