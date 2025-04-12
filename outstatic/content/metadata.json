@@ -1,6 +1,6 @@
 {
-  "commit": "577bc120653cbcee7d85d4f26944e8f069c08c43",
-  "generated": "2025-04-12T19:56:14.362Z",
+  "commit": "16db90637e30a1415ac3d7c26635bece2bc684d7",
+  "generated": "2025-04-12T19:57:22.752Z",
   "metadata": [
     {
       "__outstatic": {
@@ -21,26 +21,6 @@
       "slug": "fragility",
       "status": "published",
       "title": "Fragility"
-    },
-    {
-      "__outstatic": {
-        "commit": "e71884aadbddfeed8b6b0f9172136021fb763f66",
-        "hash": "923232025",
-        "path": "outstatic/content/events/grenzen-borders.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
-      },
-      "collection": "events",
-      "coverImage": "/images/polish_20230719_104819624-M4ND.jpg",
-      "date": "30 November 2024  - 19 January 2025",
-      "excerpt": "Collective exhibition during Regionale 25 in Städtische Galerie Stapflehus Weil am Rhein",
-      "notice": "",
-      "publishedAt": "2024-11-24T22:00:05.173Z",
-      "slug": "grenzen-borders",
-      "status": "published",
-      "title": "Grenzen/Borders"
     },
     {
       "__outstatic": {
@@ -178,6 +158,26 @@
       "slug": "surgunlik",
       "status": "published",
       "title": "Sürgünlik "
+    },
+    {
+      "__outstatic": {
+        "commit": "16db90637e30a1415ac3d7c26635bece2bc684d7",
+        "hash": "1117618496",
+        "path": "outstatic/content/events/grenzen-borders.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/179383349?v=4"
+      },
+      "collection": "events",
+      "coverImage": "",
+      "date": "30 November 2024  - 19 January 2025",
+      "excerpt": "Regionale 25 ",
+      "notice": "",
+      "publishedAt": "2024-11-24T22:00:05.173Z",
+      "slug": "grenzen-borders",
+      "status": "published",
+      "title": "Grenzen/Borders"
     }
   ]
 }
