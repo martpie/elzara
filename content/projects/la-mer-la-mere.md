@@ -20,7 +20,7 @@ _Planting Roots_ collective exhibition, curated by Bahay Contemporary, private r
 
 ![](/uploads/photo_2024-09-14_20-31-21.webp)
 
-![](/uploads/photo_2025-01-18_16-33-48.webp)
+![](/uploads/photo_2025-01-18_16-33-48.webp "Private collection, Zwitzerland")
 
 ![](/uploads/photo_2024-09-27_00-05-26%20%284%29.webp)
 
