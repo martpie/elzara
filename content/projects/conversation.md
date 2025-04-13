@@ -1,11 +1,11 @@
 ---
 title: Conversation
-thumbnail: /upload/conv-for-site-k0MD.jpg
+thumbnail: /uploads/conv%20for%20site.webp
 publish_date: 2024-06-28
 project_date: June 28th - July 14th 2024
 description: Site-specific installation for Waschraum  edition 2
+highlight: ''
 ---
-
 Site-specific installation for [Waschraum](https://wasch-raum.ch/elzara-oiseau/)
 
 Zurich
@@ -30,7 +30,7 @@ I created a large site-specific, non-transportable installation in a separate da
 
 ![](/uploads/img_20240712_204055-U3Nz.jpg)
 
-![](/uploads/img_20240702_191403_382-QyMz.jpg)
+![](/uploads/IMG_20240702_191403_382.webp)
 
 ![](/uploads/img_20240701_124537_434-copy-E3OD.jpg)
 
