@@ -7,6 +7,18 @@ backend:
 media_folder: public/uploads
 public_folder: /uploads
 
+media_libraries:
+  default:
+    config:
+      transformations:
+        raster_image:
+          format: webp
+          quality: 90
+          width: 1920
+          height: 1920
+        svg:
+          optimize: true
+
 collections:
   - name: project
     label: Project
