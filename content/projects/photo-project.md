@@ -52,7 +52,7 @@ Anna. Architect
 
 ![](/uploads/img_0311e-czMD.jpg)
 
-autoportrait
+selfportrait
 
 ![](/uploads/img_9813el-A1OD.jpg)
 
