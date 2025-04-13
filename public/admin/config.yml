@@ -1,3 +1,5 @@
+local_backend: true
+
 backend:
   name: github
   repo: martpie/elzara
@@ -34,6 +36,7 @@ collections:
       - label: Featured Image
         name: thumbnail
         widget: image
+        hint: This image will be used as the main image on the homepage and detail pages.
 
       - label: Publish Date
         name: publish_date
@@ -41,19 +44,23 @@ collections:
         format: YYYY-MM-DD
         dateFormat: YYYY-MM-DD
         timeFormat: false
+        hint: Used for the sorting of the projects on the homepage.
 
       - label: Project Date
         name: project_date
         widget: string
+        hint: Human readable date indicating when the project took place.
 
       - label: Description
         name: description
         widget: string
+        hint: Short summary of the project, used on the homepage.
 
       - label: Highlight
         name: highlight
         widget: string
         required: false
+        hint: Optional pink message to highlight important news/projects.
 
       - label: Body
         name: body
