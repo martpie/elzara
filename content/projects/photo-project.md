@@ -1,11 +1,11 @@
 ---
-title: "Portrait"
-thumbnail: "/uploads/img_0656e-IxNz.jpg"
+title: Portrait
+thumbnail: /uploads/img_0656e-IxNz.jpg
 publish_date: 2022-12-31
-project_date: "January-December 2024"
-description: "photo portraits project"
+project_date: January-December 2024
+description: Photo portraits project
+highlight: ''
 ---
-
 _soon more information/more photos_
 
 P & T
