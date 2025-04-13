@@ -1,11 +1,11 @@
 ---
-title: "Ineffable"
-thumbnail: "/uploads/photo_2025-04-08_18-36-59--3--Q2ND.jpg"
+title: Ineffable
+thumbnail: /uploads/photo_2025-04-08_18-36-59--3--Q2ND.jpg
 publish_date: 2025-01-31
-project_date: "2023-2024"
-description: "drawings"
+project_date: 2023-2024
+description: Drawings
+highlight: ''
 ---
-
 series of drawings on transparent paper.
 
 _disappearing letters from the past_
