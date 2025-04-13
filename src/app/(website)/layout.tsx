@@ -3,6 +3,7 @@ import { Nanum_Myeongjo } from "next/font/google";
 
 import "./globals.css";
 import styles from "./layout.module.css";
+import settings from "../../../content/settings.json";
 import Link from "../../components/Link";
 import NavigationProgress from "../../components/NavigationProgress";
 
@@ -35,7 +36,7 @@ export default function Layout({
           <div className={styles.headerSection}>
             <Link href="/">Home</Link>
             <br />
-            <Link href="/portfolio.pdf" target="_blank" rel="noreferrer">
+            <Link href={settings.portfolio} target="_blank" rel="noreferrer">
               Portfolio
             </Link>
           </div>
