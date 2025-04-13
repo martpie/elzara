@@ -1,4 +1,4 @@
-local_backend: true
+# local_backend: true
 
 backend:
   name: github
@@ -60,7 +60,7 @@ collections:
         name: highlight
         widget: string
         required: false
-        hint: Optional pink message to highlight important news/projects.
+        hint: Optional pink message to highlight important
 
       - label: Body
         name: body
