@@ -19,3 +19,5 @@ After the screening, we are honored to host an online Q&A session with the film'
 This will be a unique opportunity to delve deeper into the history behind the film, its making, and its contemporary significance.
 
 This event is organized by the Ukrainian Association of Students and Academics in Zurich in collaboration with Elzara Oiseau - Ukrainian artist, Crimean Tatar descent.
+
+Read about the deportation: [https://www.londonukrainianreview.org/posts/the-long-exile ](https://www.londonukrainianreview.org/posts/the-long-exile)
