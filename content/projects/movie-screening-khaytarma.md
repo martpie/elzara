@@ -6,6 +6,8 @@ project_date: 22 May 19:00
 description: special screening of the film Khaytarma, a significant cinematic work that portrays a little-known yet deeply important chapter in 20th-century European history - the 1944 deportation of the Crimean Tatar people
 highlight: upcoming
 ---
+![](/uploads/photo_2025-05-16_13-24-20%20%282%29.webp)
+
 UASAZ invites you to a special screening of the film Khaytarma, a significant cinematic work that portrays a little-known yet deeply important chapter in 20th-century European history - the 1944 deportation of the Crimean Tatar people.
 
 Based on the life of Amet-Khan Sultan, a Crimean Tatar and twice-named  Hero of the Soviet Union, Khaytarma tells a story of personal courage and collective memory. Through this film, viewers are offered a window into the experiences of a community that faced forced displacement and the loss of their homeland, yet preserved their cultural identity and traditions across generations.
