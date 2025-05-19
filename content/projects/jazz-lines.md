@@ -1,11 +1,11 @@
 ---
-title: "Jazz Lines"
-thumbnail: "/uploads/20231124-elzaraoiseau-ch-9-E4OD.jpg"
+title: Jazz Lines
+thumbnail: /uploads/20231124-elzaraoiseau-ch-9-E4OD.jpg
 publish_date: 2023-11-30
-project_date: "November 2023"
-description: "Paintings and wire installations for solo exhibition Jazz Lines"
+project_date: November 2023
+description: Paintings and wire installations for solo exhibition Jazz Lines
+highlight: ''
 ---
-
 Jazz Lines: musical and visual dialogues of Nik Bärtsch and Elzara Oiseau, 2023
 
 As an artist, I have long explored music in my work. I have always wanted to show how a particular piece of music would look if we could visualize it. What is sound? How does it affect our emotions? In this large-scale project, I decided to explore the music of Swiss jazz composer and pianist Nik Bärtsch. For this project, which spanned 300 square meters of space, I created 10 sculptural installations, 7 large canvases, and 10 works on paper, in which I visualized my perception and interpretation of sound. Also we collaborated with Nik and created one huge painting on canvas for this exhibition.
@@ -17,6 +17,8 @@ I draw inspiration from Bärtsch's compositions to create striking visual interp
 At the same time, this project is my exploration of the interaction between myself as an artist, who is in a foreign country due to a full-scale invasion and forced to start my career and life almost from scratch, and a renowned Swiss musician who, through his music and friendly support, provided me with the opportunity to quickly integrate into the local community, the art scene, and the jazz community. He gradually became a collector of my art because he saw music in it. The music of Nik, which I discovered a few months after arriving in Switzerland, immediately became my lifeline. I began regularly attending his concerts, and only during the concert could I forget for an hour about what was happening to me, my family, and my country.
 
 Nik played for the opening of this exhibition.
+
+Curated by Anastasia Yovanovska.
 
 ![](/uploads/copi-1-EyMT.jpg)
 
