@@ -6,7 +6,7 @@ project_date: December 2024
 description: Sürgünlik
 highlight: ''
 ---
-_Sürgünlik_ (_Exile_ from Crimean Tatar language) is an installation supposed to consist dozens of sculptural objects of geographical shape of Crimean peninsula transformed in a shape of bird wich is searching for a feedom and deliberation from the constants repressions.
+_Sürgünlik_ (_Exile_ from Crimean Tatar language) is an installation supposed to consist dozens of sculptural objects of geographical shape of Crimean peninsula transformed in a shape of bird wich is searching for a freedom and deliberation from the constants repressions.
 
 Dedicated to a 81th anniversary  of the criminal  Deportation of Crimean Tatars (18.05.1944)  from their native land by Stalin.
 
