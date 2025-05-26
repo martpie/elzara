@@ -4,7 +4,7 @@ thumbnail: /uploads/photo_2025-05-16_13-24-20%20%282%29.webp
 publish_date: 2025-05-16
 project_date: 22 May 19:00
 description: special screening of the film Khaytarma, a significant cinematic work that portrays a little-known yet deeply important chapter in 20th-century European history - the 1944 deportation of the Crimean Tatar people
-highlight: upcoming
+highlight: ''
 ---
 UASAZ invites you to a special screening of the film Khaytarma, a significant cinematic work that portrays a little-known yet deeply important chapter in 20th-century European history - the 1944 deportation of the Crimean Tatar people.
 
