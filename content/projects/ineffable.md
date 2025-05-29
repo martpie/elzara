@@ -12,7 +12,7 @@ _disappearing letters from the past_
 
 approx. dimensions: 55\*65 +- cm
 
-ink/ pencil/ scratching on transperent paper
+ink/ pencil/ scratching on transparent paper
 
 ![](/uploads/photo_2025-01-18_16-33-58.webp)
 
