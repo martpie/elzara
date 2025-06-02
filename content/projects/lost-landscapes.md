@@ -3,7 +3,7 @@ title: Lost landscapes
 thumbnail: /uploads/Lost%20landscapes.%20Crimea.%20Sudaq.2024.pencil%2Cpaper.20%2B30cm.webp
 publish_date: 2025-01-31
 project_date: '2024'
-description: a searies of Crimean landscapes
+description: series of Crimean landscapes
 highlight: ''
 ---
 Lost Landscapes. Crimea..
