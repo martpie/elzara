@@ -12,15 +12,11 @@ _Let me show you it.&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
 
 _Elzara O._
 _&#32;_
-_Portraits of the artists, architects, designers, thinkers, humans... beau-monde:)_
+_Portraits of the artists, architects, designers, thinkers, creators, humans... beau-monde:)_
 
 _contact me if you like to see you between:_
 
-[_elzaraoiseau@gmail.com](elzaraoiseau@gmail.com)&#32;&#32;_
-
-
-
-
+[\_elzaraoiseau@gmail.com](elzaraoiseau@gmail.com)  \_
 
 Sasha. Architect
 
