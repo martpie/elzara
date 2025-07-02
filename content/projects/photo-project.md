@@ -6,7 +6,31 @@ project_date: 2024-2025
 description: Photo portraits project
 highlight: ''
 ---
-_soon more information/more photos_
+_There have nothing more inmportant for me, than your individuality.&#32;_
+
+_Let me show you it.&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;_
+
+_Elzara O._
+_&#32;_
+_Portraits of the artists, architects, designers, thinkers, humans... beau-monde:)_
+
+_contact me if you like to see you between:_
+
+[_elzaraoiseau@gmail.com](elzaraoiseau@gmail.com)&#32;&#32;_
+
+
+
+
+
+Sasha. Architect
+
+![](/uploads/IMG_1162El.webp)
+
+![](/uploads/IMG_1196El.webp)
+
+![](/uploads/IMG_1184El.webp)
+
+![](/uploads/IMG_1198El.webp)
 
 P & T
 
