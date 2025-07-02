@@ -16,7 +16,7 @@ _Portraits of the artists, architects, designers, thinkers, creators, humans... 
 
 _contact me if you like to see you between:_
 
-[\_elzaraoiseau@gmail.com](elzaraoiseau@gmail.com)  \_
+elzaraoiseau@gmail.com  
 
 Sasha. Architect
 
