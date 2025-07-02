@@ -1,6 +1,6 @@
 ---
 title: Portrait
-thumbnail: /uploads/img_0656e-IxNz.jpg
+thumbnail: /uploads/IMG_1196El.webp
 publish_date: 2025-06-06
 project_date: 2024-2025
 description: Photo portraits project
