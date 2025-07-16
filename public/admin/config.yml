@@ -28,6 +28,8 @@ collections:
     folder: content/projects
     create: true
     slug: "{{slug}}"
+    editor:
+      preview: false
 
     fields:
       - label: Title
