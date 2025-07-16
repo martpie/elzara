@@ -69,21 +69,19 @@ collections:
         name: body
         widget: markdown
 
+singletons:
   - name: "settings"
     label: "Settings"
     icon: "settings"
     delete: false # Prevents accidental deletion
     editor:
       preview: false
-    files:
-      - file: "content/settings.json"
-        label: "Site Settings"
-        name: "site_settings"
-        fields:
-          - label: Portfolio
-            name: portfolio
-            widget: file
-            allow_multiple: false
-            hint: Link to the latest portfolio
+    file: "content/settings.json"
+    fields:
+      - label: Portfolio
+        name: portfolio
+        widget: file
+        allow_multiple: false
+        hint: Link to the latest portfolio
 
 show_preview_links: false
