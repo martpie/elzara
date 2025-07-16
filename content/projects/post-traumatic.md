@@ -6,7 +6,7 @@ project_date: 2022-2023
 description: war
 highlight: ''
 ---
-![DETI](blob:https://elzara.studio/ad909120-8929-4e7c-af9b-129dff617cba)
+![DETI](/uploads/Polish_20220415_165433856.webp)
 
 **_ДЕТИ/ CHILDREN&#32;_**(rus)/ ДЕ ТИ/ Where are you (ukr) 2022. Acrylic, canvas, 160\*200cm.
 
@@ -22,37 +22,37 @@ It's written  in  places where children stay to warn the attackers to not shoot 
 
 Also in Ukrainian language the two words **Де Ти** means **Where are you**?
 
-![DETI](blob:https://elzara.studio/c43e1669-3ec8-4d5b-a82a-5fdf28398421)
-
-![](blob:https://elzara.studio/0189850d-8dcd-4a90-a97d-171246f68feb)
-
-![](blob:https://elzara.studio/f926c3f4-7bf6-4789-8c13-3865e4572327)![](blob:https://elzara.studio/42dc7dbc-ae88-4beb-8579-219432b58a29)![](blob:https://elzara.studio/809e8ec9-5e73-434b-bf49-d67b46236dc7)
+![DETI](/uploads/Polish_20220415_165853480.webp)
 
 This is my first painting created just arriving in Zurich in the beginning of April 2022.
 
-![](blob:https://elzara.studio/8ca52660-50c8-4269-a227-6d1a48750b11)
+![](/uploads/Polish_20220415_165928976.webp)
+
+![](/uploads/Polish_20220415_170023700.webp)![](/uploads/Polish_20220415_165943713.webp)![](/uploads/Polish_20220415_170000562.webp)
+
+![](/uploads/Polish_20220513_114059546.webp)
 
 Буча/_Butcha,_ 2022**.&#32;**acrylic, canvas. 165 \* 165cm
 
 simply google: Butcha or Буча.
 
-![](blob:https://elzara.studio/f1b74e1e-74b3-488c-b438-5922fa209100)
+![](/uploads/Polish_20220720_160334343.webp)
 
 The Bombshelter, 2022
 
 acrylic, canvas, 160\*300 cm.
 
-![](blob:https://elzara.studio/28fb4df8-59c6-4e8f-aff3-9769de4eaea6)
+![](/uploads/Polish_20220720_162519832.webp)
 
-![](blob:https://elzara.studio/9cfa4a00-2c19-4a38-9bc4-9087d303ca73)
+![](/uploads/Polish_20220921_134807131.webp)
 
 If I could cover my land, 2022 . acrylic, canvas.,160\*210cm
 
-![](blob:https://elzara.studio/ebef9a9c-9ee9-4804-8c1d-69541ad1b5d3 "https://war.ukraine.ua/articles/war-against-nature-the-environmental-damage-of-russia-s-full-scale-invasion-of-ukraine/")
+![](/uploads/slavyansk.webp "https://war.ukraine.ua/articles/war-against-nature-the-environmental-damage-of-russia-s-full-scale-invasion-of-ukraine/")
 
 https://war.ukraine.ua/articles/war-against-nature-the-environmental-damage-of-russia-s-full-scale-invasion-of-ukraine/
 
-![if i could](blob:https://elzara.studio/bf13cd2c-32b5-4fe6-a2f6-1c45a1c486d5)
+![if i could](/uploads/Polish_20220921_135937151.webp)
 
 ![](/uploads/Polish_20220921_145015922.webp)
 
