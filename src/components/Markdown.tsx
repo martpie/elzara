@@ -15,6 +15,10 @@ const MarkdownImage: Components["img"] = ({
   node,
   ...props
 }) => {
+  if (typeof props.src !== "string") {
+    return "x_x no renderer for this image";;
+  }
+
   return (
     <a
       href={props.src}
