@@ -1,6 +1,6 @@
 ---
 title: Post Traumatic
-thumbnail: /uploads/Polish_20221010_180925008.webp
+thumbnail: /uploads/Polish_20220415_165605118.webp
 publish_date: 2022-12-16
 project_date: 2022-2023
 description: war
