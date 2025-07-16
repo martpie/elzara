@@ -6,7 +6,7 @@ project_date: 2022-2023
 description: war
 highlight: ''
 ---
-![](blob:https://elzara.studio/ad909120-8929-4e7c-af9b-129dff617cba)
+![DETI](blob:https://elzara.studio/ad909120-8929-4e7c-af9b-129dff617cba)
 
 **_ДЕТИ/ CHILDREN&#32;_**(rus)/ ДЕ ТИ/ Where are you (ukr) 2022. Acrylic, canvas, 160\*200cm.
 
@@ -22,11 +22,11 @@ It's written  in  places where children stay to warn the attackers to not shoot 
 
 Also in Ukrainian language the two words **Де Ти** means **Where are you**?
 
-![](blob:https://elzara.studio/c43e1669-3ec8-4d5b-a82a-5fdf28398421)
+![DETI](blob:https://elzara.studio/c43e1669-3ec8-4d5b-a82a-5fdf28398421)
 
 ![](blob:https://elzara.studio/0189850d-8dcd-4a90-a97d-171246f68feb)
 
-![](blob:https://elzara.studio/f926c3f4-7bf6-4789-8c13-3865e4572327)![](blob:https://elzara.studio/42dc7dbc-ae88-4beb-8579-219432b58a29)![](blob:https://elzara.studio/809e8ec9-5e73-434b-bf49-d67b46236dc7)![](/uploads/Polish_20220415_165605118.webp)
+![](blob:https://elzara.studio/f926c3f4-7bf6-4789-8c13-3865e4572327)![](blob:https://elzara.studio/42dc7dbc-ae88-4beb-8579-219432b58a29)![](blob:https://elzara.studio/809e8ec9-5e73-434b-bf49-d67b46236dc7)
 
 This is my first painting created just arriving in Zurich in the beginning of April 2022.
 
@@ -52,7 +52,7 @@ If I could cover my land, 2022 . acrylic, canvas.,160\*210cm
 
 https://war.ukraine.ua/articles/war-against-nature-the-environmental-damage-of-russia-s-full-scale-invasion-of-ukraine/
 
-![](blob:https://elzara.studio/bf13cd2c-32b5-4fe6-a2f6-1c45a1c486d5)
+![if i could](blob:https://elzara.studio/bf13cd2c-32b5-4fe6-a2f6-1c45a1c486d5)
 
 ![](/uploads/Polish_20220921_145015922.webp)
 
@@ -60,7 +60,9 @@ Save Azovstal, 2022. Acrylic, canvas. 100\*100cm.
 
 ![](/uploads/Polish_20220921_141430489.webp)
 
-![](/uploads/Polish_20220906_144208902.webp)![](/uploads/Polish_20220906_144635675.webp)![](/uploads/cant%20breathe%20me.webp)![](/uploads/Polish_20221010_180832963.webp)Black birds. Rockets, 2022. Acrylic, canvas. 160\*200 cm
+![no air](/uploads/Polish_20220906_144208902.webp)![](/uploads/cant%20breathe%20me.webp)![](/uploads/Polish_20220906_144635675.webp)
+
+![](/uploads/Polish_20221010_180832963.webp)Black birds. Rockets, 2022. Acrylic, canvas. 160\*200 cm
 
 ![](/uploads/Polish_20221010_180925008.webp)
 
