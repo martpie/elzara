@@ -1,6 +1,6 @@
 ---
 title: Post Traumatic
-thumbnail: /uploads/Polish_20220415_165605118.webp
+thumbnail: /uploads/Polish_20220513_114059546.webp
 publish_date: 2022-12-16
 project_date: 2022-2023
 description: war
@@ -21,6 +21,8 @@ I multiplied the word **ДЕТИ** in russian language it means CHILDREN.
 It's written  in  places where children stay to warn the attackers to not shoot at least these places.
 
 Also in Ukrainian language the two words **Де Ти** means **Where are you**?
+
+![](/uploads/Polish_20220415_165605118.webp)
 
 ![DETI](/uploads/Polish_20220415_165853480.webp)
 
@@ -56,11 +58,11 @@ https://war.ukraine.ua/articles/war-against-nature-the-environmental-damage-of-r
 
 ![](/uploads/Polish_20220921_145015922.webp)
 
-Save Azovstal, 2022. Acrylic, canvas. 100\*100cm.
-
 ![](/uploads/Polish_20220921_141430489.webp)
 
-![no air](/uploads/Polish_20220906_144208902.webp)![](/uploads/cant%20breathe%20me.webp)![](/uploads/Polish_20220906_144635675.webp)
+![no air](/uploads/Polish_20220906_144208902.webp)![](/uploads/Polish_20220906_144635675.webp)
+
+![](/uploads/cant%20breathe%20me.webp)
 
 ![](/uploads/Polish_20221010_180832963.webp)Black birds. Rockets, 2022. Acrylic, canvas. 160\*200 cm
 
