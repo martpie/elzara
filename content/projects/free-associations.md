@@ -6,11 +6,11 @@ project_date: January 2025-now
 description: series of drawings and objects made throught pure free association, with no predetermined goal, theme, or idea. This is in the spirit of automatism, strem-of-consciousness drawing.  Kind of self-psychoanalysis.
 highlight: ''
 ---
+Series of drawings and objects made throught pure free association, with no predetermined goal, theme, or idea. This is in the spirit of automatism, strem-of-consciousness drawing.  Kind of self-psychoanalysis.
+
 ![](/uploads/VKTU1560.webp)
 
-feree association 1. 
-
-2025. Zurich. Oil on canvas. 20\*20cm.
+feree association 1. 2025. Zurich. Oil on canvas. 20\*20cm.
 
 ![](/uploads/RKRB4184.webp)
 
@@ -18,9 +18,7 @@ feree association 1.
 
 ![](/uploads/IMG_6758.webp)
 
-feree association 2. 
-
-2025. Zurich. Oil on canvas. 20\*20cm.
+feree association 2. 2025. Zurich. Oil on canvas. 20\*20cm.
 
 ![](/uploads/photo_2025-04-08_18-36-49.webp)
 
@@ -28,25 +26,19 @@ feree association 2.
 
 ![](/uploads/photo_2025-07-07_17-42-19%20%283%29.webp)
 
-feree association 3. 
-
-2025. Zurich. Oil on canvas. 20\*20cm.
+feree association 3. 2025. Zurich. Oil on canvas. 20\*20cm.
 
 ![](/uploads/photo_2025-04-08_18-36-41%20%282%29.webp)
 
 ![](/uploads/photo_2025-04-08_18-36-41.webp)
 
-
 ![](/uploads/photo_2025-04-08_18-36-37.webp)
 
-feree association 4. 
-
-2025. Zurich. Oil on canvas. 40\*30cm.
+feree association 4. 2025. Zurich. Oil on canvas. 40\*30cm.
 
 ![](/uploads/photo_2025-04-08_18-36-38.webp)
 
 ![](/uploads/photo_2025-04-08_18-36-39%20%282%29.webp)
-
 
 ![](/uploads/photo_2025-07-07_17-43-40.webp)
 
