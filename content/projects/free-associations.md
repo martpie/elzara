@@ -10,7 +10,7 @@ Series of drawings and objects made throught pure free association, with no pred
 
 ![](/uploads/VKTU1560.webp)
 
-feree association 1. 2025. Zurich. Oil on canvas. 20\*20cm.
+free association 1. 2025. Zurich. Oil on canvas. 20\*20cm.
 
 ![](/uploads/RKRB4184.webp)
 
@@ -18,7 +18,7 @@ feree association 1. 2025. Zurich. Oil on canvas. 20\*20cm.
 
 ![](/uploads/IMG_6758.webp)
 
-feree association 2. 2025. Zurich. Oil on canvas. 20\*20cm.
+free association 2. 2025. Zurich. Oil on canvas. 20\*20cm.
 
 ![](/uploads/photo_2025-04-08_18-36-49.webp)
 
@@ -26,7 +26,7 @@ feree association 2. 2025. Zurich. Oil on canvas. 20\*20cm.
 
 ![](/uploads/photo_2025-07-07_17-42-19%20%283%29.webp)
 
-feree association 3. 2025. Zurich. Oil on canvas. 20\*20cm.
+free association 3. 2025. Zurich. Oil on canvas. 20\*20cm.
 
 ![](/uploads/photo_2025-04-08_18-36-41%20%282%29.webp)
 
@@ -34,7 +34,7 @@ feree association 3. 2025. Zurich. Oil on canvas. 20\*20cm.
 
 ![](/uploads/photo_2025-04-08_18-36-37.webp)
 
-feree association 4. 2025. Zurich. Oil on canvas. 40\*30cm.
+free association 4. 2025. Zurich. Oil on canvas. 40\*30cm.
 
 ![](/uploads/photo_2025-04-08_18-36-38.webp)
 
