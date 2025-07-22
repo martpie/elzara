@@ -42,5 +42,5 @@ feree association 4. 2025. Zurich. Oil on canvas. 40\*30cm.
 
 ![](/uploads/photo_2025-07-07_17-43-40.webp)
 
-Kyiv 2025
+Kyiv 2025.
 Zurich. Acrylic, pencil on canvas. 60\*50cm.
