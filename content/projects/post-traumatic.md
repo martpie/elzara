@@ -1,6 +1,6 @@
 ---
 title: Post Traumatic
-thumbnail: /uploads/Polish_20220513_114059546.webp
+thumbnail: /uploads/black birds me.webp
 publish_date: 2022-12-16
 project_date: 2022-2023
 description: war
@@ -34,9 +34,9 @@ This is my first painting created just arriving in Zurich in the beginning of Ap
 
 ![](/uploads/Polish_20220513_114059546.webp)
 
-Буча/_Butcha,_ 2022**.&#32;**acrylic, canvas. 165 \* 165cm
+Буча/_Butcha,_ 2022**.&#32;&#32;**Acrylic, canvas. 165 \* 165cm
 
-simply google: Butcha or Буча.
+simply google: Butcha massacre.
 
 ![](/uploads/Polish_20220720_160334343.webp)
 
