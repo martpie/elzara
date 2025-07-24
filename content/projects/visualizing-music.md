@@ -28,6 +28,10 @@ Moving around E. Alex Argento. 2021 Kyiv, ink on paper, 75\*56 cm.
 
 Paralyzed. Icefish band. 2021. Kyiv. Paper, acrylic, ink. 30\*42cm
 
+![](/uploads/Polish_20210110_142958453.webp)
+
+The last night that I lived. Virgil Donati. 2020. Kyiv.  ink, paper. 20\*40cm.
+
 ![](/uploads/Purple%20rain.%20%D0%BF%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%2C%20%D0%B0%D0%BA%D1%80%D0%B8%D0%BB%2C100%C3%97100%D1%81%D0%BC%20.webp)
 
 Purple rain. Prince. 2021. Kyiv. Acrylic on canvas. 100\*100cm.
