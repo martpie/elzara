@@ -6,7 +6,7 @@ project_date: Kyiv 2021- Zurich 2022
 description: Personal visual interpretation of music
 highlight: ''
 ---
-![](/uploads/Polish_20210118_012310756.webp)
+![](/uploads/Red Air 1.webp)
 
 Red Air 1. Virgil Donati.2021. Paper, ink, acrylic, nib. Instrumental song by Virgil Donati) 50\*35 cm .
 
