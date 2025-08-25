@@ -1,10 +1,10 @@
-const fs = require("fs");
-const path = require("path");
-const readline = require("readline");
+const fs = require("node:fs");
+const path = require("node:path");
+const readline = require("node:readline");
 
 // Directories to scan
-const imagesDir = "./public/images";
-const referencesDir = "./outstatic/content";
+const imagesDir = "./public/uploads";
+const referencesDir = "./content";
 
 // Function to list all files in a directory recursively
 function listFilesInDir(dir, fileList = []) {
