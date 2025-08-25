@@ -1,5 +1,5 @@
 ---
-title: 'Einsichten 2025: Visarte Zürich & Friends'
+title: 'Einsichten 2025: Visarte Zurich & Friends'
 thumbnail: /uploads/Einsichten2025_Visual.webp
 publish_date: 2025-08-22
 project_date: August 22 - September 6. 2025
