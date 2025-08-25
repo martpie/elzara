@@ -28,12 +28,13 @@ export function getProjects(): Array<Project> {
 }
 
 export function getSingleProject(slug: string) {
-  return getProjectContent(`${slug}.md`);
+  const decodedSlug = decodeURIComponent(slug);
+  return getProjectContent(`${decodedSlug}.md`);
 }
 
 function getProjectContent(filepath: string): Project | null {
   try {
-    const slug = filepath.replace(/\.md$/, "");
+    const slug = encodeURIComponent(filepath.replace(/\.md$/, ""));
     const fullPath = path.join(PROJECTS_PATH, filepath);
 
     const fileContents = fs.readFileSync(fullPath, "utf8");
