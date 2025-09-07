@@ -26,6 +26,8 @@ Sa-So 14:00-18:00
 
 Die Ausstellung ist konzipiert und kuratiert von Dimitrina Sevova & Alan Roth von der [Agency for Curating Complexities](https://curatingcomplexities.agency/). Die Agency for Curating Complexities ist eine Erweiterung und transformative Weiterführung des Corner College.
 
+![](/uploads/earthly-things-ghostly-matters-invitation-card-W450px.webp)
+
 Earthly Things – Ghostly Matters
 
 The group exhibition _Earthly Things – Ghostly Matters_ explores hauntology from various perspectives of art and critical discourse. It asks what haunts the present moment, this time out of joint, how these fading and ruptured moments can produce other times. In a process of spectralization that affects the exhibition time and space, it strives to unsettle the familiar. It considers who haunts and who is haunted, what is apparent _now-here_ and what disappears into _no-where_.
