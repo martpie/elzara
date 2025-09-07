@@ -3,7 +3,7 @@ title: Free associations
 thumbnail: /uploads/photo_2025-07-07_17-43-40.webp
 publish_date: 2025-07-23
 project_date: January 2025-now
-description: series of drawings and objects made throught pure free association, with no predetermined goal, theme, or idea. This is in the spirit of automatism, strem-of-consciousness drawing.  Kind of self-psychoanalysis.
+description: series of drawings and objects
 highlight: ''
 ---
 Series of drawings and objects made throught pure free association, with no predetermined goal, theme, or idea. This is in the spirit of automatism, strem-of-consciousness drawing.  Kind of self-psychoanalysis.
