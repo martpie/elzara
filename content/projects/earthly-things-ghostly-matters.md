@@ -4,7 +4,7 @@ thumbnail: /uploads/earthly-things-ghostly-matters-invitation-card-W450px.webp
 publish_date: 2025-09-07
 project_date: 13 - 21 September
 description: The group exhibition in Zeughausareal, Uster
-highlight: upcoming
+highlight: current
 ---
 **Samstag, 13. September 2025, 16:00h-21:00h, Eröffnung der Gruppenausstellung** [Earthly Things – Ghostly Matters](https://curatingcomplexities.agency/2025/earthly-things-ghostly-matters.html) **im Raum 2 und Raum 3, Zeughausareal, Uster**
 
