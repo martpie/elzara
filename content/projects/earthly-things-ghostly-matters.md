@@ -4,7 +4,7 @@ thumbnail: /uploads/earthly-things-ghostly-matters-invitation-card-W450px.webp
 publish_date: 2025-09-07
 project_date: 13 - 21 September
 description: The group exhibition in Zeughausareal, Uster
-highlight: current
+highlight: ''
 ---
 **Samstag, 13. September 2025, 16:00h-21:00h, Eröffnung der Gruppenausstellung** [Earthly Things – Ghostly Matters](https://curatingcomplexities.agency/2025/earthly-things-ghostly-matters.html) **im Raum 2 und Raum 3, Zeughausareal, Uster**
 
@@ -39,3 +39,5 @@ The exhibition navigates through metaphors that convey a sense of unfamiliarity,
 The art works on display form a strange landscape, like a forest enchanted by strange mythical creatures, into which they invite the viewer to immerse themselves. Their uncanny effect opens perceptions to poetic and affective modalities. The constellation of artworks in the exhibition operates as non-human agents that possess vital energy coming from deep time, from the infinite duration of timelessness, the encounter with which proposes to confuse the relation between what the viewer sees and what the viewer knows. In this state of disorientation, the ecological mind can practice listening to and talking to non-humans and even spirits.
 
 [Agency for Curating Complexities](https://curatingcomplexities.agency/)
+
+![](/uploads/photo_2025-09-22_16-43-20 (3).webp)
