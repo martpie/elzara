@@ -1,6 +1,6 @@
 ---
 title: Earthly Things – Ghostly Matters
-thumbnail: /uploads/earthly-things-ghostly-matters-invitation-card-W450px.webp
+thumbnail: /uploads/photo_2025-09-22_16-40-57 (2).webp
 publish_date: 2025-09-07
 project_date: 13 - 21 September
 description: The group exhibition in Zeughausareal, Uster
@@ -26,7 +26,7 @@ Sa-So 14:00-18:00
 
 Die Ausstellung ist konzipiert und kuratiert von Dimitrina Sevova & Alan Roth von der [Agency for Curating Complexities](https://curatingcomplexities.agency/). Die Agency for Curating Complexities ist eine Erweiterung und transformative Weiterführung des Corner College.
 
-![](/uploads/earthly-things-ghostly-matters-invitation-card-W450px.webp)
+![](/uploads/photo_2025-09-22_16-40-57 (2).webp)
 
 Earthly Things – Ghostly Matters
 
