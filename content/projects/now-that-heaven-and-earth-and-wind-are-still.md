@@ -1,14 +1,14 @@
 ---
 title: “Now that heaven and earth and wind are still”
-thumbnail: /uploads/photo_2025-09-27_12-09-49.webp
+thumbnail: /uploads/photo_2025-09-27_12-09-49 - Copy.webp
 publish_date: 2025-09-27
 project_date: 02.10.20225-04.01.2026
 description: Found in translation project by ExpoTransKultur
 highlight: UPCOMING
 ---
-My peoject _Duality&#32;_for [Found in Translation](https://www.expotranskultur.org/en/%C3%BCber-uns) in [Helmhaus Zurich](https://helmhaus.org/en/)
+My project  _Duality_  for [Found in Translation](https://www.expotranskultur.org/en/%C3%BCber-uns) in [Helmhaus Zurich](https://helmhaus.org/en/)
 
-### An Exhibition on Love, Vulnerability and Death
+An Exhibition on Love, Vulnerability and Death
 
 [“Now that heaven and earth and wind are still”](https://helmhaus.org/en/exhibitions/nun-da-himmel-und-erde-und-winde-ruhen)… It sounds so poetic, so dreamy, so romantic, the very antithesis of the troubled times in which we now live. The title of the exhibition dates from the Renaissance and is a quote from a sonnet by the fourteenth-century Italian poet Francesco Petrarca. The composer Claudio Monteverdi set the poem to music during the Baroque period, in 1638, and even then, the place where heaven and earth and wind are momentarily still was riven with unrest, violence and war.
 
