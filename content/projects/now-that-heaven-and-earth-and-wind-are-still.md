@@ -3,7 +3,7 @@ title: “Now that heaven and earth and wind are still”
 thumbnail: /uploads/photo_2025-09-27_12-09-49 - Copy.webp
 publish_date: 2025-09-27
 project_date: 02.10.20225-04.01.2026
-description: Found in translation project by ExpoTransKultur
+description: Exhibition in Helmhaus by Found in translation project by ExpoTransKultur
 highlight: UPCOMING
 ---
 My project  _Duality_  for [Found in Translation](https://www.expotranskultur.org/en/%C3%BCber-uns) in [Helmhaus Zurich](https://helmhaus.org/en/)
