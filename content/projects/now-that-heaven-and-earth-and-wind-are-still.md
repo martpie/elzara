@@ -1,5 +1,5 @@
 ---
-title: “Now that heaven and earth and wind are still”
+title: Nun, da Himmel und Erde und Winde ruhen
 thumbnail: /uploads/photo_2025-09-27_12-09-49 - Copy.webp
 publish_date: 2025-09-27
 project_date: 02.10.20225-04.01.2026
