@@ -32,4 +32,4 @@ after an idea by Alba Chantico Ledesma and Adriana Olmos, curated by Nora von Be
 
 ![](/uploads/photo_2025-09-27_12-30-36.webp)
 
-send mean email if you like to  have full program.
+send me an email with the mark \*Program Helmhaus\* if you like to  have full program.
