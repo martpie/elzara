@@ -6,7 +6,7 @@ project_date: 02.10.20225-04.01.2026
 description: Exhibition in Helmhaus
 highlight: UPCOMING
 ---
-My project  _Duality_  for [Found in Translation](https://www.expotranskultur.org/en/%C3%BCber-uns) in [Helmhaus Zurich](https://helmhaus.org/en/)
+My project  _Duality_  within [Found in Translation](https://www.expotranskultur.org/en/%C3%BCber-uns) in [Helmhaus Zurich](https://helmhaus.org/en/)
 
 An Exhibition on Love, Vulnerability and Death
 
