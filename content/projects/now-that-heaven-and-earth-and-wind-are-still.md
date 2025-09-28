@@ -31,3 +31,5 @@ after an idea by Alba Chantico Ledesma and Adriana Olmos, curated by Nora von Be
 [Found in Translation 2025](https://www.expotranskultur.org/event-gallery/found-in-translation-2025)
 
 ![](/uploads/photo_2025-09-27_12-30-36.webp)
+
+send mean email if you like to  have full program.
