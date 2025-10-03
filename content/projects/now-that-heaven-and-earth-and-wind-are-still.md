@@ -4,7 +4,7 @@ thumbnail: /uploads/photo_2025-09-27_12-09-49 - Copy.webp
 publish_date: 2025-09-27
 project_date: 02.10.20225-04.01.2026
 description: Exhibition in Helmhaus
-highlight: UPCOMING
+highlight: now
 ---
 My project  _Duality_  within [Found in Translation](https://www.expotranskultur.org/en/%C3%BCber-uns) in [Helmhaus Zurich](https://helmhaus.org/en/)
 
