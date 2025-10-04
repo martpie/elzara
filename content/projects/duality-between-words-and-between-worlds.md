@@ -20,7 +20,7 @@ This duality of situation — the safety of a new home and the pain of separatio
 
 You can read or listen  the story by visitinhg the exhibition in Helmhaus Zurich
 
-![](/uploads/photo_2025-10-04_17-58-37 (2).webp)
+![](/uploads/photo_2025-10-04_17-58-37%20(2).webp)
 
 ![](/uploads/photo_2025-10-04_17-58-35.webp)
 
