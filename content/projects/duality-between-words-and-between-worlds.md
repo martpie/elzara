@@ -6,9 +6,7 @@ project_date: 3.10.2025-4.01.2026
 description: project Duality for Found in Translation within the exhibition 'Nun, da Himmel und Erde und Winde ruhen'   in Helmhaus Zurich
 highlight: NOW
 ---
-project _Duality_ within [Found in Translation](https://www.expotranskultur.org/en/%C3%BCber-uns) organised by [ExpoTransKultur](https://www.expotranskultur.org/event-gallery/found-in-translation-2025) in [Helmhaus Zurich](https://helmhaus.org/en/)
-
-
+project _Duality_ within [Found in Translation](https://www.expotranskultur.org/event-gallery/found-in-translation-2025) organised by [ExpoTransKultur](https://www.expotranskultur.org/en/%C3%BCber-uns) in [Helmhaus Zurich](https://helmhaus.org/en/)
 
 Based on the story of Majed Doghmosh.
 
@@ -22,8 +20,6 @@ This duality of situation — the safety of a new home and the pain of separatio
 
 You can read or listen  the story by visitinhg the exhibition in Helmhaus Zurich
 
-
-
 ![](/uploads/photo_2025-10-04_17-58-37 (2).webp)
 
 ![](/uploads/photo_2025-10-04_17-58-35.webp)
@@ -31,7 +27,7 @@ You can read or listen  the story by visitinhg the exhibition in Helmhaus Zurich
 [More about the project](https://www.expotranskultur.org/en/copy-of-2025)
 
 **Tandem Talk: 11 December 2025**
-_Conversation between the storytellers and artists involved in the&#160;_Found in Translation_&#160;project_
+_Conversation between the storytellers and artists involved in the _Found in Translation_ project_
 6.30–7 p.m. with Majed Doghmosh and Elzara Oiseau
 
 [Helmhaus Zurich](https://helmhaus.org/)
