@@ -12,11 +12,11 @@ Based on the story of Majed Doghmosh.
 
 ![](/uploads/photo_2025-09-28_11-48-45.webp)
 
-**Paper work:_&#32;Duality: Between Words_&#160;**
+**Paper work:_&#32;Duality. Between Words_&#160;**
 The starting point for this piece is a shared experience between two refugees, Majed and myself. Both of us carry the trauma of war: hiding in bomb shelters, running for survival, and ultimately making the same devastating choice — to leave our families behind in order to save our own lives, to hold hope for a better future. Safety comes at the cost of connection, leaving us suspended between two realities: one of new beginnings in a safe environment, and another of loss, distance, and uncertainty.
 From Majed’s story, I selected fragments of his text and phrases from our conversations that resonated deeply: _“You are safe now”_ and _“Something is missing.”_ These words embody a duality — the relief of survival and the emptiness of absence. If you imagine these scripts written chaotically in a diary, then rearranged and questioned, they form shifting meanings: _“Are you safe? Are you missing something? Is something missing? Now something is missing.”_ Like diary entries, they hold both sorrow and resilience, dissolving into images made of words — words that sometimes fade, sometimes transform.
 
-**Installation:_&#32;Duality: Between Worlds_**
+**Installation:_ Duality. Between Worlds_**
 The second work continues this exploration of duality. A delicate metal net embodies fragility and resistance at once — its shining fragments recall fleeting moments of beauty and hope, yet its form is bent and marked by trauma. Suspended between parallel realities, the piece reflects the constant tension of exile: joy mixed with sorrow, presence shadowed by absence.
 This duality of situation — the safety of a new home and the pain of separation — defines our present. Every moment of happiness carries the weight of what cannot be shared with loved ones left behind, in places we may never return to. It holds both hope and loss, never fully one, never fully the other.
 
