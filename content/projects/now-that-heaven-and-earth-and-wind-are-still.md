@@ -1,6 +1,6 @@
 ---
 title: Nun, da Himmel und Erde und Winde ruhen
-thumbnail: /uploads/photo_2025-09-27_12-09-49 - Copy.webp
+thumbnail: /uploads/photo_2025-09-27_12-30-36-1.webp
 publish_date: 2025-09-27
 project_date: 02.10.20225-04.01.2026
 description: Exhibition in Helmhaus
