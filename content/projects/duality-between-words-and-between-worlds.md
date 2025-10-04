@@ -10,6 +10,8 @@ project _Duality_ within [Found in Translation](https://www.expotranskultur.o
 
 Based on the story of Majed Doghmosh.
 
+![](/uploads/photo_2025-09-28_11-48-45.webp)
+
 **Paper work:&#32;_Duality: Between Words_&#160;**
 The starting point for this piece is a shared experience between two refugees, Majed and myself. Both of us carry the trauma of war: hiding in bomb shelters, running for survival, and ultimately making the same devastating choice — to leave our families behind in order to save our own lives, to hold hope for a better future. Safety comes at the cost of connection, leaving us suspended between two realities: one of new beginnings in a safe environment, and another of loss, distance, and uncertainty.
 From Majed’s story, I selected fragments of his text and phrases from our conversations that resonated deeply: _“You are safe now”_ and _“Something is missing.”_ These words embody a duality — the relief of survival and the emptiness of absence. If you imagine these scripts written chaotically in a diary, then rearranged and questioned, they form shifting meanings: _“Are you safe? Are you missing something? Is something missing? Now something is missing.”_ Like diary entries, they hold both sorrow and resilience, dissolving into images made of words — words that sometimes fade, sometimes transform.
@@ -20,7 +22,7 @@ This duality of situation — the safety of a new home and the pain of separatio
 
 You can read or listen  the story by visitinhg the exhibition in Helmhaus Zurich
 
-![](/uploads/photo_2025-10-04_17-58-37%20(2).webp)
+![](/uploads/photo_2025-10-04_17-58-37 (2).webp)
 
 ![](/uploads/photo_2025-10-04_17-58-35.webp)
 
