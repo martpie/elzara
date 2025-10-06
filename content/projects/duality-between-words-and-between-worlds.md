@@ -28,6 +28,8 @@ You can read or listen the story by visiting the exhibition in Helmhaus Zurich.
 
 [More about the project](https://www.expotranskultur.org/en/copy-of-2025)
 
+after an idea by Alba Chantico Ledesma and Adriana Olmos, curated by Nora von Bergen and Sarah Basyouny
+
 **Tandem Talk: 11 December 2025**
 _Conversation between the storytellers and artists involved in the _Found in Translation_ project_
 6.30–7 p.m. with Majed Doghmosh and Elzara Oiseau
