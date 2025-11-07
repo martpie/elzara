@@ -1,7 +1,7 @@
 ---
 title: 40 minutes EXILE
 thumbnail: /uploads/performance.webp
-publish_date: 2025-10-23
+publish_date: 2025-10-11
 project_date: 11 Oct- 1 November
 description: performance
 highlight: NOW
