@@ -1,10 +1,10 @@
 ---
 title: 40 minutes EXILE
 thumbnail: /uploads/performance.webp
-publish_date: 2025-10-11
+publish_date: 2025-10-01
 project_date: 11 Oct- 1 November
 description: performance
-highlight: NOW
+highlight: ''
 ---
 Eight Ukrainian artists meet. They've been given 40 minutes and 16 square meters to give out their voices. A country at war connects them.
 
