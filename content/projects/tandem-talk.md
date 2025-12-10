@@ -24,4 +24,4 @@ Helmhaus Zürich, Limmatquai 31, 8001 Zürich, Switzerland
 
 work _Duality: Between words and Between worlds_ based on the story by Majed Doghmosh
 
-**on the view until 4 January 2026**
+**on view until 4 January 2026**
