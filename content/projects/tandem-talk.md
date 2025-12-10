@@ -8,6 +8,8 @@ highlight: event
 ---
 last  [Tand](https://www.expotranskultur.org/events-1/the-tandems-at-helmhaus-2025-12-11-18-30)[em Talks](https://www.expotranskultur.org/events-1/the-tandems-at-helmhaus-2025-12-11-18-30) whithin [Found in Translation](https://www.expotranskultur.org/en/found-in-translation) project in [Helmhaus](https://helmhaus.org/en/events/tandem-talk-h1?date=1)
 
+![](/uploads/28b900_8660ab0ab45a460eb1a08ca15ddbc7d8~mv2.webp)
+
 - 6.30-7 pm with Majed Doghmosh and Elzara Oiseau
 - 7.15–7.45 pm with Natalie Noureddin and Onur Ceritoglu
 - 8–8.30 pm with Wagdy El Komy and Sepideh Nour Manesh
