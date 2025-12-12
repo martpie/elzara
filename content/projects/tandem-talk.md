@@ -1,7 +1,7 @@
 ---
 title: Tandem Talk
 thumbnail: /uploads/28b900_8660ab0ab45a460eb1a08ca15ddbc7d8~mv2.webp
-publish_date: 2025-12-10
+publish_date: 2025-11-10
 project_date: 11.12.2025 - 18:30
 description: The Tandems at Helmhaus whithin the project Found in Translation
 highlight: event
