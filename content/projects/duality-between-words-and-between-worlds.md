@@ -4,7 +4,7 @@ thumbnail: /uploads/photo_2025-09-28_11-48-45.webp
 publish_date: 2025-10-04
 project_date: 3.10.2025-4.01.2026
 description: project Duality for Found in Translation within the exhibition 'Nun, da Himmel und Erde und Winde ruhen'   in Helmhaus Zurich
-highlight: LAST DAYS
+highlight: ''
 ---
 project _Duality_ within [Found in Translation](https://www.expotranskultur.org/event-gallery/found-in-translation-2025) organised by [ExpoTransKultur](https://www.expotranskultur.org/en/%C3%BCber-uns) in [Helmhaus Zurich](https://helmhaus.org/en/)
 
