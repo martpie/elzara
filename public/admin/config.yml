@@ -51,8 +51,8 @@ collections:
         name: publish_date
         widget: datetime
         format: YYYY-MM-DD
-        dateFormat: YYYY-MM-DD
-        timeFormat: false
+        date_format: YYYY-MM-DD
+        time_format: false
         hint: Used for the sorting of the projects on the homepage.
 
       - label: Project Date
@@ -84,7 +84,7 @@ singletons:
       - label: Portfolio
         name: portfolio
         widget: file
-        allow_multiple: false
+        multiple: false
         hint: Link to the latest portfolio
 
 show_preview_links: false
