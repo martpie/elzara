@@ -1,6 +1,6 @@
 ---
 title: Cité internationale des arts. Open Studio
-thumbnail: /uploads/image001.webp
+thumbnail: /uploads/visuel.webp
 publish_date: 2026-03-09
 project_date: March 11
 description: presentation of ongoing project research whithin the residency at Cité
@@ -29,3 +29,5 @@ Mercredi 11 mars 2026
 ![](/uploads/Visuel_RS_SciencePo_20263.webp)
 
 ![](/uploads/Visuel_RS_SciencePo_20262.webp)
+
+![](/uploads/image001.webp)
