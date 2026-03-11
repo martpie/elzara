@@ -6,6 +6,7 @@ project_date: 11 Oct- 1 November
 description: performance
 highlight: ''
 ---
+
 Eight Ukrainian artists meet. They've been given 40 minutes and 16 square meters to give out their voices. A country at war connects them.
 
 They are on the stage, in exile. Their expression is limited. Their artistic identity is put to the test. Their mother tongue and fatherland carry new weight. "40 Minutes of Exile" is not just a performance; it is a testimony.
@@ -41,3 +42,17 @@ Tour dates:
 30/10 at 19:00 and 21:00 at Rectifie - Research center of mix performing arts Kostantinoupoleos 119 Athens
 
 31/10 at 20:00 at Rectifie - Research center of mix performing arts Kostantinoupoleos 119 Athens
+
+![](/uploads/photo_2025-11-12_18-37-02.webp)
+
+![](/uploads/photo_2025-11-12_18-13-54.webp)
+
+![](/uploads/photo_2025-11-12_18-13-54%20%282%29.webp)
+
+![](/uploads/Kateryna%20and%20Elzara.webp)
+
+![](/uploads/Screenshot%202025-11-12%20183157.webp)
+
+![](/uploads/photo_2025-11-12_18-34-40.webp)
+
+![](/uploads/photo_2025-11-12_18-34-39%20%282%29.webp)
