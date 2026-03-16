@@ -32,11 +32,11 @@ More detailed photo of my works will post later.
 
 ![](/uploads/IMG_5045.webp)
 
-![](/uploads/IMG_5038.webp)![](/uploads/IMG_5065.webp)
+![](/uploads/IMG_5038-1.webp)![](/uploads/IMG_5065.webp)
 
 ![](/uploads/IMG_5049.webp)
 
-![](/uploads/IMG_5048.webp)
+![](/uploads/IMG_5048-1.webp)
 
 ![](/uploads/IMG_5064.webp)
 
