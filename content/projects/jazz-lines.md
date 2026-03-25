@@ -8,7 +8,7 @@ highlight: ''
 ---
 Jazz Lines: musical and visual dialogues of Nik Bärtsch and Elzara Oiseau, 2023
 
-As an artist, I have long explored music in my work. I have always wanted to show how a particular piece of music would look if we could visualize it. What is sound? How does it affect our emotions? In this large-scale project, I decided to explore the music of Swiss jazz composer and pianist Nik Bärtsch. For this project, which spanned 300 square meters of space, I created 10 sculptural installations, 7 large canvases, and 10 works on paper, in which I visualized my perception and interpretation of sound. Also we collaborated with Nik and created one huge painting on canvas for this exhibition.
+As an artist, I have long explored music in my work. I have always wanted to show how a particular piece of music would look if we could visualize it. What is sound? How does it affect our emotions? In this large-scale project, I decided to explore the music of Swiss jazz composer and pianist Nik Bärtsch. For this project, which spanned 300 square meters of space, I created 10 sculptural installations, 7 large canvases, and 10 works on paper, in which I visualized my perception and interpretation of sound. We also collaborated with Nik and created one huge painting on canvas for this exhibition.
 
 [Nik Bärtsch](https://www.nikbaertsch.com/), a visionary composer and pianist, is known for his innovative approach to music. His compositions, often referred to as Ritual Groove Music, blend elements of jazz, funk, and minimalism, creating a hypnotic and meditative sonic experience. Bärtsch's intricate rhythms and repetitive motifs create a sense of fluidity and motion, inviting listeners to embark on a sonic journey that transcends conventional boundaries.
 

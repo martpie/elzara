@@ -6,7 +6,7 @@ project_date: January 2025-now
 description: series of drawings and objects
 highlight: ''
 ---
-Series of drawings and objects made throught pure free association, with no predetermined goal, theme, or idea. This is in the spirit of automatism, strem-of-consciousness drawing.  Kind of self-psychoanalysis.
+Series of drawings and objects made through pure free association, with no predetermined goal, theme, or idea. This is in the spirit of automatism, stream-of-consciousness drawing.  Kind of self-psychoanalysis.
 
 ![](/uploads/VKTU1560.webp)
 

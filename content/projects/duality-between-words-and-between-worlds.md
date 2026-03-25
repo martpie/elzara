@@ -20,7 +20,7 @@ From Majed’s story, I selected fragments of his text and phrases from our conv
 The second work continues this exploration of duality. A delicate metal net embodies fragility and resistance at once — its shining fragments recall fleeting moments of beauty and hope, yet its form is bent and marked by trauma. Suspended between parallel realities, the piece reflects the constant tension of exile: joy mixed with sorrow, presence shadowed by absence.
 This duality of situation — the safety of a new home and the pain of separation — defines our present. Every moment of happiness carries the weight of what cannot be shared with loved ones left behind, in places we may never return to. It holds both hope and loss, never fully one, never fully the other.
 
-You can read or listen the story by visiting the exhibition in Helmhaus Zurich.
+You can read or listen to the story by visiting the exhibition in Helmhaus Zurich.
 
 ![](/uploads/photo_2025-10-04_17-58-35%20%282%29.webp)
 
@@ -31,7 +31,7 @@ You can read or listen the story by visiting the exhibition in Helmhaus Zurich.
 after an idea by Alba Chantico Ledesma and Adriana Olmos, curated by Nora von Bergen and Sarah Basyouny
 
 **Tandem Talk: 11 December 2025**
-_Conversation between the storytellers and artists involved in the _Found in Translation_ project_
+_Conversation between the storytellers and artists involved in the_ Found in Translation _project_
 6.30–7 p.m. with Majed Doghmosh and Elzara Oiseau
 
 [Helmhaus Zurich](https://helmhaus.org/)

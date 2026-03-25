@@ -15,7 +15,7 @@ The performance is part of the EU project Meeting Point, which is a 2-year resid
 
 _The project is co-financed by the European Union, and this performance is part of the event series "Together for EU" and is financed through a grant from the European Commission. Responsibility for the content lies solely with the grant recipient._
 
-The performance is created and developped during the residency in [Nordisk Teaterlaboratorium](https://en.ntl.dk/)  11 Oct-22 Oct.
+The performance is created and developed during the residency in [Nordisk Teaterlaboratorium](https://en.ntl.dk/)  11 Oct-22 Oct.
 
 Tour dates:
 

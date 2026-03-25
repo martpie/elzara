@@ -18,15 +18,15 @@ Mercredi 11 mars 2026
 
 **Commissaires invités, des étudiants et étudiantes en cycle Master de Sciences Po Saint-Germain-en-Laye ont conçu trois parcours présentant les recherches de quatorze artistes.**
 
-Open Studio curated by Sciences Po Saint-Germain-en-Laye at Cité nationale des arts
+Open Studio curated by Sciences Po Saint-Germain-en-Laye at Cité internationale des arts
 
-this Open Studio presents part of my ongoing research about the teaching of Crimean Tatar language in the very beginning if the foundation of L’École Spéciale des Langues Orientales Vivantes (today INALCO ) at the end of 18 century in Paris. I will post more about it when I will collect some more information.
+this Open Studio presents part of my ongoing research about the teaching of Crimean Tatar language in the very beginning of the foundation of L’École Spéciale des Langues Orientales Vivantes (today INALCO ) at the end of 18 century in Paris. I will post more about it when I will collect some more information.
 
 Thanks to the team of the students of Sciences Po  for a great mediation and collaboration.
 
 Thanks to Kanton Zurich Fachstelle Kultur for the opportunity to develop and share my research here in Paris.
 
-More detailed photo of my works will post later.
+More detailed photos of my works will be posted later.
 
 [link](https://www.citeinternationaledesarts.fr/evenements/ateliers-ouverts/?utm_source=brevo&utm_campaign=Newsletter%20des%20rsidents%20-%20S11%202026&utm_medium=email)
 

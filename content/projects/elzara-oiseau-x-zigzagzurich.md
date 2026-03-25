@@ -32,14 +32,14 @@ Many know that when I arrived in Zurich, I only had my documents, a few T-shirts
 
 [**BUY SAHARA BEDDING**](https://zigzagzurich.com/products/artist-bedding-sahara-oiseau)
 
-in studio working on Sahara series. Kyiv october-november 2021
+In studio working on Sahara Series. Kyiv, October–November 2021
 
 ![](/uploads/IMG_20211110_140407.webp)
 
-in studio. Kyiv december 2021
+In studio. Kyiv, December 2021
 
 ![](/uploads/IMG_20211110_194324.webp)
 
-in studio. Kyiv december 2021
+In studio. Kyiv, December 2021
 
 ![](/uploads/IMG_20211122_160558.webp)

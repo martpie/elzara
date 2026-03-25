@@ -6,7 +6,7 @@ project_date: 2023-2024
 description: Drawings
 highlight: ''
 ---
-series of drawings on transparent paper.
+Series of drawings on transparent paper.
 
 _disappearing letters from the past_
 

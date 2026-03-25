@@ -18,7 +18,7 @@ But the real number?
 
 I multiplied the word **ДЕТИ** in russian language it means CHILDREN.
 
-It's written  in  places where children stay to warn the attackers to not shoot at least these places.
+It's written in places where children stay to warn the attackers to not shoot at least these places.
 
 Also in Ukrainian language the two words **Де Ти** means **Where are you**?
 
@@ -26,7 +26,7 @@ Also in Ukrainian language the two words **Де Ти** means **Where are you**?
 
 ![DETI](/uploads/Polish_20220415_165853480.webp)
 
-This is my first painting created just arriving in Zurich in the beginning of April 2022.
+This is my first painting, created just after arriving in Zurich in the beginning of April 2022.
 
 ![](/uploads/Polish_20220415_165928976.webp)
 
@@ -36,7 +36,7 @@ This is my first painting created just arriving in Zurich in the beginning of Ap
 
 Буча/_Butcha,_ 2022**.&#32;&#32;**Acrylic, canvas. 165 \* 165cm
 
-simply google: Butcha massacre.
+Simply Google: Butcha massacre.
 
 ![](/uploads/Polish_20220720_160334343.webp)
 
@@ -48,7 +48,7 @@ acrylic, canvas, 160\*300 cm.
 
 ![](/uploads/Polish_20220921_134807131.webp)
 
-If I could cover my land, 2022 . acrylic, canvas.,160\*210cm
+If I could cover my land, 2022. Acrylic, canvas, 160\*210cm
 
 ![](/uploads/slavyansk.webp "https://war.ukraine.ua/articles/war-against-nature-the-environmental-damage-of-russia-s-full-scale-invasion-of-ukraine/")
 

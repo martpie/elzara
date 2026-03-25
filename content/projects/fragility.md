@@ -8,7 +8,7 @@ description: "12 meters wall painting for Waschraum edition 1"
 
 [12 meters wall painting](https://wasch-raum.ch/kuenstlerinnen/elzara-oiseau/) for collective exhibition [«loslassen – loswerden»](https://wasch-raum.ch/archiv/) [Waschraum](https://wasch-raum.ch/)
 
-This project was created in march 2023 for the exhibition "loslassen-loswerden" for a very special space, Waschraum (Bathroom), which is located in a building owned by the Swiss railway company SBB and is also protected by the city of Zurich as a historical heritage site. The space is a large hall with bathrooms and shower cabins, entirely covered in tiles, which gives it an extraordinary fragility and very interesting sound resonance.
+This project was created in March 2023 for the exhibition "loslassen-loswerden" for a very special space, Waschraum (Bathroom), which is located in a building owned by the Swiss railway company SBB and is also protected by the city of Zurich as a historical heritage site. The space is a large hall with bathrooms and shower cabins, entirely covered in tiles, which gives it an extraordinary fragility and very interesting sound resonance.
 
 Selected artists had to create works that would integrate into the space and emphasize its specificity, complexity, history, and charm.
 
@@ -26,7 +26,7 @@ This is noticeable at the exhibition, but also tangible, as the words are writte
 
 Oiseau's artistic approach, focused on abstract calligraphy, is a sensory experience. "Fragility" encourages us to think about the power of words and how they affect our relationships, our society, and our personal experiences".
 
-One of the main point of the project was the idea that this artwork will be erased by the and of exhibition.
+One of the main points of the project was the idea that this artwork will be erased by the end of the exhibition.
 
 ![](/uploads/polish_20230312_233249634-cwMj.jpg)
 

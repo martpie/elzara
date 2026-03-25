@@ -1,5 +1,5 @@
 ---
-title: Visualizing music
+title: Visualizing Music
 thumbnail: /uploads/Polish_20210110_142958453.webp
 publish_date: 2021-11-16
 project_date: Kyiv 2021- Zurich 2022
@@ -8,11 +8,11 @@ highlight: ''
 ---
 ![](/uploads/Red Air 1.webp)
 
-Red Air 1. Virgil Donati.2021. Paper, ink, acrylic, nib. Instrumental song by Virgil Donati) 50\*35 cm .
+Red Air 1. Virgil Donati. 2021. Paper, ink, acrylic, nib. (Instrumental song by Virgil Donati) 50\*35 cm.
 
 ![](/uploads/Polish_20210125_122001865.webp)
 
-Red Air 2. Virgil Donati. 2021. Paper, ink, acrylic, nib Instrumental song by Virgil Donati) 50\*35 cm.
+Red Air 2. Virgil Donati. 2021. Paper, ink, acrylic, nib. (Instrumental song by Virgil Donati) 50\*35 cm.
 
 ![](/uploads/Polish_20210112_111006122.webp)
 

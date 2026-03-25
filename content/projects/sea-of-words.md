@@ -8,7 +8,7 @@ description: "Personal exhibition"
 
 _Sea of Words_ - personal exhibition dedicated to my motherland, Crimea.
 
-I presented the works created in Zurich, as well as pieces I brought with me during my evacuation from Kyiv in March 2022. Additionally, showcase a few of my latest artworks— sculptural objects from the _Sürgünlik_ project (meaning _Exile_ in Crimean Tatar)
+I presented the works created in Zurich, as well as pieces I brought with me during my evacuation from Kyiv in March 2022. Additionally, I showcase a few of my latest artworks— sculptural objects from the _Sürgünlik_ project (meaning _Exile_ in Crimean Tatar)
 
 Go-Green-Art Gallery
 

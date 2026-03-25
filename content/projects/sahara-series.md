@@ -1,5 +1,5 @@
 ---
-title: Sahara series
+title: Sahara Series
 thumbnail: /uploads/photo_2025-05-16_22-22-10.webp
 publish_date: 2021-10-16
 project_date: '2021'
@@ -16,7 +16,7 @@ The series reflects the phases of sunrise: the deep blues still holding traces o
 
 Unforgettable impressions, unforgettable memories—forever living in these works.
 
- At the beginning of the full-scale invasion I evacuated all my paintings and brought them in Zurich.
+ At the beginning of the full-scale invasion I evacuated all my paintings and brought them to Zurich.
 
 ![](/uploads/DSC_0978-2.webp "Before sunrise in Sahara. 2021. Acrylic, oil pastel, canvas. 105*95cm")
 
