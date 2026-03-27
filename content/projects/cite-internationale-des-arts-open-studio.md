@@ -3,7 +3,7 @@ title: Cité internationale des arts. Open Studio
 thumbnail: /uploads/IMG_5451 - Copy.webp
 publish_date: 2026-03-09
 project_date: March 11
-description: presentation of ongoing project research whithin the residency at Cité
+description: presentation of ongoing project research within the residency at Cité
 highlight: ''
 ---
 
