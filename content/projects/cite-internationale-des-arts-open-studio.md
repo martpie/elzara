@@ -22,7 +22,7 @@ Open Studio curated by Sciences Po Saint-Germain-en-Laye at Cité internationale
 
 this Open Studio presents part of my ongoing research about the teaching of Crimean Tatar language in the very beginning of the foundation of L’École Spéciale des Langues Orientales Vivantes (today INALCO ) at the end of 18 century in Paris. I will post more about it when I will collect some more information.
 
-Thanks to the team of the students of Sciences Po  for a great mediation and collaboration.
+Thanks to the team of the students of Sciences Po: Héloïse Landois, Léonore Araujo-Dutartre, Juliette Antunes, Hippolyte Blanc, Perick Berlehner, Lisa Gendrier, Aurélien Delpy, Agathe Salgues, Charlotte Prieur for a great mediation and collaboration
 
 Thanks to Kanton Zurich Fachstelle Kultur for the opportunity to develop and share my research here in Paris.
 
