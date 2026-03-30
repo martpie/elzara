@@ -24,7 +24,7 @@ this Open Studio presents part of my ongoing research about the teaching of Crim
 
 Thanks to the team of the students of Sciences Po: Héloïse Landois, Léonore Araujo-Dutartre, Juliette Antunes, Hippolyte Blanc, Perick Berlehner, Lisa Gendrier, Aurélien Delpy, Agathe Salgues, Charlotte Prieur for a great mediation and collaboration
 
-Thanks to Kanton Zurich Fachstelle Kultur for the opportunity to develop and share my research here in Paris.
+The residency is funded by [Cultural Department of Canton Zurich](https://www.zh.ch/de.html).
 
 More detailed photos of my works will be posted later.
 
