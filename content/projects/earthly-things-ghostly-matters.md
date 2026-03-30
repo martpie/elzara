@@ -6,6 +6,7 @@ project_date: 13 - 21 September
 description: The group exhibition in Zeughausareal, Uster
 highlight: ''
 ---
+
 **Samstag, 13. September 2025, 16:00h-21:00h, Eröffnung der Gruppenausstellung** [Earthly Things – Ghostly Matters](https://curatingcomplexities.agency/2025/earthly-things-ghostly-matters.html) **im Raum 2 und Raum 3, Zeughausareal, Uster**
 
 Mit Richard Blaško, Maya Bringolf, Antoine Félix Bürcher, Bettina Carl, Bettina Diel, Jiaxi Han, HARUKO, Dieter Holliger, Charles O. Job, Hanspeter Keller, Dominique Lämmli, Vilija Litvinaite, Angelos Merges, Elzara Oiseau, Ursula Palla, Martin Reukauf, Dimitrina Sevova, Lourenço Soares, Sandro Steudler, Andy Storchenegger, Una Szeemann.
@@ -63,8 +64,6 @@ The art works on display form a strange landscape, like a forest enchanted by st
 ![](/uploads/photo_2025-09-22_16-40-35%20(2).webp)
 
 ![](/uploads/photo_2025-09-22_16-40-00.webp)
-
-![](/uploads/photo_2025-09-22_16-40-50.webp)
 
 ![](/uploads/photo_2025-09-22_16-43-20%20(3).webp)
 
