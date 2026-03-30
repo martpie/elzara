@@ -6,15 +6,16 @@ project_date: 2022-2023
 description: war
 highlight: ''
 ---
+
 ![DETI](/uploads/Polish_20220415_165433856.webp)
 
-**_ДЕТИ/ CHILDREN&#32;_**(rus)/ ДЕ ТИ/ Where are you (ukr) 2022. Acrylic, canvas, 160\*200cm.
+**_ДЕТИ/ CHILDREN_** (rus)/ ДЕ ТИ/ Where are you (ukr) 2022. Acrylic, canvas, 160\*200cm.
 
 198 children have died, 385 injured.
 
 This is the number for 15.04.2022 by official information.
 
-But the real number? 
+But the real number?
 
 I multiplied the word **ДЕТИ** in russian language it means CHILDREN.
 
@@ -34,11 +35,9 @@ This is my first painting, created just after arriving in Zurich in the beginnin
 
 ![](/uploads/Polish_20220513_114059546.webp)
 
-Буча/_Butcha,_ 2022**.&#32;&#32;**Acrylic, canvas. 165 \* 165cm
+Буча/_Butcha,_ 2022\*\*.  \*\*Acrylic, canvas. 165 \* 165cm
 
 Simply Google: Butcha massacre.
-
-![](/uploads/Polish_20220720_160334343.webp)
 
 The Bombshelter, 2022
 
@@ -53,8 +52,6 @@ If I could cover my land, 2022. Acrylic, canvas, 160\*210cm
 ![](/uploads/slavyansk.webp "https://war.ukraine.ua/articles/war-against-nature-the-environmental-damage-of-russia-s-full-scale-invasion-of-ukraine/")
 
 https://war.ukraine.ua/articles/war-against-nature-the-environmental-damage-of-russia-s-full-scale-invasion-of-ukraine/
-
-![if i could](/uploads/Polish_20220921_135937151.webp)
 
 ![](/uploads/Polish_20220921_145015922.webp)
 
