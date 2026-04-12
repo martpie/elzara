@@ -4,7 +4,7 @@ thumbnail: /uploads/inherited silences.webp
 publish_date: 2026-03-27
 project_date: April 2 - April 9
 description: Group exhibition. Zurich
-highlight: ongoing
+highlight: ''
 ---
 
 _Inherited Silences_ is a group exhibition by Alyona Hrekova, Elzara Oiseau, Katya Vavrynchuk, Masha Silchenko and Viktoria Tabone that brings together artistic works dealing with memory, grief, and transgenerational trauma in Eastern European and post-Soviet contexts. The exhibition traces different understandings of how personal stories and collective histories are shaped by displacement, loss, and survival, and how these experiences are carried across generations. Selected works engage with archives not as complete or authoritative records, but as fragmented and vulnerable structures shaped by interruption, erasure, and absence. In this sense, missing documents, silences, and gaps become central points of artistic inquiry rather than obstacles.
