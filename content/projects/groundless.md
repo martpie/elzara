@@ -1,7 +1,7 @@
 ---
 title: Groundless
 thumbnail: /uploads/IMG_5944.webp
-publish_date: 2026-04-22
+publish_date: 2026-04-16
 project_date: April, 2026
 description: open studio at the Cité Internationale des Arts
 highlight: ''
