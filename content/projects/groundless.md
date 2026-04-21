@@ -9,7 +9,7 @@ highlight: ''
 
 _Groundless_, 2026
 
-Site-specific installation, [Cité internationale des arts](https://www.citeinternationaledesarts.fr/), Paris. Developed during the residency, following the project _Des traces_.
+Site-specific installation, [Cité internationale des arts](https://www.citeinternationaledesarts.fr/), Paris. Developed during the residency, following the project [_Des traces_](https://elzara.studio/projects/cite-internationale-des-arts-open-studio).
 
 _Groundless_ brings together works from the project  des traces alongside a site-specific installation developed through ongoing research into traces of the Crimean Tatar language in Paris.
 
@@ -19,17 +19,13 @@ Fragments of landscape and traces of words appear unsettled, no longer fully anc
 
 The work resonates with what might be understood as a “grey zone”: a space shaped not by active conflict, but by its lingering effects. Here, presence remains partial, and belonging is continuously renegotiated through distance, memory, and shifting forms of attachment.
 
-![](/uploads/IMG_5989.webp)
-
 ![](/uploads/IMG_5981.webp)
-
-![](/uploads/IMG_6031.webp)
 
 ![](/uploads/IMG_5992.webp)
 
 ![](/uploads/IMG_5993.webp)
 
-![](/uploads/IMG_5990.webp)![](/uploads/IMG_5992.webp)![](/uploads/IMG_6051.webp)
+![](/uploads/IMG_5990.webp)![](/uploads/IMG_6051.webp)
 
 ![](/uploads/IMG_6044.webp)
 
