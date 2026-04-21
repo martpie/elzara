@@ -6,17 +6,16 @@ project_date: 2024-2025
 description: Photo portraits project
 highlight: ''
 ---
-_There is nothing more important to me in you, than your individuality.&#32;_
 
-_Let me show it to you.&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;_
+_There is nothing more important to me in you, than your individuality._ 
 
 _Elzara O._
 
-_Portraits of the artists, architects, designers, thinkers, creators, humans... beau-monde:)_
+Portraits of the artists, architects, designers, thinkers, creators, humans...
 
-_contact me if you like to see you among them:_
+contact me if you like to see you among them:
 
-elzaraoiseau@gmail.com  
+elzaraoiseau@gmail.com
 
 ![](/uploads/IMG_1162El.webp)
 
