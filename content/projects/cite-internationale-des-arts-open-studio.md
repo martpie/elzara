@@ -1,9 +1,9 @@
 ---
-title: Cité internationale des arts. Open Studio
+title: Des Traces. Open Studio
 thumbnail: /uploads/IMG_5451 - Copy.webp
 publish_date: 2026-03-09
-project_date: March 11
-description: presentation of ongoing project research within the residency at Cité
+project_date: March
+description: presentation of ongoing project research Des traces within the residency at the Cité internationale des arts.
 highlight: ''
 ---
 
