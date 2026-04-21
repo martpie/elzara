@@ -11,8 +11,7 @@ highlight: ''
 
 # **Saint-Germain-en-Laye**
 
-Site du Marais
-Mercredi 11 mars 2026
+mars 2026
 
 **Dans le cadre des Ateliers ouverts hebdomadaires, la Cité internationale des arts invite un partenaire à être commissaire lors d’une soirée.**
 
