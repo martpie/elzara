@@ -13,7 +13,8 @@ At the same time, this state of being “hanging in the air” can also carry a 
 
 The exhibition brings together works from different periods; alongside recent pieces developed during a residency at the Cité internationale des arts in Paris.
 
-Opening reception, Thursday, April 30th, from 6 pm to 9 pm.
+Vernissage:
+Thursday, April 30th, from 6 pm to 9 pm.
 
 Opening hours:
 Friday, May 1st, 4:00 PM - 8:00 PM;
