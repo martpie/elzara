@@ -20,9 +20,9 @@ Cabinet Visarte,
 Schoffelgasse 10,
 8001 Zurich
 
-![](/uploads/IMG_6488.webp)
+![](/uploads/IMG_6488-1.webp)
 
-![](/uploads/IMG_6490.webp)
+![](/uploads/IMG_6490-1.webp)
 
 ![](/uploads/IMG_6489.webp)
 
