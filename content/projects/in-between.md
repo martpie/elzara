@@ -20,8 +20,6 @@ Cabinet Visarte,
 Schoffelgasse 10,
 8001 Zurich
 
-![](/uploads/Elzara%20Oiseau_In%20Between_Plakat.webp)
-
 ![](/uploads/IMG_6488.webp)
 
 ![](/uploads/IMG_6490.webp)
