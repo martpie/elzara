@@ -3,7 +3,7 @@ title: Des Traces
 thumbnail: /uploads/IMG_5451 - Copy.webp
 publish_date: 2026-03-09
 project_date: March
-description: Ooen Studioat the Cité internationale des arts. Presentation of ongoing project research.
+description: Open Studio at the Cité internationale des arts. Presentation of ongoing project research.
 highlight: ''
 ---
 
