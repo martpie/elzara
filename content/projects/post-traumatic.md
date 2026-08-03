@@ -9,19 +9,17 @@ highlight: ''
 
 ![DETI](/uploads/Polish_20220415_165433856.webp)
 
-_ДЕТИ/ Dety_ (rus.-children)/ _ДЕ ТИ/ De Ty_ (ukr.-Where are you) 2022. Acrylic, canvas, 160\*200cm.
+**ДЕТИ / Dety (Russian: "children") / ДЕ ТИ / De Ty (Ukrainian: "Where are you?")**
+2022. Acrylic on canvas, 160 × 200 cm.
 
-198 children have died, 385 injured.
+**198 children were killed and 385 were injured.**
+These were the official figures reported on **15 April 2022**.
 
-This is the number for 15.04.2022 by official information.
+The painting is based on the repeated Russian word **ДЕТИ** ("children"). During the early months of the full-scale invasion, this word was painted in large letters near shelters, schools, and other places where children were staying, in the hope of warning the attackers not to target them.
 
-I multiplied the word ДЕТИ in russian language it means CHILDREN.
+At the same time, when visually separated as **ДЕ ТИ** in Ukrainian, the phrase reads **"Where are you?"**, transforming the word into a question about absence, loss, and disappearance.
 
-It's written in places where children stay to warn the attackers to not shoot at least these places.
-
-Also in Ukrainian language the two words Де Ти means Where are you?
-
-The first painting I created just after arriving in Zurich in the beginning of April 2022.
+I created this painting shortly after arriving in Zurich, in early April 2022.
 
 ![](/uploads/Polish_20220415_165605118.webp)
 
@@ -36,8 +34,6 @@ The first painting I created just after arriving in Zurich in the beginning of A
 _Буча/Butcha,_ 2022. Acrylic, canvas. 165 \* 165cm
 
 Simply google: Butcha 2022.
-
-
 
 _Bombshelter_, 2022. Acrylic, canvas, 160\*300 cm.
 
