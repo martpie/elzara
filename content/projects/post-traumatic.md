@@ -10,6 +10,7 @@ highlight: ''
 ![DETI](/uploads/Polish_20220415_165433856.webp)
 
 **ДЕТИ / Dety (Russian: "children") / ДЕ ТИ / De Ty (Ukrainian: "Where are you?")**
+
 2022. Acrylic on canvas, 160 × 200 cm.
 
 **198 children were killed and 385 were injured.**
