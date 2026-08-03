@@ -28,11 +28,5 @@
     "gray-matter": "^4.0.3",
     "prettier": "^3.9.6",
     "typescript": "^7.0.2"
-  },
-  "devEngines": {
-    "packageManager": {
-      "name": "pnpm",
-      "version": "11.18.0"
-    }
   }
 }
