@@ -23,15 +23,11 @@ Nik & Andrea
 
 ![](/uploads/IMG_1579.webp)
 
-![](/uploads/IMG_1582E.webp)
-
 ![](/uploads/IMG_1594E.webp)
 
 ![](/uploads/IMG_1593.webp)
 
 ![](/uploads/IMG_1603.webp)
-
-![](/uploads/IMG_1612.webp)
 
 ![](/uploads/IMG_1619E.webp)
 
