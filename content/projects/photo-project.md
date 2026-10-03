@@ -1,9 +1,9 @@
 ---
-title: Portrait
-thumbnail: /uploads/IMG_1196El.webp
+title: faces
+thumbnail: /uploads/IMG_1672.webp
 publish_date: 2025-06-06
-project_date: 2024-2025
-description: Photo portraits project
+project_date: 2024-2026
+description: Photo portraits
 highlight: ''
 ---
 
@@ -16,6 +16,41 @@ Portraits of the artists, architects, designers, thinkers, creators, humans...
 contact me if you like to see you among them:
 
 elzaraoiseau@gmail.com
+
+![](/uploads/IMG_1572.webp)
+
+Nik & Andrea
+
+![](/uploads/IMG_1579.webp)
+
+![](/uploads/IMG_1582E.webp)
+
+![](/uploads/IMG_1594E.webp)
+
+![](/uploads/IMG_1593.webp)
+
+![](/uploads/IMG_1603.webp)
+
+![](/uploads/IMG_1612.webp)
+
+![](/uploads/IMG_1619E.webp)
+
+![](/uploads/IMG_1621E.webp)
+
+![](/uploads/IMG_1632.webp)
+
+![](/uploads/IMG_1639.webp)
+
+![](/uploads/IMG_1639l.webp)
+
+![](/uploads/IMG_1645E.webp)
+
+![](/uploads/IMG_1672.webp)
+
+
+
+
+
 
 ![](/uploads/IMG_1162El.webp)
 
