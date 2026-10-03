@@ -11,7 +11,7 @@ _There is nothing more important to me in you, than your individuality._
 
 _Elzara O._
 
-Portraits of the artists, architects, designers, thinkers, creators, humans...
+Portraits of the artists, architects, designers, thinkers, creators, Humans...
 
 contact me if you like to see you among them:
 
