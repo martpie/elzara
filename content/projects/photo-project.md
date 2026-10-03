@@ -1,6 +1,6 @@
 ---
 title: Faces
-thumbnail: /uploads/IMG_1672.webp
+thumbnail: /uploads/IMG_1579.webp
 publish_date: 2026-10-03
 project_date: 2024-2026
 description: Photo portraits
@@ -34,6 +34,8 @@ Nik & Andrea
 ![](/uploads/IMG_1621E.webp)
 
 ![](/uploads/IMG_1632.webp)
+
+![](/uploads/IMG_1612.webp)
 
 ![](/uploads/IMG_1639.webp)
 
